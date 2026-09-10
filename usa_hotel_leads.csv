@@ -1,0 +1,320 @@
+id,hotel_name,city,phone,email,website,status,date_discovered,audit_notes
+usa-hotel-001,Baymont Inn and Suites,Austin,+1-512-222-5692,,,invalid_no_email,2026-09-09,No website / OTA dependent
+usa-hotel-002,Omni Hotel & Resorts,Austin,,,,invalid_no_email,2026-09-09,No website / OTA dependent
+usa-hotel-003,1 Hotel Austin,Austin,+1-737-415-9800,,https://www.1hotels.com/austin,invalid_no_email,2026-09-09,Has website
+usa-hotel-004,Hotel Indigo Austin Downtown - University,Austin,+1 512 4811000,hotelindigoatx@gmail.com,https://www.ihg.com/hotelindigo/hotels/us/en/austin/ausit/hoteldetail,verified_valid,2026-09-09,Has website
+usa-hotel-005,Corporate Lodging - Austin,Austin,+1 (512) 478-4500,downtownaustin@placemakr.com,,verified_valid,2026-09-09,No website / OTA dependent
+usa-hotel-006,WorldMark Austin,Austin,,discoveryteam@wyn.com,,verified_valid,2026-09-09,No website / OTA dependent
+usa-hotel-007,The Loren at Lady Bird Lake,Austin,+1-512-580-1182,atx.concierge@thelorenhotel.com,https://www.thelorenhotels.com/austin/,verified_valid,2026-09-09,Has website
+usa-hotel-008,Habitat Suites,Austin,,info@habitatsuites.com,,invalid_no_mx,2026-09-09,No website / OTA dependent
+usa-hotel-009,Austin Proper Hotel,Austin,+1-512-628-1500,ATXP.info@properhotel.com,https://www.properhotel.com/austin/,verified_valid,2026-09-09,Has website
+usa-hotel-010,Home2 Suites by Hilton Pflugerville,Austin,+1 737-610-5151,EmailAUSPF_home2@hilton.com,https://www.hilton.com/en/hotels/auspfht-home2-suites-pflugerville/,verified_valid,2026-09-09,Has website
+usa-hotel-011,Tru by Hilton Pflugerville,Austin,+1 737-610-5100,EmailAUSPV_TRU@hilton.com,,verified_valid,2026-09-09,No website / OTA dependent
+usa-hotel-012,Camp Mabry Lodging,Austin,,campmabrylodging@military.texas.gov,,verified_valid,2026-09-09,No website / OTA dependent
+usa-hotel-013,Tru,Austin,+1 512-385-0200,EmailAUSBW_TRU@hilton.com,,verified_valid,2026-09-09,No website / OTA dependent
+usa-hotel-014,Element North Austin Tech Ridge,Austin,+1737-367-0001,,https://www.marriott.com/ausau,invalid_no_email,2026-09-09,Has website
+usa-hotel-015,Woodspring Suites Round Rock-Austin North,Austin,+1-512-436-0982,aus78753@woodspring.com,https://www.woodspring.com,verified_valid,2026-09-09,Has website
+usa-hotel-016,Hilton Austin,Austin,+1-512-482-8000,AUSCV_GM@hilton.com,https://www.hilton.com/en/hotels/auscvhh-hilton-austin/,verified_valid,2026-09-09,Has website
+usa-hotel-017,Holiday Inn Express & Suites,Austin,+1-512-249-8166,hiexpress.nwaustin@gmail.com,https://www.ihg.com/holidayinnexpress/hotels/us/en/austin/austx/hoteldetail,verified_valid,2026-09-09,Has website
+usa-hotel-018,HomeTowne Studios Austin West,Austin,,,,invalid_no_email,2026-09-09,No website / OTA dependent
+usa-hotel-019,Comfort Suites Austin Nw Lakeline,Austin,+1 512-219-1800,,https://www.choicehotels.com/texas/round-rock/woodspring-hotels,invalid_no_email,2026-09-09,Has website
+usa-hotel-020,Extended Stay America - Austin - Metro,Austin,,,,invalid_no_email,2026-09-09,No website / OTA dependent
+usa-hotel-021,The Kimberly Hotel,New York,,reservations@kimberlyhotel.com,https://www.kimberlyhotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-022,Contact,New York,+1 (212) 265-7400,reservations@hotelatfifthavenyc.com,https://www.hotelatfifthavenuenyc.com/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-023,Virgin Hotels New York Contact Us,New York,+1 (877)499-5277,info.newyork@virginhotels.com,https://virginhotels.com/new-york/contact-us/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-024,Contact Radio Hotel NYC,New York,,info@theradiohotel.com,https://www.theradiohotel.com/contact-us/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-025,Boutique Hotel in SoHo NYC,New York,,info@nomosoho.com,https://www.nomosoho.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-026,Contact Us,New York,+1 (212) 842-5500,stay@slh.com,https://slh.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-027,Hotels in New York City,New York,,talktous@themusehotel.com,https://www.themusehotel.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-028,South Beach Group Hotels,Miami,,bookings@southbeachgroup.com,https://southbeachgroup.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-029,Mid Beach Miami Hotels,Miami,+1 (305) 538-4900,reservations@circa39.com,https://www.circa39.com/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-030,Luxury Boutique Hotel Close to South Beach,Miami,+1 786 257 4500,info@esmehotel.com,https://www.esmehotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-031,Miami Beach Hotel Reservations,Miami,+1 305 699 7830,sales@lennoxhotels.com,https://www.lennoxmiamibeach.com/about/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-032,Casa Boutique Hotel Miami,Miami,+1 (786) 216 7780,frontdesk@casamiamihotel.com,https://www.casamiamihotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-033,Contact Aventura Hotel Koreatown Downtown Los Angeles ...,Los Angeles,,info@theaventurahotel.com,https://www.theaventurahotel.com/Contact-Aventura-Koreatown-Boutique-Downtown-Los-Angeles-California.php,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-034,Contact Us,Los Angeles,+1 (310) 786-2227,info@liveaustinproper.com,https://www.properhotel.com/contact-us/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-035,Los Angeles Best Boutique Hotels: I Tested 14 to Find 10 Best,Los Angeles,,info@swankguide.com,https://www.youtube.com/watch?v=6Fk17YOkbDQ,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-036,New West Los Angeles Boutique Hotel,Los Angeles,+1-310-474-4576,guestservices@oliviahotel.com,https://www.oliviahotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-037,Book our Boutique Hotel in Downtown Los Angeles,Los Angeles,+1 213 725 5900,hello.DTLA@thehox.com,https://thehoxton.com/downtown-la/,invalid_no_mx,2026-09-10,Found via Serper live search
+usa-hotel-038,Cara Hotel I Los Feliz,Los Angeles,,dine@carahotel.com,https://www.carahotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-039,HOTELBEDS USA,Las Vegas,,Email-Support@hotelbedssupportusa.com,https://www.yelp.com/biz/hotelbeds-usa-las-vegas,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-040,Privacy Notice,Las Vegas,,privacy@wynnresorts.com,https://www.wynnlasvegas.com/wynns-independent-contractor-privacy-notice,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-041,Las Vegas Hotel Reservations,Las Vegas,+1-702-489-7500,frontdesk@tblv.vegas,https://www.thunderbirdhotellasv,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-042,Orlando Hotel Suites,Orlando,+1-407-313-4300,reservations@stayskysuitesidriveorlando.com,https://www.stayskysuitesidriveorlando.com/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-043,Contact CFHLA,Orlando,+1 407-313-5000,cfhla_info@cfhla.org,https://www.cfhla.org/contact-cfhla/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-044,How To Pick a Boutique Hotel For Your Vacation,Orlando,+1 (407) 313-7777,info@staydh.com,https://staydh.com/travel/how-to-book-boutique-vacation-hotel,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-045,Email address for La Quinta inn on McCoy Rd by the airport,Orlando,+1-407-204-0638,LQ0171gm@LaQuinta.com,,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-046,Contact Us,Orlando,,stay@slh.com,https://slh.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-047,Contact Us,Austin,+1 (512) 478-4500,austincambriafd@pyramidglobal.com,https://www.cambriahotelaustin.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-048,Frame Hotel,Austin,,stay@framehotel.com,https://framehotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-049,Contact Hotel Viata Austin,Austin,,reservations@hotelviata.com,https://www.hotelviata.com/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-050,Contact,Austin,+1 (512) 478-4500,stay@framehotel.com,https://framehotel.com/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-051,"The State Hotel, Seattle: Downtown Seattle Hotels Near Pike ...",Seattle,,info@statehotel.com,https://www.statehotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-052,Executive Hotel Pacific Downtown Seattle,Seattle,,frontdesk.seattle@executivehotels.net,https://executivehotelseattle.com/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-053,Contact,Seattle,+1 833 623 0111,stay@collegeinnseattle.com,https://www.collegeinnseattle.com/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-054,Harry's Guest House,Seattle,,info@harrysguesthouse.com,https://www.harrysguesthouse.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-055,Did you know there is a one of a kind tiny home hotel in ...,Seattle,,Sales@ForeverTinyHomes.com,https://www.facebook.com/groups/1086821614720060/posts/8362780980457384/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-056,Contact Us,Seattle,+1 (800) 492-9520,reservations@edgewaterhotel.com,https://www.edgewaterhotel.com/contact-us/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-057,Contact Info,Seattle,+1 833 623 0111,info@innatthemarket.com,https://www.innatthemarket.com/pike-place-market-hotel/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-058,Catbird Hotel,Denver,+1 720-990-5555,info@catbirdhotel.com,https://www.catbirdhotel.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-059,Hotels,Denver,,sarai.aragonl@hilton.com,https://www.du.edu/comm-govt/community/resources/visitors/hotels,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-060,Contact Us,Denver,+1-800-819-5053,reservations@therallyhotel.com,https://www.therallyhotel.com/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-061,Hotels & Resorts,Denver,+1-888-293-5041,info@bestchamber.com,https://web.bestchamber.com/Hotels-Resorts?xsort=true,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-062,The Curtis Hotel,Denver,+1 303-571-0300,info@thecurtis.com,https://www.thecurtis.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-063,Clayton Hotel™ Denver,Denver,,sm@claytondenver.com,https://www.claytondenver.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-064,Populus Denver: Boutique Hotel in Downtown Denver,Denver,,info@populusdenver.com,https://populusdenver.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-065,Contact Us At Our San Francisco Hotel,San Francisco,+1 833 602 7111,caprimotelsfo@gmail.com,https://www.sfmotelcapri.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-066,Contact Us in San Francisco,San Francisco,,info@hotelviasf.com,https://www.hotelviasf.com/info/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-067,Contact Us,San Francisco,+1 415 278 3700,reservations@beihotelsf.com,https://beihotelsf.com/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-068,"Luxury Boutique Hotel in San Francisco CA, Market Street",San Francisco,+14242441729,sfp.frontdesk@properhotel.com,https://www.properhotel.com/san-francisco/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-069,"Stay at FOUND Hotel, Nob Hill",San Francisco,+1 (415)-757-0054,guide@carlton.foundhotels.com,https://www.foundhotels.com/nob-hill/,invalid_no_mx,2026-09-10,Found via Serper live search
+usa-hotel-070,Boutique Hotels San Francisco,San Francisco,+14242441729,reservations@hoteldrisco.com,https://hoteldrisco.com/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-071,"Luxury & Boutique Hotels in San Francisco, USA",San Francisco,+14242441729,contact@slh.com,https://slh.com/americas/usa/san-francisco,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-072,Contact Harborside Inn,Boston,,info@harborsideinnboston.com,https://www.harborsideinnboston.com/contact,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-073,Boston Hotels,Boston,+1(800) 752-7077,info@envoyhotel.com,https://www.independentcollection.com/the-envoy,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-074,"Hotel Name Hyatt Centric Faneuil Hall Boston, MA, USA ...",Boston,+1 617 720 1234,Sadie@BringBackDoors.com,https://www.instagram.com/reel/DTTci1siTfu/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-075,Contact our Boutique Hotel Boston,Boston,+18558556001,sales@whitneyhotelboston.com,https://www.whitneyhotelboston.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-076,FOUND Hotel Copley Square,Boston,+1 (202) 234-7800,guide@copleysquarehotel.com,https://www.foundhotels.com/copley-square/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-077,Boston Hotel Contact and Location,Boston,+1(800) 752-7077,CambriaInfo@cambriaboston.com,https://www.cambriaboston.com/contact-location,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-078,Hotel Belleclaire,New York,,belleclairesales@triumphhotels.com,https://www.hotelbelleclaire.com/,verified_valid,2026-09-10,Has website
+usa-hotel-079,Hotel Churchill,New York,+1 973-636-9400,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-080,Greenpoint Branch YMCA,New York,+1 212-912-2260,wsyrooms@ymcanyc.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-081,West Side YMCA,New York,,wsyrooms@ymcanyc.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-082,Country Inn & Suites by Carlson,New York,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-083,Amsterdam Inn,New York,,americana@newyorkhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-084,Conrad,New York,+1 212-945-0100,conradconcierge_newyorkdowntown@ConradHotels.com,https://www.conradnewyork.com/,verified_valid,2026-09-10,Has website
+usa-hotel-085,The Frederick Hotel,New York,,info@triumphny.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-086,Latham,New York,+1 518-362-8991,frontdesk@hielatham.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-087,Mandarin Oriental,New York,+1-212-805-8800,MONYC-RESERVATIONS@MOHG.COM,https://www.mandarinoriental.com/en/new-york/manhattan,verified_valid,2026-09-10,Has website
+usa-hotel-088,Hotel 99,New York,+1 212-222-3799,info@hotel99.com,https://www.hotel99.com/,verified_valid,2026-09-10,Has website
+usa-hotel-089,"The Standard, East Village",New York,+1-212-475-5700,sev.sales@standardhotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-090,New York Loft Hostel,New York,,,https://nylofthostel.com/,invalid_no_email,2026-09-10,Has website
+usa-hotel-091,Tempo,New York,+1-212-262-8100,,https://www.hilton.com/en/hotels/nyctepo-tempo-new-york-times-square/,invalid_no_email,2026-09-10,Has website
+usa-hotel-092,Clarion Hotel Park Avenue,New York,+1 212-804-8880,hello@hotelparkave.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-093,Fitzpatrick Grand Central Hotel,New York,,reservations@fitzpatrickhotels.com,https://www.fitzpatrickhotels.com/fitzpatrick-grand-central.shtml,verified_valid,2026-09-10,Has website
+usa-hotel-094,adour alan ducasse,New York,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-095,St Regis,New York,+1-212-753-4500,stregisny.res@stregis.com,http://www.stregisnewyork.com/,verified_valid,2026-09-10,Has website
+usa-hotel-096,TRYP,New York,+1 (212)-600-2440,help@tryphotelnyc.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-097,Night Hotel,New York,+1-212-866-6400,info@nighthotels.com,https://www.nighthotelbroadway.com,verified_valid,2026-09-10,Has website
+usa-hotel-098,Floral Inn,Los Angeles,+1 (310) 273-2222,tla@stayinglevel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-099,Proper,Los Angeles,+14242441729,Dtlap.info@properhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-100,HollywoodHostels,Los Angeles,+1-800-557-7038,incominghotel@gmail.com,http://www.ushostel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-101,Hollywood Highland Hotel & Hostel,Los Angeles,,,https://www.yelp.com/biz/hollywood-highland-hotel-and-hostel-los-angeles,invalid_no_email,2026-09-10,Has website
+usa-hotel-102,Rodeway Inn,Los Angeles,,laconventioninn17@aol.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-103,Long Beach Motel,Los Angeles,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-104,Luxe Rodeo Drive Hotel,Los Angeles,,,https://www.luxehotels.com/rodeodrive,invalid_no_email,2026-09-10,Has website
+usa-hotel-105,Tradewinds Airport Hotel,Los Angeles,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-106,Hostelling International - Los Angeles/Santa Monica,Los Angeles,+1 (310) 393 9913,reserve@hilosangeles.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-107,Venice Admiral Suites,Los Angeles,,reservations@innatvenicebeach.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-108,Koryu,Los Angeles,,info@thehoteljune.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-109,Ray W. Suites,Los Angeles,+1 310-208-8765,loewshotelsreservations@loewshotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-110,Venice Beach Hostel,Los Angeles,+1 310 452 3052,hollywood@samesun.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-111,Jolly Roger Hotel,Los Angeles,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-112,Oakwood At The Village Redondo Beach,Los Angeles,,reservations@theredondo.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-113,Knights Inn,Los Angeles,,Development@Sonesta.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-114,Lawrence Motel,Los Angeles,,booking@wilshiremotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-115,Maison Los Angeles 1st unit,Los Angeles,+1 213-358-0000,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-116,Banana Bungalow West Hollywood,Los Angeles,,hollywood1@bananabungalows.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-117,Timens House,Los Angeles,+1-818-980-9930,spartakmt@yahoo.com,https://www.northhollywoodboardinghouse.com/,verified_valid,2026-09-10,Has website
+usa-hotel-118,City Suites Hotel,Chicago,,info@chicagocitysuites.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-119,Majestic Inn,Chicago,+1 312-332-5052,EmailCHITD_Hampton@Hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-120,Club Quarters Central Loop Hotel,Chicago,,guestservices@clubquarters.com,https://www.centralloophotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-121,The Ritz-Carlton Chicago,Chicago,+1-312-266-1000,Jeremy.Roberts@ritzcarlton.com,https://www.ritzcarlton.com/en/hotels/chicago,verified_valid,2026-09-10,Has website
+usa-hotel-122,The Royal Sonesta Chicago River North,Chicago,+1-312-755-9703,FrontDesk_RSRiverNorth@sonesta.com,https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/,verified_valid,2026-09-10,Has website
+usa-hotel-123,Holiday Inn Chicago Mart Plaza,Chicago,,hivocoinfo@firsthospitality.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-124,Irving Hotel - SRO,Chicago,+1 888 712 2712,info@chicagoriverhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-125,Urban Holiday Lofts,Chicago,+1 312 352 6949,info@urbanholidayusa.com,www.urbanholidayusa.com,verified_valid,2026-09-10,Has website
+usa-hotel-126,Courtyard Chicago Downtown/River North,Chicago,+1 312-329-2500,cy.chiwb@eccmarriott.com,https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/,invalid_no_mx,2026-09-10,Has website
+usa-hotel-127,City Scene Bed & Breakfast,Chicago,+1-773-549-1743,host@cityscenebb.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-128,"The Langham, Chicago",Chicago,+1 (312) 923 9988,tlchi.info@langhamhotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-129,IHSP Chicago Hostel,Chicago,+1 304 268 8981,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-130,Baumhart Lodging at Loyola University Chicago,Chicago,,loyolalodging@luc.edu,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-131,State and Grand by BridgeStreet,Chicago,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-132,Residence Inn Chicago Downtown/River North,Chicago,+1 312-494-9301,,https://www.marriott.com/chirn,invalid_no_email,2026-09-10,Has website
+usa-hotel-133,SpringHill Suites Chicago Downtown/River North,Chicago,+1 312-644-4071,chinr@whitelodging.com,https://www.marriott.com/chinr,verified_valid,2026-09-10,Has website
+usa-hotel-134,Hyatt Place Chicago / River North,Chicago,+1 312-755-1600,hyattchizd@whitelodging.com,https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-river-north/chizd,verified_valid,2026-09-10,Has website
+usa-hotel-135,Aloft Chicago City Center,Chicago,+1 312-661-1000,aloft3370@whitelodging.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-136,Grand Plaza,Chicago,+1 847-432-0411,,https://www.grandplazapenthouse.com/,invalid_no_email,2026-09-10,Has website
+usa-hotel-137,Manilow Suites at The Grand Plaza,Chicago,,stay@manilowsuites.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-138,Coast Hotel,San Francisco,+1 415 278 3700,info@hotelviasf.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-139,Hotel Abri,San Francisco,+1-415-392-8800,abrfrontdesk@metwestterra.com,https://hotelabrisf.com/,verified_valid,2026-09-10,Has website
+usa-hotel-140,Hotel Union Square,San Francisco,+1 415-771-1400,reservations@chancellorhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-141,The Andrews Hotel,San Francisco,+1-800-926-3739,frontdesk@andrewshotel.com,https://www.andrewshotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-142,Herbert Hotel,San Francisco,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-143,Star Motel,San Francisco,,starmotelsf@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-144,Edward II Inn,San Francisco,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-145,Hi Hostel Downtown,San Francisco,+1-415-788-5604,sfdowntown@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-146,Backpackers Hostel Union Square,San Francisco,,SFDowntown@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-147,Pacific Tradewinds Hostel,San Francisco,+1 415-433-7970,info@sanfranciscohostel.org,https://www.san-francisco-hostel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-148,Sunnyside Hotel,San Francisco,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-149,Courtyard,San Francisco,+1 415-673-4711,,https://www.marriott.com/sfovn,invalid_no_email,2026-09-10,Has website
+usa-hotel-150,The Fitzgerald Hotel,San Francisco,,,http://www.fitzgeraldhotel.com/,invalid_no_email,2026-09-10,Has website
+usa-hotel-151,Dakota Hotel,San Francisco,,,https://www.hostelworld.com/hosteldetails.php/DakotaHostel-SanFrancisco-15459,invalid_no_email,2026-09-10,Has website
+usa-hotel-152,Water's Edge,San Francisco,,watersedge@marinhotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-153,Mayflower Hotel,San Francisco,,info@sfmayflowerhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-154,Metro Hotel,San Francisco,+1 415-861-5364,stay@themetrohotelsf.com,https://www.metrohotelsf.com/,verified_valid,2026-09-10,Has website
+usa-hotel-155,Handlery Union Square Hotel,San Francisco,+1 415 7817800,handlerysf@handlery.com,https://sf.handlery.com/,verified_valid,2026-09-10,Has website
+usa-hotel-156,Hotel North Beach,San Francisco,,,https://www.hotelnorthbeach.com/,invalid_no_email,2026-09-10,Has website
+usa-hotel-157,Inn at Market,San Francisco,+14242441729,sfp.frontdesk@properhotel.com,https://innatmarket.com,verified_valid,2026-09-10,Has website
+usa-hotel-158,Aero Motel,Seattle,,frontdesk.seattle@executivehotels.net,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-159,Adelaide Apartment,Seattle,,guestservicessea@stayinglevel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-160,The Corona,Seattle,+1-206-854-4400,leasing@samis.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-161,HI-Seattle at American Hotels,Seattle,+1-206-512-4171,stay@americanhotelseattle.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-162,Best Western Pioneer Square Hotel,Seattle,+1-206-340-1234,,http://www.pioneersquare.com/,invalid_no_email,2026-09-10,Has website
+usa-hotel-163,Hotel Hotel Hostel,Seattle,+1-206-257-4543,hello@HotelHotel.co,https://hotelhotel.co,verified_valid,2026-09-10,Has website
+usa-hotel-164,Moore Hotel,Seattle,,reservations@moorehotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-165,Pensione Nichols B&B,Seattle,+1-206-441-7125,info@pensionnichols.com,https://www.pensionenichols.com/,invalid_no_mx,2026-09-10,Has website
+usa-hotel-166,Staybridge Suites - South Lake Union,Seattle,+1-206-596-2301,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-167,Belltown Inn,Seattle,+1-206-529-3700,info@belltown-inn.com,https://www.belltown-inn.com/,verified_valid,2026-09-10,Has website
+usa-hotel-168,SpringHill Suites,Seattle,+1-206-254-0500,shs.seadt.gm@marriott.com,https://www.marriott.com/seadt,verified_valid,2026-09-10,Has website
+usa-hotel-169,Ontario Hotel,Seattle,+1-206-841-4005,reservations@edgewaterhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-170,Courtyard,Seattle,+1-206-625-1111,cy.seatc.gm@marriott.com,https://www.marriott.com/seaps,verified_valid,2026-09-10,Has website
+usa-hotel-171,Green Tortoise Hostel,Seattle,+1-206-340-1222,info@greentortoise.net,https://greentortoise.net/,verified_valid,2026-09-10,Has website
+usa-hotel-172,Grand Hyatt Seattle,Seattle,+1-206-774-1234,seattle.grand@hyatt.com,https://seattle.grand.hyatt.com/en/hotel/home.html,verified_valid,2026-09-10,Has website
+usa-hotel-173,Hotel Seattle,Seattle,+1 833 623 0111,reservations@edgewaterhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-174,The Arctic Club Seattle,Seattle,+1-206-340-0340,,https://www.hilton.com/en/hotels/seaacdt-the-arctic-club-seattle/,invalid_no_email,2026-09-10,Has website
+usa-hotel-175,Courtyard by Marriott,Seattle,+1-206-734-4502,can.mehdigil@marriott.com,https://www.marriott.com/seang,verified_valid,2026-09-10,Has website
+usa-hotel-176,College Inn,Seattle,+1-206-633-4441,stay@collegeinnseattle.com,https://www.collegeinnseattle.com/,verified_valid,2026-09-10,Has website
+usa-hotel-177,Hyatt at Olive 8,Seattle,+1-206-695-1234,,https://olive8.hyatt.com/en/hotel/home.html,invalid_no_email,2026-09-10,Has website
+usa-hotel-178,Hampshire House,Boston,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-179,The Westin Boston Seaport District,Boston,+1-617-532-4600,waterfront.sales@westin.com,https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/overview/,verified_valid,2026-09-10,Has website
+usa-hotel-180,Le Meridien Cambridge-MIT,Boston,+1 617-577-0200,cambridgereservations@lemeridiencambridge.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-181,Boston Harbor Hotel,Boston,+1 617 439 7000,reservations@bhh.com,https://www.bostonharborhotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-182,Revere Hotel Boston Common,Boston,+1 617 482 1800,info@reverehotel.com,https://www.reverehotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-183,The Colonnade Hotel,Boston,+1-617-424-7000,reservations@colonnadehotel.com,https://www.colonnadehotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-184,DoubleTree by Hilton Hotel Boston - Downtown,Boston,+1 617-956-7900,EmailBOSCO_Inquiry@hilton.com,https://doubletree3.hilton.com/en/hotels/massachusetts/doubletree-by-hilton-hotel-boston-downtown-BOSCODT/index.html,verified_valid,2026-09-10,Has website
+usa-hotel-185,HI Boston,Boston,+16175369455,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-186,The Eliot Hotel,Boston,+1-617-267-1607,email@eliothotel.com,https://www.eliothotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-187,Hotel Commonwealth,Boston,+1 617-933-5000,info@hotelcommonwealth.com,https://www.hotelcommonwealth.com/,verified_valid,2026-09-10,Has website
+usa-hotel-188,Inn at Longwood Medical,Boston,+1-888-385-6609,info@innatlongwood.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-189,Hyatt Regency Boston,Boston,+1 617-912-1234,qualitybosto@hyatt.com,https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto,verified_valid,2026-09-10,Has website
+usa-hotel-190,The Westin Copley Place,Boston,+1-617-262-9600,westincopley@westin.com,https://www.marriott.com/hotels/travel/boswi-the-westin-copley-place-boston,verified_valid,2026-09-10,Has website
+usa-hotel-191,Mary Prentiss Inn,Boston,,Hello@StayThatch.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-192,Found Hotel Boston Common,Boston,+1 (202) 234-7800,guide@copleysquarehotel.com,https://www.foundhotels.com/found-boston-common,verified_valid,2026-09-10,Has website
+usa-hotel-193,The Revolution Hotel,Boston,+1-617-848-9200,info@THEREVOLUTIONHOTEL.COM,https://therevolutionhotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-194,Hotel AKA Boston Common,Boston,+1 617 772 5800,BCguestservices@stayaka.com,https://www.stayaka.com/hotel-aka-boston-common,verified_valid,2026-09-10,Has website
+usa-hotel-195,"The Ritz-Carlton, Boston",Boston,+1-617-574-7100,RC-Bostonleads@ritzcarlton.com,http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm,verified_valid,2026-09-10,Has website
+usa-hotel-196,Omni Parker House,Boston,+1 617 227-8600,,https://www.omnihotels.com/hotels/boston-parker-house,invalid_no_email,2026-09-10,Has website
+usa-hotel-197,Harborside Inn,Boston,+1 617-723-7500,info@harborsideinnboston.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-198,Miami International Airport Hotel,Miami,,resv@miamiairporthotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-199,Parkway Inn Airport Motel,Miami,+1-305-887-2621,,https://parkwayinnmiami.xyz/,invalid_no_email,2026-09-10,Has website
+usa-hotel-200,Residences at Bayside - by Elite City Stays,Miami,,corporate@roundtrip.travel,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-201,Sra. Betty,Miami,,reservations@thebetsyhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-202,Casa del mango,Miami,,EventsSoBe@mangos.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-203,Casa d dunier,Miami,+1 (786) 216 7780,reservations@vmmiamibeach.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-204,Casa Trinidad at #1,Miami,+1 833 625 3111,reservations@casamiamihotel.comsales,,invalid_no_mx,2026-09-10,No website / OTA dependent
+usa-hotel-205,FANNYLU,Miami,+1 305-534-8800,reservations-miamibeach@faena.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-206,Hotel Marialy,Miami,+1 786-257-4500,reservations@marseilleshotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-207,Miami Sun Hotel,Miami,+13053750786,info@themiamisunhotel.com,https://www.themiamisunhotel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-208,Arlo Wynwood,Miami,+1 786-522-6600,hellowynwood@arlohotels.com,https://arlohotels.com/wynwood/,verified_valid,2026-09-10,Has website
+usa-hotel-209,ex Zubieta,Miami,+1 786-257-4500,MiamiBilling@ihg.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-210,"The Gabriel Miami Downtown, Curio Collection by Hilton",Miami,+1 305-374-0000,EmailMIADT_Hotel@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-211,Hyatt Centric Brickell Miami,Miami,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-212,Kimpton EPIC Hotel,Miami,,frontdesk@epichotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-213,Yotel Miami,Miami,,mia.contact@yotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-214,Yotelpad Miami,Miami,+1 786 785 5700,mia.contact@yotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-215,Staybridge Suites,Miami,+1-786-6291413,StaybridgeReservations@BuffaloLodging.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-216,Parkwood Inn,Orlando,+1 920-868-2046,infolbv@roseninns.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-217,Marriott,Orlando,+1 407-239-4200,customer.advocacy@vacationclub.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-218,Home2 Suites,Orlando,+1-407-839-3331,EmailMCOIN_Home2@hilton.com,https://www.hilton.com/en/hotels/mconmht-home2-suites-orlando-downtown/,verified_valid,2026-09-10,Has website
+usa-hotel-219,Casa da Neia,Orlando,+1 (407) 313-7777,mchotels@micasahotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-220,SpringHill Suites,Orlando,+1 407-960-4624,,https://www.marriott.com/mcows,invalid_no_email,2026-09-10,Has website
+usa-hotel-221,The Florida Hotel and Conference Centre,Orlando,,thefloridahotel@thefloridahotelorlando.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-222,Hilton Garden Inn,Orlando,+1 407-648-4171,EmailHGIOrlandoReservations@buffalolodging.com,https://www.hilton.com/en/hotels/mconmht-home2-suites-orlando-downtown/,verified_valid,2026-09-10,Has website
+usa-hotel-223,Hampton Inn Orlando Southeast Nona,Orlando,+1 407-275-5071,ORLNO_hampton@hilton.com,https://www.hilton.com/en/hotels/mconohx-hampton-orlando-southeast-nona/,verified_valid,2026-09-10,Has website
+usa-hotel-224,Days Inn,Orlando,+1 407-386-3645,,https://www.wyndhamhotels.com/days-inn/orlando-florida/days-inn-and-suites-orlando-airport/overview,invalid_no_email,2026-09-10,Has website
+usa-hotel-225,Residence Inn,Orlando,+1 407-352-2700,,https://www.marriott.com/mcoyr,invalid_no_email,2026-09-10,Has website
+usa-hotel-226,Fairfield Inn & Suites,Orlando,+1 407-888-2666,,https://www.marriott.com/mcoms,invalid_no_email,2026-09-10,Has website
+usa-hotel-227,The Delaney Hotel,Orlando,+1-407-849-0805,info@staydh.com,https://staydh.com/,verified_valid,2026-09-10,Has website
+usa-hotel-228,Home2 Suites by Hilton Orlando Southeast Nona,Orlando,+1-407-281-6620,MCOLN_GM@hilton.com,https://www.hilton.com/en/hotels/mcolnht-home2-suites-orlando-lake-nona/,verified_valid,2026-09-10,Has website
+usa-hotel-229,Marriott's Grande Vista,Orlando,+1-407-238-7676,customer.care@vacationclub.com,https://www.marriott.com/en-us/hotels/mcogv-marriotts-grande-vista/overview/,verified_valid,2026-09-10,Has website
+usa-hotel-230,Westgate Lakes Resort & Spa,Orlando,,ries@wgresorts.com,,invalid_no_mx,2026-09-10,No website / OTA dependent
+usa-hotel-231,Villatel Orlando Resort,Orlando,+1 407-4794055,407-972-1183stay@villatelresort.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-232,Best Western Plus Universal Inn,Orlando,+1 407-226-9119,10285@hotel.bestwestern.com,https://www.bestwestern.com/en_US/book/hotels-in-orlando/best-western-plus-universal-inn/propertyCode.10285.html,invalid_no_mx,2026-09-10,Has website
+usa-hotel-233,Hotel Peter & Paul,New Orleans,,events@hotelpeterandpaul.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-234,Roosevelt Hotel,New Orleans,,,https://therooseveltneworleans.com/,invalid_no_email,2026-09-10,Has website
+usa-hotel-235,The French Market Inn,New Orleans,+1 888-626-2725,guestservice@frenchmarketinn.com,https://www.frenchmarketinn.com/,verified_valid,2026-09-10,Has website
+usa-hotel-236,Hotel Theo New Orleans by Hilton,New Orleans,+1 504-527-0006,gm@hoteltheoneworleans.com,https://www.hoteltheoneworleans.com,verified_valid,2026-09-10,Has website
+usa-hotel-237,The Mercantile Hotel,New Orleans,+1 504 558-1914,mercantilehotelneworleans@innisfreehotels.com,https://themercantilehotelneworleans.com/,verified_valid,2026-09-10,Has website
+usa-hotel-238,Auberge NOLA Hostel,New Orleans,,,https://www.aubergehostels.com/nola,invalid_no_email,2026-09-10,Has website
+usa-hotel-239,Hotel Sainte Hélène,New Orleans,,fddauphine@jcollectionhotels.com,https://www.frenchquarterhotelcollection.com/hotel-st-helene.html,verified_valid,2026-09-10,Has website
+usa-hotel-240,Royal Frenchmen Hotel & Bar,New Orleans,+1 504-619-9660,,https://www.royalfrenchmenhotel.com,invalid_no_email,2026-09-10,Has website
+usa-hotel-241,India House hostel,New Orleans,+1 (504) 821-1904,indiahousehostel@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-242,La Galerie Hotel,New Orleans,+1 504-592-7700,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-243,Bluegreen Club La Pension,New Orleans,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-244,Marquette House,New Orleans,+15045233014,Sugar722@AOL.COM,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-245,Saint Vincent Guest House,New Orleans,,info@saintvincentnola.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-246,Casa N Orléans,New Orleans,+1 (800) 819-5053,info@qandc.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-247,Domio,New Orleans,,bookings@neworleansluxurycollection.com,https://baronne.staydomio.com,verified_valid,2026-09-10,Has website
+usa-hotel-248,London Lodge,New Orleans,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-249,Antebellum Guest House,New Orleans,+1-504-943-1900,,antebellumguesthouse.com,invalid_no_email,2026-09-10,Has website
+usa-hotel-250,Lamothe House,New Orleans,+1 504-947-1161,info@frenchquarterguesthouses.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-251,HI Hostel New Orleans,New Orleans,+1 (504) 603-3850,NewOrleans@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-252,Melrose Mansion,New Orleans,,reservations@melrosemansion.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-253,The Crawford Hotel,Denver,+1-720-460-3700,info@thecrawfordhotel.com,https://www.thecrawfordhotel.com,verified_valid,2026-09-10,Has website
+usa-hotel-254,11th Avenue Hotel and Hostel,Denver,,info@11thavenuehostel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-255,Ember Hostel,Denver,+1-303-942-1633,stay@emberhostels.com,https://www.emberhostels.com/,verified_valid,2026-09-10,Has website
+usa-hotel-256,HomeTowne Studios,Denver,+1 303-275-0840,1092@hometownestudios.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-257,Hostel Fish,Denver,+1-303-954-0962,stay@hostelfish.com,https://hostelfish.com/,verified_valid,2026-09-10,Has website
+usa-hotel-258,Marks Home,Denver,,reservations@therallyhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-259,Limelight Hotel,Denver,,denverfrontdesk@limelighthotels.com,https://www.limelighthotels.com/denver,verified_valid,2026-09-10,Has website
+usa-hotel-260,AC Hotel Denver Downtown,Denver,+1 303-534-5831,achoteldenver@whitelodging.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-261,Westway Motel,Denver,+1 720-990-5555,reservations@themavenhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-262,Red Pine Motel,Denver,+1 720-539-3000,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-263,Belcaro Motel,Denver,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-264,Holiday Motel,Denver,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-265,Airway Motel,Denver,+1 303-214-7888,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-266,The Slate Denver,Denver,+1 303-292-5000,info@sbcos.com,https://www.hilton.com/en/hotels/denvrup-the-slate-denver/,verified_valid,2026-09-10,Has website
+usa-hotel-267,Extended Stay America Select Suites - Denver-Aurora,Denver,+1-303-344-4646,,https://www.extendedstayamerica.com/hotels/co/denver/aurora?channel=gmb-listing&utm_source=google&utm_medium=organic&utm_campaign=gmb_listing,invalid_no_email,2026-09-10,Has website
+usa-hotel-268,Tru by Hilton Denver Airport Tower Road,Denver,+1 303-307-9500,EmailDENNY_TRU@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-269,Homewood Suites by Hilton Denver Airport Tower Road,Denver,+1 303-371-4555,EmailDENIP_Homewood@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-270,Tru by Hilton / Home2 Suites by Hilton,Denver,+1 303-759-1301,EmailDENTI_frontdesk@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-271,Hotel Indigo Denver Downtown - Union Station by IHG,Denver,+1-303-623-4422,info@indigodenver.com,https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail,verified_valid,2026-09-10,Has website
+usa-hotel-272,The Beach Cottages,San Diego,+1 858 483 7440,info@beachcottages.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-273,Homewood Suites,San Diego,+1-858-530-2000,Emailbayside.fd@lodgingdynamics.com,https://www.hilton.com/en/hotels/sanmmhw-homewood-suites-san-diego-central/,verified_valid,2026-09-10,Has website
+usa-hotel-274,Synergy at Mira Bella,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-275,Bayview Inn,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-276,Travel Time Motel,San Diego,+1-888-385-6609,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-277,Harvey's Motel,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-278,Hilton Garden Inn,San Diego,+1 858-676-1660,EmailReservation.emailHGIOT@hgioldtown.com,https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-san-diego-rancho-bernardo-SANBEGI/index.html,verified_valid,2026-09-10,Has website
+usa-hotel-279,"Red Roof Inn - Pacific Beach, San Diego",San Diego,,reservations@thesurferbeachhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-280,Extended Stay America - San Diego - Fashion Valley,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-281,Quality Inn San Diego Downtown North,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-282,Escondido Lodge,San Diego,,hotel@2650escondido.com,https://www.escondidolodge.com/,invalid_no_mx,2026-09-10,Has website
+usa-hotel-283,Howard Johnson Inn And Suites San Diego Area/Chula Vista,San Diego,,accessibility@wyndham.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-284,PB Surf Beachside Inn,San Diego,,jsilver@pacificahost.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-285,Navajo Lodge,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-286,Cassia Hotels,San Diego,+1 6194748811,cassiahotelsnc@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-287,The Pearl Hotel,San Diego,+1 619-226-6100,info@thepearlsd.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-288,The Shoal La Jolla Beach,San Diego,,res@theshoallajolla.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-289,Orli La Jolla,San Diego,,info@stayorli.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-290,Sonesta ES Suites,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-291,Beachcomber Shores,San Diego,,reservations@thesurferbeachhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-292,Econo Lodge,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-293,Americas Best Value Inn-Nashville/Downtown Hotel,Nashville,+1-615-226-9805,,http://www.abvinashvilledowntown.com,invalid_no_email,2026-09-10,Has website
+usa-hotel-294,Residence Inn Nashville Airport,Nashville,+1 615-889-8600,,https://www.marriott.com/bnabn,invalid_no_email,2026-09-10,Has website
+usa-hotel-295,Extended Stay America - Nashville - Airport - Music City,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-296,Crossland Economy Studios - Nashville - Airport - Briley Pkwy.,Nashville,+1 615-361-5900,cambriabna@athenahospitalitygroup.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-297,Regency Inn Express,Nashville,,atrull@nnpinvestment.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-298,Midway Motel,Nashville,+1 (615) 256-7770,info@waymoresnashville.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-299,Scottish Inn,Nashville,+1 615-727-0919,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-300,Airways Motel,Nashville,,cambriabna@athenahospitalitygroup.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-301,SpringHill Suites Nashville Vanderbilt/West End,Nashville,+1 615-988-9930,,https://www.marriott.com/bnavw,invalid_no_email,2026-09-10,Has website
+usa-hotel-302,Residence Inn Nashville Vanderbilt/West End,Nashville,+1 615-988-9920,Sustainability@marriott.com,https://www.marriott.com/bnavb,verified_valid,2026-09-10,Has website
+usa-hotel-303,The Capitol Hotel Downtown Nashville,Nashville,+1-888-385-6609,Capitol@ciahotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-304,Homewood Suites Nashville Downtown,Nashville,+1 615-742-5550,EmailBNADW_Homewood@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-305,The Inn at the Fontanel,Nashville,+1 615 724 1600,sales@fontanelestate.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-306,J White's House,Nashville,+1 (615) 320-0110,info@thejosephnashville.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-307,Residence Inn Nashville Downtown,Nashville,+1 615-514-2501,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-308,Residence Inn Nashville Brentwood,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-309,AC Hotel Nashville Downtown,Nashville,+1 615-514-2500,nashcvc@visitmusiccity.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-310,SpringHill Suites Nashville Downtown,Nashville,,tyler.morgan@marriott.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-311,Classic Southern Mansion on Historic Music Row,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
+usa-hotel-312,Midtown Manhattan NYC Hotels,New York,+1 (212) 265-7400,frontdesk@hotelhendricksny.com,https://www.hotelhendricksny.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-313,Boutique Hotel & Restaurant,Miami,+1 786 257 4500,reservations@cambean.com,https://www.majesticsouthbeach.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-314,The Rover Miami,Miami,,bookings@therovermiami.com,https://www.therovermiami.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-315,Contact,Miami,+1 (305) 538-4900,info@theshepleyhotel.com,https://theshepleyhotel.com/contact/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-316,Hotels in Miami South Beach,Miami,+1 305 604 1000,miamiconcierge@loewshotels.com,https://www.loewshotels.com/miami-beach,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-317,"Hotel Ella: Upscale Boutique Hotel in Austin, TX",Austin,,hello@hotelella.com,https://www.hotelella.com/,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-318,The Inn at Union Square: Boutique Hotel in Downtown San ...,San Francisco,,innatunionsquarefrontdesk@ohrllc.com,https://www.unionsquare.com&nbsp,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-319,"Stylish, Affordable Hotel in Union Square",San Francisco,+1 (415) 660-7876,guidesf@sfo.foundhotels.com,https://www.foundhotels.com/san-francisco/,invalid_no_mx,2026-09-10,Found via Serper live search
