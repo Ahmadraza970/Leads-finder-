@@ -2,363 +2,808 @@ id,hotel_name,city,phone,email,website,status,date_discovered,audit_notes
 usa-hotel-001,Baymont Inn and Suites,Austin,+1-512-222-5692,,,invalid_no_email,2026-09-09,No website / OTA dependent
 usa-hotel-002,Omni Hotel & Resorts,Austin,+1 512-476-3700,,,invalid_no_email,2026-09-09,No website / OTA dependent
 usa-hotel-003,1 Hotel Austin,Austin,+1-737-415-9800,,https://www.1hotels.com/austin,invalid_no_email,2026-09-09,Has website
-usa-hotel-004,Hotel Indigo Austin Downtown - University,Austin,+1 512 4811000,hotelindigoatx@gmail.com,https://www.ihg.com/hotelindigo/hotels/us/en/austin/ausit/hoteldetail,verified_valid,2026-09-09,Has website
-usa-hotel-005,Corporate Lodging - Austin,Austin,+1 (512) 478-4500,downtownaustin@placemakr.com,,verified_valid,2026-09-09,No website / OTA dependent
-usa-hotel-006,WorldMark Austin,Austin,,discoveryteam@wyn.com,,verified_valid,2026-09-09,No website / OTA dependent
-usa-hotel-007,The Loren at Lady Bird Lake,Austin,+1-512-580-1182,atx.concierge@thelorenhotel.com,https://www.thelorenhotels.com/austin/,verified_valid,2026-09-09,Has website
-usa-hotel-008,Habitat Suites,Austin,,info@habitatsuites.com,,invalid_no_mx,2026-09-09,No website / OTA dependent
-usa-hotel-009,Austin Proper Hotel,Austin,+1-512-628-1500,ATXP.info@properhotel.com,https://www.properhotel.com/austin/,verified_valid,2026-09-09,Has website
-usa-hotel-010,Home2 Suites by Hilton Pflugerville,Austin,+1 737-610-5151,EmailAUSPF_home2@hilton.com,https://www.hilton.com/en/hotels/auspfht-home2-suites-pflugerville/,verified_valid,2026-09-09,Has website
-usa-hotel-011,Tru by Hilton Pflugerville,Austin,+1 737-610-5100,EmailAUSPV_TRU@hilton.com,,verified_valid,2026-09-09,No website / OTA dependent
-usa-hotel-012,Camp Mabry Lodging,Austin,,campmabrylodging@military.texas.gov,,verified_valid,2026-09-09,No website / OTA dependent
-usa-hotel-013,Tru,Austin,+1 512-385-0200,EmailAUSBW_TRU@hilton.com,,verified_valid,2026-09-09,No website / OTA dependent
+usa-hotel-004,Hotel Indigo Austin Downtown - University,Austin,+1 512 4811000,hotelindigoatx@gmail.com,https://www.ihg.com/hotelindigo/hotels/us/en/austin/ausit/hoteldetail,sent,2026-09-09,Has website
+usa-hotel-005,Corporate Lodging - Austin,Austin,+1 (512) 478-4500,downtownaustin@placemakr.com,,sent,2026-09-09,No website / OTA dependent
+usa-hotel-006,WorldMark Austin,Austin,,discoveryteam@wyn.com,,sent,2026-09-09,No website / OTA dependent
+usa-hotel-007,The Loren at Lady Bird Lake,Austin,+1-512-580-1182,atx.concierge@thelorenhotel.com,https://www.thelorenhotels.com/austin/,sent,2026-09-09,Has website
+usa-hotel-008,Habitat Suites,Austin,,info@habitatsuites.com,,sent,2026-09-09,No website / OTA dependent
+usa-hotel-009,Austin Proper Hotel,Austin,+1-512-628-1500,ATXP.info@properhotel.com,https://www.properhotel.com/austin/,sent,2026-09-09,Has website
+usa-hotel-010,Home2 Suites by Hilton Pflugerville,Austin,+1 737-610-5151,EmailAUSPF_home2@hilton.com,https://www.hilton.com/en/hotels/auspfht-home2-suites-pflugerville/,sent,2026-09-09,Has website
+usa-hotel-011,Tru by Hilton Pflugerville,Austin,+1 737-610-5100,EmailAUSPV_TRU@hilton.com,,sent,2026-09-09,No website / OTA dependent
+usa-hotel-012,Camp Mabry Lodging,Austin,,campmabrylodging@military.texas.gov,,sent,2026-09-09,No website / OTA dependent
+usa-hotel-013,Tru,Austin,+1 512-385-0200,EmailAUSBW_TRU@hilton.com,,sent,2026-09-09,No website / OTA dependent
 usa-hotel-014,Element North Austin Tech Ridge,Austin,+1737-367-0001,,https://www.marriott.com/ausau,invalid_no_email,2026-09-09,Has website
-usa-hotel-015,Woodspring Suites Round Rock-Austin North,Austin,+1-512-436-0982,aus78753@woodspring.com,https://www.woodspring.com,verified_valid,2026-09-09,Has website
-usa-hotel-016,Hilton Austin,Austin,+1-512-482-8000,AUSCV_GM@hilton.com,https://www.hilton.com/en/hotels/auscvhh-hilton-austin/,verified_valid,2026-09-09,Has website
-usa-hotel-017,Holiday Inn Express & Suites,Austin,+1-512-249-8166,hiexpress.nwaustin@gmail.com,https://www.ihg.com/holidayinnexpress/hotels/us/en/austin/austx/hoteldetail,verified_valid,2026-09-09,Has website
+usa-hotel-015,Woodspring Suites Round Rock-Austin North,Austin,+1-512-436-0982,aus78753@woodspring.com,https://www.woodspring.com,sent,2026-09-09,Has website
+usa-hotel-016,Hilton Austin,Austin,+1-512-482-8000,AUSCV_GM@hilton.com,https://www.hilton.com/en/hotels/auscvhh-hilton-austin/,sent,2026-09-09,Has website
+usa-hotel-017,Holiday Inn Express & Suites,Austin,+1-512-249-8166,hiexpress.nwaustin@gmail.com,https://www.ihg.com/holidayinnexpress/hotels/us/en/austin/austx/hoteldetail,sent,2026-09-09,Has website
 usa-hotel-018,HomeTowne Studios Austin West,Austin,,,,invalid_no_email,2026-09-09,No website / OTA dependent
 usa-hotel-019,Comfort Suites Austin Nw Lakeline,Austin,+1 512-219-1800,,https://www.choicehotels.com/texas/round-rock/woodspring-hotels,invalid_no_email,2026-09-09,Has website
 usa-hotel-020,Extended Stay America - Austin - Metro,Austin,,,,invalid_no_email,2026-09-09,No website / OTA dependent
-usa-hotel-021,The Kimberly Hotel,New York,,reservations@kimberlyhotel.com,https://www.kimberlyhotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-022,Contact,New York,+1 (212) 265-7400,reservations@hotelatfifthavenyc.com,https://www.hotelatfifthavenuenyc.com/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-023,Virgin Hotels New York Contact Us,New York,+1 (877)499-5277,info.newyork@virginhotels.com,https://virginhotels.com/new-york/contact-us/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-024,Contact Radio Hotel NYC,New York,,info@theradiohotel.com,https://www.theradiohotel.com/contact-us/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-025,Boutique Hotel in SoHo NYC,New York,,info@nomosoho.com,https://www.nomosoho.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-026,Contact Us,New York,+1 (212) 842-5500,stay@slh.com,https://slh.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-027,Hotels in New York City,New York,+1 (212) 842-5500,talktous@themusehotel.com,https://www.themusehotel.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-028,South Beach Group Hotels,Miami,+1 786-276-4000,bookings@southbeachgroup.com,https://southbeachgroup.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-029,Mid Beach Miami Hotels,Miami,+1 (305) 538-4900,reservations@circa39.com,https://www.circa39.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-030,Luxury Boutique Hotel Close to South Beach,Miami,+1 786 257 4500,info@esmehotel.com,https://www.esmehotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-031,Miami Beach Hotel Reservations,Miami,+1 305 699 7830,sales@lennoxhotels.com,https://www.lennoxmiamibeach.com/about/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-032,Casa Boutique Hotel Miami,Miami,+1 (786) 216 7780,frontdesk@casamiamihotel.com,https://www.casamiamihotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-033,Contact Aventura Hotel Koreatown Downtown Los Angeles ...,Los Angeles,,info@theaventurahotel.com,https://www.theaventurahotel.com/Contact-Aventura-Koreatown-Boutique-Downtown-Los-Angeles-California.php,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-034,Contact Us,Los Angeles,+1 (310) 786-2227,info@liveaustinproper.com,https://www.properhotel.com/contact-us/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-035,Los Angeles Best Boutique Hotels: I Tested 14 to Find 10 Best,Los Angeles,,info@swankguide.com,https://www.youtube.com/watch?v=6Fk17YOkbDQ,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-036,New West Los Angeles Boutique Hotel,Los Angeles,+1-310-474-4576,guestservices@oliviahotel.com,https://www.oliviahotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-037,Book our Boutique Hotel in Downtown Los Angeles,Los Angeles,+1 213 725 5900,hello.DTLA@thehox.com,https://thehoxton.com/downtown-la/,invalid_no_mx,2026-09-10,Found via Serper live search
-usa-hotel-038,Cara Hotel I Los Feliz,Los Angeles,,dine@carahotel.com,https://www.carahotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-039,HOTELBEDS USA,Las Vegas,,Email-Support@hotelbedssupportusa.com,https://www.yelp.com/biz/hotelbeds-usa-las-vegas,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-040,Privacy Notice,Las Vegas,,privacy@wynnresorts.com,https://www.wynnlasvegas.com/wynns-independent-contractor-privacy-notice,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-041,Las Vegas Hotel Reservations,Las Vegas,+1-702-489-7500,frontdesk@tblv.vegas,https://www.thunderbirdhotellasv,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-042,Orlando Hotel Suites,Orlando,+1-407-313-4300,reservations@stayskysuitesidriveorlando.com,https://www.stayskysuitesidriveorlando.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-043,Contact CFHLA,Orlando,+1 407-313-5000,cfhla_info@cfhla.org,https://www.cfhla.org/contact-cfhla/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-044,How To Pick a Boutique Hotel For Your Vacation,Orlando,+1 (407) 313-7777,info@staydh.com,https://staydh.com/travel/how-to-book-boutique-vacation-hotel,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-045,Email address for La Quinta inn on McCoy Rd by the airport,Orlando,+1-407-204-0638,LQ0171gm@LaQuinta.com,,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-046,Contact Us,Orlando,,stay@slh.com,https://slh.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-047,Contact Us,Austin,+1 (512) 478-4500,austincambriafd@pyramidglobal.com,https://www.cambriahotelaustin.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-048,Frame Hotel,Austin,,stay@framehotel.com,https://framehotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-049,Contact Hotel Viata Austin,Austin,,reservations@hotelviata.com,https://www.hotelviata.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-050,Contact,Austin,+1 (512) 478-4500,stay@framehotel.com,https://framehotel.com/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-051,"The State Hotel, Seattle: Downtown Seattle Hotels Near Pike ...",Seattle,,info@statehotel.com,https://www.statehotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-052,Executive Hotel Pacific Downtown Seattle,Seattle,,frontdesk.seattle@executivehotels.net,https://executivehotelseattle.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-053,Contact,Seattle,+1 833 623 0111,stay@collegeinnseattle.com,https://www.collegeinnseattle.com/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-054,Harry's Guest House,Seattle,+1 (206) 432-9285,info@harrysguesthouse.com,https://www.harrysguesthouse.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-055,Did you know there is a one of a kind tiny home hotel in ...,Seattle,+1 833 623 0111,Sales@ForeverTinyHomes.com,https://www.facebook.com/groups/1086821614720060/posts/8362780980457384/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-056,Contact Us,Seattle,+1 (800) 492-9520,reservations@edgewaterhotel.com,https://www.edgewaterhotel.com/contact-us/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-057,Contact Info,Seattle,+1 833 623 0111,info@innatthemarket.com,https://www.innatthemarket.com/pike-place-market-hotel/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-058,Catbird Hotel,Denver,+1 720-990-5555,info@catbirdhotel.com,https://www.catbirdhotel.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-059,Hotels,Denver,,sarai.aragonl@hilton.com,https://www.du.edu/comm-govt/community/resources/visitors/hotels,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-060,Contact Us,Denver,+1-800-819-5053,reservations@therallyhotel.com,https://www.therallyhotel.com/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-061,Hotels & Resorts,Denver,+1-888-293-5041,info@bestchamber.com,https://web.bestchamber.com/Hotels-Resorts?xsort=true,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-062,The Curtis Hotel,Denver,+1 303-571-0300,info@thecurtis.com,https://www.thecurtis.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-063,Clayton Hotel™ Denver,Denver,,sm@claytondenver.com,https://www.claytondenver.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-064,Populus Denver: Boutique Hotel in Downtown Denver,Denver,,info@populusdenver.com,https://populusdenver.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-065,Contact Us At Our San Francisco Hotel,San Francisco,+1 833 602 7111,caprimotelsfo@gmail.com,https://www.sfmotelcapri.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-066,Contact Us in San Francisco,San Francisco,+1 415 772 5000,info@hotelviasf.com,https://www.hotelviasf.com/info/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-067,Contact Us,San Francisco,+1 415 278 3700,reservations@beihotelsf.com,https://beihotelsf.com/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-068,"Luxury Boutique Hotel in San Francisco CA, Market Street",San Francisco,+14242441729,sfp.frontdesk@properhotel.com,https://www.properhotel.com/san-francisco/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-069,"Stay at FOUND Hotel, Nob Hill",San Francisco,+1 (415)-757-0054,guide@carlton.foundhotels.com,https://www.foundhotels.com/nob-hill/,invalid_no_mx,2026-09-10,Found via Serper live search
-usa-hotel-070,Boutique Hotels San Francisco,San Francisco,+14242441729,reservations@hoteldrisco.com,https://hoteldrisco.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-071,"Luxury & Boutique Hotels in San Francisco, USA",San Francisco,+14242441729,contact@slh.com,https://slh.com/americas/usa/san-francisco,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-072,Contact Harborside Inn,Boston,,info@harborsideinnboston.com,https://www.harborsideinnboston.com/contact,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-073,Boston Hotels,Boston,+1(800) 752-7077,info@envoyhotel.com,https://www.independentcollection.com/the-envoy,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-074,"Hotel Name Hyatt Centric Faneuil Hall Boston, MA, USA ...",Boston,+1 617 720 1234,Sadie@BringBackDoors.com,https://www.instagram.com/reel/DTTci1siTfu/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-075,Contact our Boutique Hotel Boston,Boston,+18558556001,sales@whitneyhotelboston.com,https://www.whitneyhotelboston.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-076,FOUND Hotel Copley Square,Boston,+1 (202) 234-7800,guide@copleysquarehotel.com,https://www.foundhotels.com/copley-square/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-077,Boston Hotel Contact and Location,Boston,+1(800) 752-7077,CambriaInfo@cambriaboston.com,https://www.cambriaboston.com/contact-location,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-078,Hotel Belleclaire,New York,,belleclairesales@triumphhotels.com,https://www.hotelbelleclaire.com/,verified_valid,2026-09-10,Has website
-usa-hotel-079,Hotel Churchill,New York,+1 973-636-9400,reservations@empirehotelnyc.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-080,Greenpoint Branch YMCA,New York,+1 212-912-2260,wsyrooms@ymcanyc.org,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-081,West Side YMCA,New York,,wsyrooms@ymcanyc.org,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-021,The Kimberly Hotel,New York,,reservations@kimberlyhotel.com,https://www.kimberlyhotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-022,Contact,New York,+1 (212) 265-7400,reservations@hotelatfifthavenyc.com,https://www.hotelatfifthavenuenyc.com/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-023,Virgin Hotels New York Contact Us,New York,+1 (877)499-5277,info.newyork@virginhotels.com,https://virginhotels.com/new-york/contact-us/,sent,2026-09-10,Found via Serper live search
+usa-hotel-024,Contact Radio Hotel NYC,New York,,info@theradiohotel.com,https://www.theradiohotel.com/contact-us/,sent,2026-09-10,Found via Serper live search
+usa-hotel-025,Boutique Hotel in SoHo NYC,New York,,info@nomosoho.com,https://www.nomosoho.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-026,Contact Us,New York,+1 (212) 842-5500,stay@slh.com,https://slh.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-027,Hotels in New York City,New York,+1 (212) 842-5500,talktous@themusehotel.com,https://www.themusehotel.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-028,South Beach Group Hotels,Miami,+1 786-276-4000,bookings@southbeachgroup.com,https://southbeachgroup.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-029,Mid Beach Miami Hotels,Miami,+1 (305) 538-4900,reservations@circa39.com,https://www.circa39.com/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-030,Luxury Boutique Hotel Close to South Beach,Miami,+1 786 257 4500,info@esmehotel.com,https://www.esmehotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-031,Miami Beach Hotel Reservations,Miami,+1 305 699 7830,sales@lennoxhotels.com,https://www.lennoxmiamibeach.com/about/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-032,Casa Boutique Hotel Miami,Miami,+1 (786) 216 7780,frontdesk@casamiamihotel.com,https://www.casamiamihotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-033,Contact Aventura Hotel Koreatown Downtown Los Angeles ...,Los Angeles,,info@theaventurahotel.com,https://www.theaventurahotel.com/Contact-Aventura-Koreatown-Boutique-Downtown-Los-Angeles-California.php,sent,2026-09-10,Found via Serper live search
+usa-hotel-034,Contact Us,Los Angeles,+1 (310) 786-2227,info@liveaustinproper.com,https://www.properhotel.com/contact-us/,sent,2026-09-10,Found via Serper live search
+usa-hotel-035,Los Angeles Best Boutique Hotels: I Tested 14 to Find 10 Best,Los Angeles,,info@swankguide.com,https://www.youtube.com/watch?v=6Fk17YOkbDQ,sent,2026-09-10,Found via Serper live search
+usa-hotel-036,New West Los Angeles Boutique Hotel,Los Angeles,+1-310-474-4576,guestservices@oliviahotel.com,https://www.oliviahotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-037,Book our Boutique Hotel in Downtown Los Angeles,Los Angeles,+1 213 725 5900,hello.DTLA@thehox.com,https://thehoxton.com/downtown-la/,sent,2026-09-10,Found via Serper live search
+usa-hotel-038,Cara Hotel I Los Feliz,Los Angeles,,dine@carahotel.com,https://www.carahotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-039,HOTELBEDS USA,Las Vegas,,Email-Support@hotelbedssupportusa.com,https://www.yelp.com/biz/hotelbeds-usa-las-vegas,sent,2026-09-10,Found via Serper live search
+usa-hotel-040,Privacy Notice,Las Vegas,,privacy@wynnresorts.com,https://www.wynnlasvegas.com/wynns-independent-contractor-privacy-notice,sent,2026-09-10,Found via Serper live search
+usa-hotel-041,Las Vegas Hotel Reservations,Las Vegas,+1-702-489-7500,frontdesk@tblv.vegas,https://www.thunderbirdhotellasv,sent,2026-09-10,Found via Serper live search
+usa-hotel-042,Orlando Hotel Suites,Orlando,+1-407-313-4300,reservations@stayskysuitesidriveorlando.com,https://www.stayskysuitesidriveorlando.com/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-043,Contact CFHLA,Orlando,+1 407-313-5000,cfhla_info@cfhla.org,https://www.cfhla.org/contact-cfhla/,sent,2026-09-10,Found via Serper live search
+usa-hotel-044,How To Pick a Boutique Hotel For Your Vacation,Orlando,+1 (407) 313-7777,info@staydh.com,https://staydh.com/travel/how-to-book-boutique-vacation-hotel,sent,2026-09-10,Found via Serper live search
+usa-hotel-045,Email address for La Quinta inn on McCoy Rd by the airport,Orlando,+1-407-204-0638,LQ0171gm@LaQuinta.com,,sent,2026-09-10,Found via Serper live search
+usa-hotel-046,Contact Us,Orlando,,stay@slh.com,https://slh.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-047,Contact Us,Austin,+1 (512) 478-4500,austincambriafd@pyramidglobal.com,https://www.cambriahotelaustin.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-048,Frame Hotel,Austin,,stay@framehotel.com,https://framehotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-049,Contact Hotel Viata Austin,Austin,,reservations@hotelviata.com,https://www.hotelviata.com/contact/,sent,2026-09-10,"Found via Serper live search | Hotel VIA replied 2026-09-15 - real interest, waiting for follow-up"
+usa-hotel-050,Contact,Austin,+1 (512) 478-4500,stay@framehotel.com,https://framehotel.com/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-051,"The State Hotel, Seattle: Downtown Seattle Hotels Near Pike ...",Seattle,,info@statehotel.com,https://www.statehotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-052,Executive Hotel Pacific Downtown Seattle,Seattle,,frontdesk.seattle@executivehotels.net,https://executivehotelseattle.com/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-053,Contact,Seattle,+1 833 623 0111,stay@collegeinnseattle.com,https://www.collegeinnseattle.com/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-054,Harry's Guest House,Seattle,+1 (206) 432-9285,info@harrysguesthouse.com,https://www.harrysguesthouse.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-055,Did you know there is a one of a kind tiny home hotel in ...,Seattle,+1 833 623 0111,Sales@ForeverTinyHomes.com,https://www.facebook.com/groups/1086821614720060/posts/8362780980457384/,sent,2026-09-10,Found via Serper live search
+usa-hotel-056,Contact Us,Seattle,+1 (800) 492-9520,reservations@edgewaterhotel.com,https://www.edgewaterhotel.com/contact-us/,sent,2026-09-10,Found via Serper live search
+usa-hotel-057,Contact Info,Seattle,+1 833 623 0111,info@innatthemarket.com,https://www.innatthemarket.com/pike-place-market-hotel/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-058,Catbird Hotel,Denver,+1 720-990-5555,info@catbirdhotel.com,https://www.catbirdhotel.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-059,Hotels,Denver,,sarai.aragonl@hilton.com,https://www.du.edu/comm-govt/community/resources/visitors/hotels,sent,2026-09-10,Found via Serper live search
+usa-hotel-060,Contact Us,Denver,+1-800-819-5053,reservations@therallyhotel.com,https://www.therallyhotel.com/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-061,Hotels & Resorts,Denver,+1-888-293-5041,info@bestchamber.com,https://web.bestchamber.com/Hotels-Resorts?xsort=true,sent,2026-09-10,Found via Serper live search
+usa-hotel-062,The Curtis Hotel,Denver,+1 303-571-0300,info@thecurtis.com,https://www.thecurtis.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-063,Clayton Hotel™ Denver,Denver,,sm@claytondenver.com,https://www.claytondenver.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-064,Populus Denver: Boutique Hotel in Downtown Denver,Denver,,info@populusdenver.com,https://populusdenver.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-065,Contact Us At Our San Francisco Hotel,San Francisco,+1 833 602 7111,caprimotelsfo@gmail.com,https://www.sfmotelcapri.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-066,Contact Us in San Francisco,San Francisco,+1 415 772 5000,info@hotelviasf.com,https://www.hotelviasf.com/info/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-067,Contact Us,San Francisco,+1 415 278 3700,reservations@beihotelsf.com,https://beihotelsf.com/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-068,"Luxury Boutique Hotel in San Francisco CA, Market Street",San Francisco,+14242441729,sfp.frontdesk@properhotel.com,https://www.properhotel.com/san-francisco/,sent,2026-09-10,Found via Serper live search
+usa-hotel-069,"Stay at FOUND Hotel, Nob Hill",San Francisco,+1 (415)-757-0054,guide@carlton.foundhotels.com,https://www.foundhotels.com/nob-hill/,sent,2026-09-10,Found via Serper live search
+usa-hotel-070,Boutique Hotels San Francisco,San Francisco,+14242441729,reservations@hoteldrisco.com,https://hoteldrisco.com/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-071,"Luxury & Boutique Hotels in San Francisco, USA",San Francisco,+14242441729,contact@slh.com,https://slh.com/americas/usa/san-francisco,sent,2026-09-10,Found via Serper live search
+usa-hotel-072,Contact Harborside Inn,Boston,,info@harborsideinnboston.com,https://www.harborsideinnboston.com/contact,sent,2026-09-10,Found via Serper live search
+usa-hotel-073,Boston Hotels,Boston,+1(800) 752-7077,info@envoyhotel.com,https://www.independentcollection.com/the-envoy,sent,2026-09-10,Found via Serper live search
+usa-hotel-074,"Hotel Name Hyatt Centric Faneuil Hall Boston, MA, USA ...",Boston,+1 617 720 1234,Sadie@BringBackDoors.com,https://www.instagram.com/reel/DTTci1siTfu/,sent,2026-09-10,Found via Serper live search
+usa-hotel-075,Contact our Boutique Hotel Boston,Boston,+18558556001,sales@whitneyhotelboston.com,https://www.whitneyhotelboston.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-076,FOUND Hotel Copley Square,Boston,+1 (202) 234-7800,guide@copleysquarehotel.com,https://www.foundhotels.com/copley-square/,sent,2026-09-10,Found via Serper live search
+usa-hotel-077,Boston Hotel Contact and Location,Boston,+1(800) 752-7077,CambriaInfo@cambriaboston.com,https://www.cambriaboston.com/contact-location,sent,2026-09-10,Found via Serper live search
+usa-hotel-078,Hotel Belleclaire,New York,,belleclairesales@triumphhotels.com,https://www.hotelbelleclaire.com/,sent,2026-09-10,Has website
+usa-hotel-079,Hotel Churchill,New York,+1 973-636-9400,reservations@empirehotelnyc.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-080,Greenpoint Branch YMCA,New York,+1 212-912-2260,wsyrooms@ymcanyc.org,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-081,West Side YMCA,New York,,wsyrooms@ymcanyc.org,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-082,Country Inn & Suites by Carlson,New York,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-083,Amsterdam Inn,New York,+1(212) 354-8844,americana@newyorkhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-084,Conrad,New York,+1 212-945-0100,conradconcierge_newyorkdowntown@ConradHotels.com,https://www.conradnewyork.com/,verified_valid,2026-09-10,Has website
-usa-hotel-085,The Frederick Hotel,New York,,info@triumphny.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-086,Latham,New York,+1 518-362-8991,frontdesk@hielatham.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-087,Mandarin Oriental,New York,+1-212-805-8800,MONYC-RESERVATIONS@MOHG.COM,https://www.mandarinoriental.com/en/new-york/manhattan,verified_valid,2026-09-10,Has website
-usa-hotel-088,Hotel 99,New York,+1 212-222-3799,info@hotel99.com,https://www.hotel99.com/,verified_valid,2026-09-10,Has website
-usa-hotel-089,"The Standard, East Village",New York,+1-212-475-5700,sev.sales@standardhotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-083,Amsterdam Inn,New York,+1(212) 354-8844,americana@newyorkhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-084,Conrad,New York,+1 212-945-0100,conradconcierge_newyorkdowntown@ConradHotels.com,https://www.conradnewyork.com/,sent,2026-09-10,Has website
+usa-hotel-085,The Frederick Hotel,New York,,info@triumphny.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-086,Latham,New York,+1 518-362-8991,frontdesk@hielatham.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-087,Mandarin Oriental,New York,+1-212-805-8800,MONYC-RESERVATIONS@MOHG.COM,https://www.mandarinoriental.com/en/new-york/manhattan,sent,2026-09-10,Has website
+usa-hotel-088,Hotel 99,New York,+1 212-222-3799,info@hotel99.com,https://www.hotel99.com/,sent,2026-09-10,Has website
+usa-hotel-089,"The Standard, East Village",New York,+1-212-475-5700,sev.sales@standardhotels.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-090,New York Loft Hostel,New York,,,https://nylofthostel.com/,invalid_no_email,2026-09-10,Has website
-usa-hotel-091,Tempo,New York,+1-212-262-8100,EmailNYCTE_FO@hilton.com,https://www.hilton.com/en/hotels/nyctepo-tempo-new-york-times-square/,verified_valid,2026-09-10,Has website
-usa-hotel-092,Clarion Hotel Park Avenue,New York,+1 212-804-8880,hello@hotelparkave.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-093,Fitzpatrick Grand Central Hotel,New York,+1 212-351-6800,reservations@fitzpatrickhotels.com,https://www.fitzpatrickhotels.com/fitzpatrick-grand-central.shtml,verified_valid,2026-09-10,Has website
+usa-hotel-091,Tempo,New York,+1-212-262-8100,EmailNYCTE_FO@hilton.com,https://www.hilton.com/en/hotels/nyctepo-tempo-new-york-times-square/,sent,2026-09-10,Has website
+usa-hotel-092,Clarion Hotel Park Avenue,New York,+1 212-804-8880,hello@hotelparkave.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-093,Fitzpatrick Grand Central Hotel,New York,+1 212-351-6800,reservations@fitzpatrickhotels.com,https://www.fitzpatrickhotels.com/fitzpatrick-grand-central.shtml,sent,2026-09-10,Has website
 usa-hotel-094,adour alan ducasse,New York,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-095,St Regis,New York,+1-212-753-4500,stregisny.res@stregis.com,http://www.stregisnewyork.com/,verified_valid,2026-09-10,Has website
-usa-hotel-096,TRYP,New York,+1 (212)-600-2440,help@tryphotelnyc.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-097,Night Hotel,New York,+1-212-866-6400,info@nighthotels.com,https://www.nighthotelbroadway.com,verified_valid,2026-09-10,Has website
-usa-hotel-098,Floral Inn,Los Angeles,+1 (310) 273-2222,tla@stayinglevel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-099,Proper,Los Angeles,+14242441729,Dtlap.info@properhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-100,HollywoodHostels,Los Angeles,+1-800-557-7038,incominghotel@gmail.com,http://www.ushostel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-095,St Regis,New York,+1-212-753-4500,stregisny.res@stregis.com,http://www.stregisnewyork.com/,sent,2026-09-10,Has website
+usa-hotel-096,TRYP,New York,+1 (212)-600-2440,help@tryphotelnyc.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-097,Night Hotel,New York,+1-212-866-6400,info@nighthotels.com,https://www.nighthotelbroadway.com,sent,2026-09-10,Has website
+usa-hotel-098,Floral Inn,Los Angeles,+1 (310) 273-2222,tla@stayinglevel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-099,Proper,Los Angeles,+14242441729,Dtlap.info@properhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-100,HollywoodHostels,Los Angeles,+1-800-557-7038,incominghotel@gmail.com,http://www.ushostel.com/,sent,2026-09-10,Has website
 usa-hotel-101,Hollywood Highland Hotel & Hostel,Los Angeles,,,https://www.yelp.com/biz/hollywood-highland-hotel-and-hostel-los-angeles,invalid_no_email,2026-09-10,Has website
-usa-hotel-102,Rodeway Inn,Los Angeles,,laconventioninn17@aol.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-102,Rodeway Inn,Los Angeles,,laconventioninn17@aol.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-103,Long Beach Motel,Los Angeles,,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-104,Luxe Rodeo Drive Hotel,Los Angeles,,,https://www.luxehotels.com/rodeodrive,invalid_no_email,2026-09-10,Has website
 usa-hotel-105,Tradewinds Airport Hotel,Los Angeles,+1-888-385-6609,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-106,Hostelling International - Los Angeles/Santa Monica,Los Angeles,+1 (310) 393 9913,reserve@hilosangeles.org,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-107,Venice Admiral Suites,Los Angeles,,reservations@innatvenicebeach.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-108,Koryu,Los Angeles,,info@thehoteljune.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-109,Ray W. Suites,Los Angeles,+1 310-208-8765,loewshotelsreservations@loewshotels.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-110,Venice Beach Hostel,Los Angeles,+1 310 452 3052,hollywood@samesun.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-106,Hostelling International - Los Angeles/Santa Monica,Los Angeles,+1 (310) 393 9913,reserve@hilosangeles.org,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-107,Venice Admiral Suites,Los Angeles,,reservations@innatvenicebeach.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-108,Koryu,Los Angeles,,info@thehoteljune.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-109,Ray W. Suites,Los Angeles,+1 310-208-8765,loewshotelsreservations@loewshotels.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-110,Venice Beach Hostel,Los Angeles,+1 310 452 3052,hollywood@samesun.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-111,Jolly Roger Hotel,Los Angeles,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-112,Oakwood At The Village Redondo Beach,Los Angeles,,reservations@theredondo.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-113,Knights Inn,Los Angeles,,Development@Sonesta.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-114,Lawrence Motel,Los Angeles,,booking@wilshiremotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-115,Maison Los Angeles 1st unit,Los Angeles,+1 213-358-0000,frontdesk@hometelsuites.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-116,Banana Bungalow West Hollywood,Los Angeles,,hollywood1@bananabungalows.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-117,Timens House,Los Angeles,+1-818-980-9930,spartakmt@yahoo.com,https://www.northhollywoodboardinghouse.com/,verified_valid,2026-09-10,Has website
-usa-hotel-118,City Suites Hotel,Chicago,,info@chicagocitysuites.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-119,Majestic Inn,Chicago,+1 312-332-5052,EmailCHITD_Hampton@Hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-120,Club Quarters Central Loop Hotel,Chicago,+1 (203) 905-2100,guestservices@clubquarters.com,https://www.centralloophotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-121,The Ritz-Carlton Chicago,Chicago,+1-312-266-1000,Jeremy.Roberts@ritzcarlton.com,https://www.ritzcarlton.com/en/hotels/chicago,verified_valid,2026-09-10,Has website
-usa-hotel-122,The Royal Sonesta Chicago River North,Chicago,+1-312-755-9703,FrontDesk_RSRiverNorth@sonesta.com,https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/,verified_valid,2026-09-10,Has website
-usa-hotel-123,Holiday Inn Chicago Mart Plaza,Chicago,+1-312-8365000,hivocoinfo@firsthospitality.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-124,Irving Hotel - SRO,Chicago,+1 888 712 2712,info@chicagoriverhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-125,Urban Holiday Lofts,Chicago,+1 312 352 6949,info@urbanholidayusa.com,www.urbanholidayusa.com,verified_valid,2026-09-10,Has website
-usa-hotel-126,Courtyard Chicago Downtown/River North,Chicago,+1 312-329-2500,cy.chiwb@eccmarriott.com,https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/,invalid_no_mx,2026-09-10,Has website
-usa-hotel-127,City Scene Bed & Breakfast,Chicago,+1-773-549-1743,host@cityscenebb.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-128,"The Langham, Chicago",Chicago,+1 (312) 923 9988,tlchi.info@langhamhotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-112,Oakwood At The Village Redondo Beach,Los Angeles,,reservations@theredondo.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-113,Knights Inn,Los Angeles,,Development@Sonesta.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-114,Lawrence Motel,Los Angeles,,booking@wilshiremotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-115,Maison Los Angeles 1st unit,Los Angeles,+1 213-358-0000,frontdesk@hometelsuites.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-116,Banana Bungalow West Hollywood,Los Angeles,,hollywood1@bananabungalows.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-117,Timens House,Los Angeles,+1-818-980-9930,spartakmt@yahoo.com,https://www.northhollywoodboardinghouse.com/,sent,2026-09-10,Has website
+usa-hotel-118,City Suites Hotel,Chicago,,info@chicagocitysuites.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-119,Majestic Inn,Chicago,+1 312-332-5052,EmailCHITD_Hampton@Hilton.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-120,Club Quarters Central Loop Hotel,Chicago,+1 (203) 905-2100,guestservices@clubquarters.com,https://www.centralloophotel.com/,sent,2026-09-10,Has website
+usa-hotel-121,The Ritz-Carlton Chicago,Chicago,+1-312-266-1000,Jeremy.Roberts@ritzcarlton.com,https://www.ritzcarlton.com/en/hotels/chicago,sent,2026-09-10,Has website
+usa-hotel-122,The Royal Sonesta Chicago River North,Chicago,+1-312-755-9703,FrontDesk_RSRiverNorth@sonesta.com,https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/,sent,2026-09-10,Has website
+usa-hotel-123,Holiday Inn Chicago Mart Plaza,Chicago,+1-312-8365000,hivocoinfo@firsthospitality.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-124,Irving Hotel - SRO,Chicago,+1 888 712 2712,info@chicagoriverhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-125,Urban Holiday Lofts,Chicago,+1 312 352 6949,info@urbanholidayusa.com,www.urbanholidayusa.com,sent,2026-09-10,Has website
+usa-hotel-126,Courtyard Chicago Downtown/River North,Chicago,+1 312-329-2500,cy.chiwb@eccmarriott.com,https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/,invalid_non_hotel,2026-09-10,Has website
+usa-hotel-127,City Scene Bed & Breakfast,Chicago,+1-773-549-1743,host@cityscenebb.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-128,"The Langham, Chicago",Chicago,+1 (312) 923 9988,tlchi.info@langhamhotels.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-129,IHSP Chicago Hostel,Chicago,+1 304 268 8981,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-130,Baumhart Lodging at Loyola University Chicago,Chicago,,loyolalodging@luc.edu,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-130,Baumhart Lodging at Loyola University Chicago,Chicago,,loyolalodging@luc.edu,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-131,State and Grand by BridgeStreet,Chicago,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-132,Residence Inn Chicago Downtown/River North,Chicago,+1 312-494-9301,chirn@whitelodging.com,https://www.marriott.com/chirn,verified_valid,2026-09-10,Has website
-usa-hotel-133,SpringHill Suites Chicago Downtown/River North,Chicago,+1 312-644-4071,chinr@whitelodging.com,https://www.marriott.com/chinr,verified_valid,2026-09-10,Has website
-usa-hotel-134,Hyatt Place Chicago / River North,Chicago,+1 312-755-1600,hyattchizd@whitelodging.com,https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-river-north/chizd,verified_valid,2026-09-10,Has website
-usa-hotel-135,Aloft Chicago City Center,Chicago,+1 312-661-1000,aloft3370@whitelodging.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-132,Residence Inn Chicago Downtown/River North,Chicago,+1 312-494-9301,chirn@whitelodging.com,https://www.marriott.com/chirn,sent,2026-09-10,Has website
+usa-hotel-133,SpringHill Suites Chicago Downtown/River North,Chicago,+1 312-644-4071,chinr@whitelodging.com,https://www.marriott.com/chinr,sent,2026-09-10,Has website
+usa-hotel-134,Hyatt Place Chicago / River North,Chicago,+1 312-755-1600,hyattchizd@whitelodging.com,https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-river-north/chizd,sent,2026-09-10,Has website
+usa-hotel-135,Aloft Chicago City Center,Chicago,+1 312-661-1000,aloft3370@whitelodging.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-136,Grand Plaza,Chicago,+1 847-432-0411,,https://www.grandplazapenthouse.com/,invalid_no_email,2026-09-10,Has website
-usa-hotel-137,Manilow Suites at The Grand Plaza,Chicago,,stay@manilowsuites.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-138,Coast Hotel,San Francisco,+1 415 278 3700,info@hotelviasf.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-139,Hotel Abri,San Francisco,+1-415-392-8800,abrfrontdesk@metwestterra.com,https://hotelabrisf.com/,verified_valid,2026-09-10,Has website
-usa-hotel-140,Hotel Union Square,San Francisco,+1 415-771-1400,reservations@chancellorhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-141,The Andrews Hotel,San Francisco,+1-800-926-3739,frontdesk@andrewshotel.com,https://www.andrewshotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-142,Herbert Hotel,San Francisco,,info@theherberthotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-143,Star Motel,San Francisco,,starmotelsf@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-137,Manilow Suites at The Grand Plaza,Chicago,,stay@manilowsuites.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-138,Coast Hotel,San Francisco,+1 415 278 3700,info@hotelviasf.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-139,Hotel Abri,San Francisco,+1-415-392-8800,abrfrontdesk@metwestterra.com,https://hotelabrisf.com/,sent,2026-09-10,Has website
+usa-hotel-140,Hotel Union Square,San Francisco,+1 415-771-1400,reservations@chancellorhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-141,The Andrews Hotel,San Francisco,+1-800-926-3739,frontdesk@andrewshotel.com,https://www.andrewshotel.com/,sent,2026-09-10,Has website
+usa-hotel-142,Herbert Hotel,San Francisco,,info@theherberthotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-143,Star Motel,San Francisco,,starmotelsf@gmail.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-144,Edward II Inn,San Francisco,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-145,Hi Hostel Downtown,San Francisco,+1-415-788-5604,sfdowntown@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-146,Backpackers Hostel Union Square,San Francisco,,SFDowntown@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-147,Pacific Tradewinds Hostel,San Francisco,+1 415-433-7970,info@sanfranciscohostel.org,https://www.san-francisco-hostel.com/,verified_valid,2026-09-10,Has website
+usa-hotel-145,Hi Hostel Downtown,San Francisco,+1-415-788-5604,sfdowntown@hiusa.org,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-146,Backpackers Hostel Union Square,San Francisco,,SFDowntown@hiusa.org,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-147,Pacific Tradewinds Hostel,San Francisco,+1 415-433-7970,info@sanfranciscohostel.org,https://www.san-francisco-hostel.com/,sent,2026-09-10,Has website
 usa-hotel-148,Sunnyside Hotel,San Francisco,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-149,Courtyard,San Francisco,+1 415-673-4711,courtyardunionsquarefd@gmail.com,https://www.marriott.com/sfovn,verified_valid,2026-09-10,Has website
+usa-hotel-149,Courtyard,San Francisco,+1 415-673-4711,courtyardunionsquarefd@gmail.com,https://www.marriott.com/sfovn,sent,2026-09-10,Has website
 usa-hotel-150,The Fitzgerald Hotel,San Francisco,,,http://www.fitzgeraldhotel.com/,invalid_no_email,2026-09-10,Has website
 usa-hotel-151,Dakota Hotel,San Francisco,,,https://www.hostelworld.com/hosteldetails.php/DakotaHostel-SanFrancisco-15459,invalid_no_email,2026-09-10,Has website
-usa-hotel-152,Water's Edge,San Francisco,,watersedge@marinhotels.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-153,Mayflower Hotel,San Francisco,+1 415-673-7010,info@sfmayflowerhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-154,Metro Hotel,San Francisco,+1 415-861-5364,stay@themetrohotelsf.com,https://www.metrohotelsf.com/,verified_valid,2026-09-10,Has website
-usa-hotel-155,Handlery Union Square Hotel,San Francisco,+1 415 7817800,handlerysf@handlery.com,https://sf.handlery.com/,verified_valid,2026-09-10,Has website
+usa-hotel-152,Water's Edge,San Francisco,,watersedge@marinhotels.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-153,Mayflower Hotel,San Francisco,+1 415-673-7010,info@sfmayflowerhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-154,Metro Hotel,San Francisco,+1 415-861-5364,stay@themetrohotelsf.com,https://www.metrohotelsf.com/,sent,2026-09-10,Has website
+usa-hotel-155,Handlery Union Square Hotel,San Francisco,+1 415 7817800,handlerysf@handlery.com,https://sf.handlery.com/,sent,2026-09-10,Has website
 usa-hotel-156,Hotel North Beach,San Francisco,,,https://www.hotelnorthbeach.com/,invalid_no_email,2026-09-10,Has website
-usa-hotel-157,Inn at Market,San Francisco,+14242441729,sfp.frontdesk@properhotel.com,https://innatmarket.com,verified_valid,2026-09-10,Has website
-usa-hotel-158,Aero Motel,Seattle,,frontdesk.seattle@executivehotels.net,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-159,Adelaide Apartment,Seattle,,guestservicessea@stayinglevel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-160,The Corona,Seattle,+1-206-854-4400,leasing@samis.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-161,HI-Seattle at American Hotels,Seattle,+1-206-512-4171,stay@americanhotelseattle.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-157,Inn at Market,San Francisco,+14242441729,sfp.frontdesk@properhotel.com,https://innatmarket.com,sent,2026-09-10,Has website
+usa-hotel-158,Aero Motel,Seattle,,frontdesk.seattle@executivehotels.net,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-159,Adelaide Apartment,Seattle,,guestservicessea@stayinglevel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-160,The Corona,Seattle,+1-206-854-4400,leasing@samis.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-161,HI-Seattle at American Hotels,Seattle,+1-206-512-4171,stay@americanhotelseattle.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-162,Best Western Pioneer Square Hotel,Seattle,+1-206-340-1234,,http://www.pioneersquare.com/,invalid_no_email,2026-09-10,Has website
-usa-hotel-163,Hotel Hotel Hostel,Seattle,+1-206-257-4543,hello@HotelHotel.co,https://hotelhotel.co,verified_valid,2026-09-10,Has website
-usa-hotel-164,Moore Hotel,Seattle,,reservations@moorehotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-165,Pensione Nichols B&B,Seattle,+1-206-441-7125,info@pensionnichols.com,https://www.pensionenichols.com/,invalid_no_mx,2026-09-10,Has website
-usa-hotel-166,Staybridge Suites - South Lake Union,Seattle,+1-206-596-2301,IHGService@ihg.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-167,Belltown Inn,Seattle,+1-206-529-3700,info@belltown-inn.com,https://www.belltown-inn.com/,verified_valid,2026-09-10,Has website
-usa-hotel-168,SpringHill Suites,Seattle,+1-206-254-0500,shs.seadt.gm@marriott.com,https://www.marriott.com/seadt,verified_valid,2026-09-10,Has website
-usa-hotel-169,Ontario Hotel,Seattle,+1-206-841-4005,reservations@edgewaterhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-170,Courtyard,Seattle,+1-206-625-1111,cy.seatc.gm@marriott.com,https://www.marriott.com/seaps,verified_valid,2026-09-10,Has website
-usa-hotel-171,Green Tortoise Hostel,Seattle,+1-206-340-1222,info@greentortoise.net,https://greentortoise.net/,verified_valid,2026-09-10,Has website
-usa-hotel-172,Grand Hyatt Seattle,Seattle,+1-206-774-1234,seattle.grand@hyatt.com,https://seattle.grand.hyatt.com/en/hotel/home.html,verified_valid,2026-09-10,Has website
-usa-hotel-173,Hotel Seattle,Seattle,+1 833 623 0111,reservations@edgewaterhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-163,Hotel Hotel Hostel,Seattle,+1-206-257-4543,hello@HotelHotel.co,https://hotelhotel.co,sent,2026-09-10,Has website
+usa-hotel-164,Moore Hotel,Seattle,,reservations@moorehotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-165,Pensione Nichols B&B,Seattle,+1-206-441-7125,info@pensionnichols.com,https://www.pensionenichols.com/,sent,2026-09-10,Has website
+usa-hotel-166,Staybridge Suites - South Lake Union,Seattle,+1-206-596-2301,IHGService@ihg.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-167,Belltown Inn,Seattle,+1-206-529-3700,info@belltown-inn.com,https://www.belltown-inn.com/,sent,2026-09-10,Has website
+usa-hotel-168,SpringHill Suites,Seattle,+1-206-254-0500,shs.seadt.gm@marriott.com,https://www.marriott.com/seadt,sent,2026-09-10,Has website
+usa-hotel-169,Ontario Hotel,Seattle,+1-206-841-4005,reservations@edgewaterhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-170,Courtyard,Seattle,+1-206-625-1111,cy.seatc.gm@marriott.com,https://www.marriott.com/seaps,sent,2026-09-10,Has website
+usa-hotel-171,Green Tortoise Hostel,Seattle,+1-206-340-1222,info@greentortoise.net,https://greentortoise.net/,sent,2026-09-10,Has website
+usa-hotel-172,Grand Hyatt Seattle,Seattle,+1-206-774-1234,seattle.grand@hyatt.com,https://seattle.grand.hyatt.com/en/hotel/home.html,sent,2026-09-10,Has website
+usa-hotel-173,Hotel Seattle,Seattle,+1 833 623 0111,reservations@edgewaterhotel.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-174,The Arctic Club Seattle,Seattle,+1-206-340-0340,,https://www.hilton.com/en/hotels/seaacdt-the-arctic-club-seattle/,invalid_no_email,2026-09-10,Has website
-usa-hotel-175,Courtyard by Marriott,Seattle,+1-206-734-4502,can.mehdigil@marriott.com,https://www.marriott.com/seang,verified_valid,2026-09-10,Has website
-usa-hotel-176,College Inn,Seattle,+1-206-633-4441,stay@collegeinnseattle.com,https://www.collegeinnseattle.com/,verified_valid,2026-09-10,Has website
+usa-hotel-175,Courtyard by Marriott,Seattle,+1-206-734-4502,can.mehdigil@marriott.com,https://www.marriott.com/seang,sent,2026-09-10,Has website
+usa-hotel-176,College Inn,Seattle,+1-206-633-4441,stay@collegeinnseattle.com,https://www.collegeinnseattle.com/,sent,2026-09-10,Has website
 usa-hotel-177,Hyatt at Olive 8,Seattle,+1-206-695-1234,,https://olive8.hyatt.com/en/hotel/home.html,invalid_no_email,2026-09-10,Has website
-usa-hotel-178,Hampshire House,Boston,,events@hampshirehouse.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-179,The Westin Boston Seaport District,Boston,+1-617-532-4600,waterfront.sales@westin.com,https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/overview/,verified_valid,2026-09-10,Has website
-usa-hotel-180,Le Meridien Cambridge-MIT,Boston,+1 617-577-0200,cambridgereservations@lemeridiencambridge.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-181,Boston Harbor Hotel,Boston,+1 617 439 7000,reservations@bhh.com,https://www.bostonharborhotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-182,Revere Hotel Boston Common,Boston,+1 617 482 1800,info@reverehotel.com,https://www.reverehotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-183,The Colonnade Hotel,Boston,+1-617-424-7000,reservations@colonnadehotel.com,https://www.colonnadehotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-184,DoubleTree by Hilton Hotel Boston - Downtown,Boston,+1 617-956-7900,EmailBOSCO_Inquiry@hilton.com,https://doubletree3.hilton.com/en/hotels/massachusetts/doubletree-by-hilton-hotel-boston-downtown-BOSCODT/index.html,verified_valid,2026-09-10,Has website
-usa-hotel-185,HI Boston,Boston,+16175369455,Boston@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-186,The Eliot Hotel,Boston,+1-617-267-1607,email@eliothotel.com,https://www.eliothotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-187,Hotel Commonwealth,Boston,+1 617-933-5000,info@hotelcommonwealth.com,https://www.hotelcommonwealth.com/,verified_valid,2026-09-10,Has website
-usa-hotel-188,Inn at Longwood Medical,Boston,+1-888-385-6609,info@innatlongwood.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-189,Hyatt Regency Boston,Boston,+1 617-912-1234,qualitybosto@hyatt.com,https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto,verified_valid,2026-09-10,Has website
-usa-hotel-190,The Westin Copley Place,Boston,+1-617-262-9600,westincopley@westin.com,https://www.marriott.com/hotels/travel/boswi-the-westin-copley-place-boston,verified_valid,2026-09-10,Has website
-usa-hotel-191,Mary Prentiss Inn,Boston,,Hello@StayThatch.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-192,Found Hotel Boston Common,Boston,+1 (202) 234-7800,guide@copleysquarehotel.com,https://www.foundhotels.com/found-boston-common,verified_valid,2026-09-10,Has website
-usa-hotel-193,The Revolution Hotel,Boston,+1-617-848-9200,info@THEREVOLUTIONHOTEL.COM,https://therevolutionhotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-194,Hotel AKA Boston Common,Boston,+1 617 772 5800,BCguestservices@stayaka.com,https://www.stayaka.com/hotel-aka-boston-common,verified_valid,2026-09-10,Has website
-usa-hotel-195,"The Ritz-Carlton, Boston",Boston,+1-617-574-7100,RC-Bostonleads@ritzcarlton.com,http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm,verified_valid,2026-09-10,Has website
+usa-hotel-178,Hampshire House,Boston,,events@hampshirehouse.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-179,The Westin Boston Seaport District,Boston,+1-617-532-4600,waterfront.sales@westin.com,https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/overview/,sent,2026-09-10,Has website
+usa-hotel-180,Le Meridien Cambridge-MIT,Boston,+1 617-577-0200,cambridgereservations@lemeridiencambridge.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-181,Boston Harbor Hotel,Boston,+1 617 439 7000,reservations@bhh.com,https://www.bostonharborhotel.com/,sent,2026-09-10,Has website
+usa-hotel-182,Revere Hotel Boston Common,Boston,+1 617 482 1800,info@reverehotel.com,https://www.reverehotel.com/,sent,2026-09-10,Has website
+usa-hotel-183,The Colonnade Hotel,Boston,+1-617-424-7000,reservations@colonnadehotel.com,https://www.colonnadehotel.com/,sent,2026-09-10,Has website
+usa-hotel-184,DoubleTree by Hilton Hotel Boston - Downtown,Boston,+1 617-956-7900,EmailBOSCO_Inquiry@hilton.com,https://doubletree3.hilton.com/en/hotels/massachusetts/doubletree-by-hilton-hotel-boston-downtown-BOSCODT/index.html,sent,2026-09-10,Has website
+usa-hotel-185,HI Boston,Boston,+16175369455,Boston@hiusa.org,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-186,The Eliot Hotel,Boston,+1-617-267-1607,email@eliothotel.com,https://www.eliothotel.com/,sent,2026-09-10,Has website
+usa-hotel-187,Hotel Commonwealth,Boston,+1 617-933-5000,info@hotelcommonwealth.com,https://www.hotelcommonwealth.com/,sent,2026-09-10,Has website
+usa-hotel-188,Inn at Longwood Medical,Boston,+1-888-385-6609,info@innatlongwood.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-189,Hyatt Regency Boston,Boston,+1 617-912-1234,qualitybosto@hyatt.com,https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto,sent,2026-09-10,Has website
+usa-hotel-190,The Westin Copley Place,Boston,+1-617-262-9600,westincopley@westin.com,https://www.marriott.com/hotels/travel/boswi-the-westin-copley-place-boston,sent,2026-09-10,Has website
+usa-hotel-191,Mary Prentiss Inn,Boston,,Hello@StayThatch.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-192,Found Hotel Boston Common,Boston,+1 (202) 234-7800,guide@copleysquarehotel.com,https://www.foundhotels.com/found-boston-common,sent,2026-09-10,Has website
+usa-hotel-193,The Revolution Hotel,Boston,+1-617-848-9200,info@THEREVOLUTIONHOTEL.COM,https://therevolutionhotel.com/,sent,2026-09-10,Has website
+usa-hotel-194,Hotel AKA Boston Common,Boston,+1 617 772 5800,BCguestservices@stayaka.com,https://www.stayaka.com/hotel-aka-boston-common,sent,2026-09-10,Has website
+usa-hotel-195,"The Ritz-Carlton, Boston",Boston,+1-617-574-7100,RC-Bostonleads@ritzcarlton.com,http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm,sent,2026-09-10,Has website
 usa-hotel-196,Omni Parker House,Boston,+1 617 227-8600,,https://www.omnihotels.com/hotels/boston-parker-house,invalid_no_email,2026-09-10,Has website
-usa-hotel-197,Harborside Inn,Boston,+1 617-723-7500,info@harborsideinnboston.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-198,Miami International Airport Hotel,Miami,,resv@miamiairporthotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-197,Harborside Inn,Boston,+1 617-723-7500,info@harborsideinnboston.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-198,Miami International Airport Hotel,Miami,,resv@miamiairporthotel.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-199,Parkway Inn Airport Motel,Miami,+1-305-887-2621,,https://parkwayinnmiami.xyz/,invalid_no_email,2026-09-10,Has website
-usa-hotel-200,Residences at Bayside - by Elite City Stays,Miami,,corporate@roundtrip.travel,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-201,Sra. Betty,Miami,,reservations@thebetsyhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-202,Casa del mango,Miami,,EventsSoBe@mangos.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-203,Casa d dunier,Miami,+1 (786) 216 7780,reservations@vmmiamibeach.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-204,Casa Trinidad at #1,Miami,+1 833 625 3111,reservations@casamiamihotel.comsales,,invalid_no_mx,2026-09-10,No website / OTA dependent
-usa-hotel-205,FANNYLU,Miami,+1 305-534-8800,reservations-miamibeach@faena.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-206,Hotel Marialy,Miami,+1 786-257-4500,reservations@marseilleshotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-207,Miami Sun Hotel,Miami,+13053750786,info@themiamisunhotel.com,https://www.themiamisunhotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-208,Arlo Wynwood,Miami,+1 786-522-6600,hellowynwood@arlohotels.com,https://arlohotels.com/wynwood/,verified_valid,2026-09-10,Has website
-usa-hotel-209,ex Zubieta,Miami,+1 786-257-4500,MiamiBilling@ihg.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-210,"The Gabriel Miami Downtown, Curio Collection by Hilton",Miami,+1 305-374-0000,EmailMIADT_Hotel@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-200,Residences at Bayside - by Elite City Stays,Miami,,corporate@roundtrip.travel,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-201,Sra. Betty,Miami,,reservations@thebetsyhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-202,Casa del mango,Miami,,EventsSoBe@mangos.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-203,Casa d dunier,Miami,+1 (786) 216 7780,reservations@vmmiamibeach.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-204,Casa Trinidad at #1,Miami,+1 833 625 3111,reservations@casamiamihotel.comsales,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-205,FANNYLU,Miami,+1 305-534-8800,reservations-miamibeach@faena.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-206,Hotel Marialy,Miami,+1 786-257-4500,reservations@marseilleshotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-207,Miami Sun Hotel,Miami,+13053750786,info@themiamisunhotel.com,https://www.themiamisunhotel.com/,sent,2026-09-10,Has website
+usa-hotel-208,Arlo Wynwood,Miami,+1 786-522-6600,hellowynwood@arlohotels.com,https://arlohotels.com/wynwood/,sent,2026-09-10,Has website
+usa-hotel-209,ex Zubieta,Miami,+1 786-257-4500,MiamiBilling@ihg.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-210,"The Gabriel Miami Downtown, Curio Collection by Hilton",Miami,+1 305-374-0000,EmailMIADT_Hotel@hilton.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-211,Hyatt Centric Brickell Miami,Miami,+1 786 629 8955,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-212,Kimpton EPIC Hotel,Miami,,frontdesk@epichotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-213,Yotel Miami,Miami,+1 786 785 5700,mia.contact@yotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-214,Yotelpad Miami,Miami,+1 786 785 5700,mia.contact@yotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-215,Staybridge Suites,Miami,+1-786-6291413,StaybridgeReservations@BuffaloLodging.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-216,Parkwood Inn,Orlando,+1 920-868-2046,infolbv@roseninns.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-217,Marriott,Orlando,+1 407-239-4200,customer.advocacy@vacationclub.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-218,Home2 Suites,Orlando,+1-407-839-3331,EmailMCOIN_Home2@hilton.com,https://www.hilton.com/en/hotels/mconmht-home2-suites-orlando-downtown/,verified_valid,2026-09-10,Has website
-usa-hotel-219,Casa da Neia,Orlando,+1 (407) 313-7777,mchotels@micasahotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-212,Kimpton EPIC Hotel,Miami,,frontdesk@epichotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-213,Yotel Miami,Miami,+1 786 785 5700,mia.contact@yotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-214,Yotelpad Miami,Miami,+1 786 785 5700,mia.contact@yotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-215,Staybridge Suites,Miami,+1-786-6291413,StaybridgeReservations@BuffaloLodging.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-216,Parkwood Inn,Orlando,+1 920-868-2046,infolbv@roseninns.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-217,Marriott,Orlando,+1 407-239-4200,customer.advocacy@vacationclub.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-218,Home2 Suites,Orlando,+1-407-839-3331,EmailMCOIN_Home2@hilton.com,https://www.hilton.com/en/hotels/mconmht-home2-suites-orlando-downtown/,sent,2026-09-10,Has website
+usa-hotel-219,Casa da Neia,Orlando,+1 (407) 313-7777,mchotels@micasahotels.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-220,SpringHill Suites,Orlando,+1 407-960-4624,,https://www.marriott.com/mcows,invalid_no_email,2026-09-10,Has website
-usa-hotel-221,The Florida Hotel and Conference Centre,Orlando,,thefloridahotel@thefloridahotelorlando.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-222,Hilton Garden Inn,Orlando,+1 407-648-4171,EmailHGIOrlandoReservations@buffalolodging.com,https://www.hilton.com/en/hotels/mconmht-home2-suites-orlando-downtown/,verified_valid,2026-09-10,Has website
-usa-hotel-223,Hampton Inn Orlando Southeast Nona,Orlando,+1 407-275-5071,ORLNO_hampton@hilton.com,https://www.hilton.com/en/hotels/mconohx-hampton-orlando-southeast-nona/,verified_valid,2026-09-10,Has website
-usa-hotel-224,Days Inn,Orlando,+1 407-386-3645,accessibility@wyndham.com,https://www.wyndhamhotels.com/days-inn/orlando-florida/days-inn-and-suites-orlando-airport/overview,verified_valid,2026-09-10,Has website
+usa-hotel-221,The Florida Hotel and Conference Centre,Orlando,,thefloridahotel@thefloridahotelorlando.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-222,Hilton Garden Inn,Orlando,+1 407-648-4171,EmailHGIOrlandoReservations@buffalolodging.com,https://www.hilton.com/en/hotels/mconmht-home2-suites-orlando-downtown/,sent,2026-09-10,Has website
+usa-hotel-223,Hampton Inn Orlando Southeast Nona,Orlando,+1 407-275-5071,ORLNO_hampton@hilton.com,https://www.hilton.com/en/hotels/mconohx-hampton-orlando-southeast-nona/,sent,2026-09-10,Has website
+usa-hotel-224,Days Inn,Orlando,+1 407-386-3645,accessibility@wyndham.com,https://www.wyndhamhotels.com/days-inn/orlando-florida/days-inn-and-suites-orlando-airport/overview,sent,2026-09-10,Has website
 usa-hotel-225,Residence Inn,Orlando,+1 407-352-2700,,https://www.marriott.com/mcoyr,invalid_no_email,2026-09-10,Has website
 usa-hotel-226,Fairfield Inn & Suites,Orlando,+1 407-888-2666,,https://www.marriott.com/mcoms,invalid_no_email,2026-09-10,Has website
-usa-hotel-227,The Delaney Hotel,Orlando,+1-407-849-0805,info@staydh.com,https://staydh.com/,verified_valid,2026-09-10,Has website
-usa-hotel-228,Home2 Suites by Hilton Orlando Southeast Nona,Orlando,+1-407-281-6620,MCOLN_GM@hilton.com,https://www.hilton.com/en/hotels/mcolnht-home2-suites-orlando-lake-nona/,verified_valid,2026-09-10,Has website
-usa-hotel-229,Marriott's Grande Vista,Orlando,+1-407-238-7676,customer.care@vacationclub.com,https://www.marriott.com/en-us/hotels/mcogv-marriotts-grande-vista/overview/,verified_valid,2026-09-10,Has website
-usa-hotel-230,Westgate Lakes Resort & Spa,Orlando,,ries@wgresorts.com,,invalid_no_mx,2026-09-10,No website / OTA dependent
-usa-hotel-231,Villatel Orlando Resort,Orlando,+1 407-4794055,407-972-1183stay@villatelresort.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-232,Best Western Plus Universal Inn,Orlando,+1 407-226-9119,10285@hotel.bestwestern.com,https://www.bestwestern.com/en_US/book/hotels-in-orlando/best-western-plus-universal-inn/propertyCode.10285.html,invalid_no_mx,2026-09-10,Has website
-usa-hotel-233,Hotel Peter & Paul,New Orleans,,events@hotelpeterandpaul.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-234,Roosevelt Hotel,New Orleans,+1 504-648-1200,m@hilton.com,https://therooseveltneworleans.com/,verified_valid,2026-09-10,Has website
-usa-hotel-235,The French Market Inn,New Orleans,+1 888-626-2725,guestservice@frenchmarketinn.com,https://www.frenchmarketinn.com/,verified_valid,2026-09-10,Has website
-usa-hotel-236,Hotel Theo New Orleans by Hilton,New Orleans,+1 504-527-0006,gm@hoteltheoneworleans.com,https://www.hoteltheoneworleans.com,verified_valid,2026-09-10,Has website
-usa-hotel-237,The Mercantile Hotel,New Orleans,+1 504 558-1914,mercantilehotelneworleans@innisfreehotels.com,https://themercantilehotelneworleans.com/,verified_valid,2026-09-10,Has website
+usa-hotel-227,The Delaney Hotel,Orlando,+1-407-849-0805,info@staydh.com,https://staydh.com/,sent,2026-09-10,Has website
+usa-hotel-228,Home2 Suites by Hilton Orlando Southeast Nona,Orlando,+1-407-281-6620,MCOLN_GM@hilton.com,https://www.hilton.com/en/hotels/mcolnht-home2-suites-orlando-lake-nona/,sent,2026-09-10,Has website
+usa-hotel-229,Marriott's Grande Vista,Orlando,+1-407-238-7676,customer.care@vacationclub.com,https://www.marriott.com/en-us/hotels/mcogv-marriotts-grande-vista/overview/,sent,2026-09-10,Has website
+usa-hotel-230,Westgate Lakes Resort & Spa,Orlando,,ries@wgresorts.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-231,Villatel Orlando Resort,Orlando,+1 407-4794055,407-972-1183stay@villatelresort.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-232,Best Western Plus Universal Inn,Orlando,+1 407-226-9119,10285@hotel.bestwestern.com,https://www.bestwestern.com/en_US/book/hotels-in-orlando/best-western-plus-universal-inn/propertyCode.10285.html,sent,2026-09-10,Has website
+usa-hotel-233,Hotel Peter & Paul,New Orleans,,events@hotelpeterandpaul.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-234,Roosevelt Hotel,New Orleans,+1 504-648-1200,m@hilton.com,https://therooseveltneworleans.com/,sent,2026-09-10,Has website
+usa-hotel-235,The French Market Inn,New Orleans,+1 888-626-2725,guestservice@frenchmarketinn.com,https://www.frenchmarketinn.com/,sent,2026-09-10,Has website
+usa-hotel-236,Hotel Theo New Orleans by Hilton,New Orleans,+1 504-527-0006,gm@hoteltheoneworleans.com,https://www.hoteltheoneworleans.com,sent,2026-09-10,Has website
+usa-hotel-237,The Mercantile Hotel,New Orleans,+1 504 558-1914,mercantilehotelneworleans@innisfreehotels.com,https://themercantilehotelneworleans.com/,sent,2026-09-10,Has website
 usa-hotel-238,Auberge NOLA Hostel,New Orleans,,,https://www.aubergehostels.com/nola,invalid_no_email,2026-09-10,Has website
-usa-hotel-239,Hotel Sainte Hélène,New Orleans,,fddauphine@jcollectionhotels.com,https://www.frenchquarterhotelcollection.com/hotel-st-helene.html,verified_valid,2026-09-10,Has website
+usa-hotel-239,Hotel Sainte Hélène,New Orleans,,fddauphine@jcollectionhotels.com,https://www.frenchquarterhotelcollection.com/hotel-st-helene.html,sent,2026-09-10,Has website
 usa-hotel-240,Royal Frenchmen Hotel & Bar,New Orleans,+1 504-619-9660,,https://www.royalfrenchmenhotel.com,invalid_no_email,2026-09-10,Has website
-usa-hotel-241,India House hostel,New Orleans,+1 (504) 821-1904,indiahousehostel@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-242,La Galerie Hotel,New Orleans,+1 504-592-7700,lagaleriehotel@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-241,India House hostel,New Orleans,+1 (504) 821-1904,indiahousehostel@gmail.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-242,La Galerie Hotel,New Orleans,+1 504-592-7700,lagaleriehotel@gmail.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-243,Bluegreen Club La Pension,New Orleans,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-244,Marquette House,New Orleans,+15045233014,Sugar722@AOL.COM,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-245,Saint Vincent Guest House,New Orleans,,info@saintvincentnola.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-246,Casa N Orléans,New Orleans,+1 (800) 819-5053,info@qandc.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-247,Domio,New Orleans,,bookings@neworleansluxurycollection.com,https://baronne.staydomio.com,verified_valid,2026-09-10,Has website
+usa-hotel-244,Marquette House,New Orleans,+15045233014,Sugar722@AOL.COM,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-245,Saint Vincent Guest House,New Orleans,,info@saintvincentnola.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-246,Casa N Orléans,New Orleans,+1 (800) 819-5053,info@qandc.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-247,Domio,New Orleans,,bookings@neworleansluxurycollection.com,https://baronne.staydomio.com,sent,2026-09-10,Has website
 usa-hotel-248,London Lodge,New Orleans,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-249,Antebellum Guest House,New Orleans,+1-504-943-1900,antebellum1333@aol.com,antebellumguesthouse.com,verified_valid,2026-09-10,Has website
-usa-hotel-250,Lamothe House,New Orleans,+1 504-947-1161,info@frenchquarterguesthouses.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-251,HI Hostel New Orleans,New Orleans,+1 (504) 603-3850,NewOrleans@hiusa.org,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-252,Melrose Mansion,New Orleans,,reservations@melrosemansion.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-253,The Crawford Hotel,Denver,+1-720-460-3700,info@thecrawfordhotel.com,https://www.thecrawfordhotel.com,verified_valid,2026-09-10,Has website
-usa-hotel-254,11th Avenue Hotel and Hostel,Denver,,info@11thavenuehostel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-255,Ember Hostel,Denver,+1-303-942-1633,stay@emberhostels.com,https://www.emberhostels.com/,verified_valid,2026-09-10,Has website
-usa-hotel-256,HomeTowne Studios,Denver,+1 303-275-0840,1092@hometownestudios.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-257,Hostel Fish,Denver,+1-303-954-0962,stay@hostelfish.com,https://hostelfish.com/,verified_valid,2026-09-10,Has website
-usa-hotel-258,Marks Home,Denver,+1 720-409-1200,reservations@therallyhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-259,Limelight Hotel,Denver,,denverfrontdesk@limelighthotels.com,https://www.limelighthotels.com/denver,verified_valid,2026-09-10,Has website
-usa-hotel-260,AC Hotel Denver Downtown,Denver,+1 303-534-5831,achoteldenver@whitelodging.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-261,Westway Motel,Denver,+1 720-990-5555,reservations@themavenhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-249,Antebellum Guest House,New Orleans,+1-504-943-1900,antebellum1333@aol.com,antebellumguesthouse.com,sent,2026-09-10,Has website
+usa-hotel-250,Lamothe House,New Orleans,+1 504-947-1161,info@frenchquarterguesthouses.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-251,HI Hostel New Orleans,New Orleans,+1 (504) 603-3850,NewOrleans@hiusa.org,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-252,Melrose Mansion,New Orleans,,reservations@melrosemansion.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-253,The Crawford Hotel,Denver,+1-720-460-3700,info@thecrawfordhotel.com,https://www.thecrawfordhotel.com,sent,2026-09-10,Has website
+usa-hotel-254,11th Avenue Hotel and Hostel,Denver,,info@11thavenuehostel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-255,Ember Hostel,Denver,+1-303-942-1633,stay@emberhostels.com,https://www.emberhostels.com/,sent,2026-09-10,Has website
+usa-hotel-256,HomeTowne Studios,Denver,+1 303-275-0840,1092@hometownestudios.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-257,Hostel Fish,Denver,+1-303-954-0962,stay@hostelfish.com,https://hostelfish.com/,sent,2026-09-10,Has website
+usa-hotel-258,Marks Home,Denver,+1 720-409-1200,reservations@therallyhotel.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-259,Limelight Hotel,Denver,,denverfrontdesk@limelighthotels.com,https://www.limelighthotels.com/denver,sent,2026-09-10,Has website
+usa-hotel-260,AC Hotel Denver Downtown,Denver,+1 303-534-5831,achoteldenver@whitelodging.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-261,Westway Motel,Denver,+1 720-990-5555,reservations@themavenhotel.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-262,Red Pine Motel,Denver,+1 720-539-3000,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-263,Belcaro Motel,Denver,,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-264,Holiday Motel,Denver,,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-265,Airway Motel,Denver,+1 303-214-7888,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-266,The Slate Denver,Denver,+1 303-292-5000,info@sbcos.com,https://www.hilton.com/en/hotels/denvrup-the-slate-denver/,verified_valid,2026-09-10,Has website
+usa-hotel-266,The Slate Denver,Denver,+1 303-292-5000,info@sbcos.com,https://www.hilton.com/en/hotels/denvrup-the-slate-denver/,sent,2026-09-10,Has website
 usa-hotel-267,Extended Stay America Select Suites - Denver-Aurora,Denver,+1-303-344-4646,,https://www.extendedstayamerica.com/hotels/co/denver/aurora?channel=gmb-listing&utm_source=google&utm_medium=organic&utm_campaign=gmb_listing,invalid_no_email,2026-09-10,Has website
-usa-hotel-268,Tru by Hilton Denver Airport Tower Road,Denver,+1 303-307-9500,EmailDENNY_TRU@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-269,Homewood Suites by Hilton Denver Airport Tower Road,Denver,+1 303-371-4555,EmailDENIP_Homewood@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-270,Tru by Hilton / Home2 Suites by Hilton,Denver,+1 303-759-1301,EmailDENTI_frontdesk@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-271,Hotel Indigo Denver Downtown - Union Station by IHG,Denver,+1-303-623-4422,info@indigodenver.com,https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail,verified_valid,2026-09-10,Has website
-usa-hotel-272,The Beach Cottages,San Diego,+1 858 483 7440,info@beachcottages.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-273,Homewood Suites,San Diego,+1-858-530-2000,Emailbayside.fd@lodgingdynamics.com,https://www.hilton.com/en/hotels/sanmmhw-homewood-suites-san-diego-central/,verified_valid,2026-09-10,Has website
+usa-hotel-268,Tru by Hilton Denver Airport Tower Road,Denver,+1 303-307-9500,EmailDENNY_TRU@hilton.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-269,Homewood Suites by Hilton Denver Airport Tower Road,Denver,+1 303-371-4555,EmailDENIP_Homewood@hilton.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-270,Tru by Hilton / Home2 Suites by Hilton,Denver,+1 303-759-1301,EmailDENTI_frontdesk@hilton.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-271,Hotel Indigo Denver Downtown - Union Station by IHG,Denver,+1-303-623-4422,info@indigodenver.com,https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail,sent,2026-09-10,Has website
+usa-hotel-272,The Beach Cottages,San Diego,+1 858 483 7440,info@beachcottages.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-273,Homewood Suites,San Diego,+1-858-530-2000,Emailbayside.fd@lodgingdynamics.com,https://www.hilton.com/en/hotels/sanmmhw-homewood-suites-san-diego-central/,sent,2026-09-10,Has website
 usa-hotel-274,Synergy at Mira Bella,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-275,Bayview Inn,San Diego,+1 619-239-4500,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-276,Travel Time Motel,San Diego,+1-888-385-6609,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-277,Harvey's Motel,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-278,Hilton Garden Inn,San Diego,+1 858-676-1660,EmailReservation.emailHGIOT@hgioldtown.com,https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-san-diego-rancho-bernardo-SANBEGI/index.html,verified_valid,2026-09-10,Has website
-usa-hotel-279,"Red Roof Inn - Pacific Beach, San Diego",San Diego,,reservations@thesurferbeachhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-278,Hilton Garden Inn,San Diego,+1 858-676-1660,EmailReservation.emailHGIOT@hgioldtown.com,https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-san-diego-rancho-bernardo-SANBEGI/index.html,sent,2026-09-10,Has website
+usa-hotel-279,"Red Roof Inn - Pacific Beach, San Diego",San Diego,,reservations@thesurferbeachhotel.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-280,Extended Stay America - San Diego - Fashion Valley,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-281,Quality Inn San Diego Downtown North,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-282,Escondido Lodge,San Diego,,hotel@2650escondido.com,https://www.escondidolodge.com/,invalid_no_mx,2026-09-10,Has website
-usa-hotel-283,Howard Johnson Inn And Suites San Diego Area/Chula Vista,San Diego,,accessibility@wyndham.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-284,PB Surf Beachside Inn,San Diego,,jsilver@pacificahost.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-282,Escondido Lodge,San Diego,,hotel@2650escondido.com,https://www.escondidolodge.com/,sent,2026-09-10,Has website
+usa-hotel-283,Howard Johnson Inn And Suites San Diego Area/Chula Vista,San Diego,,accessibility@wyndham.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-284,PB Surf Beachside Inn,San Diego,,jsilver@pacificahost.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-285,Navajo Lodge,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-286,Cassia Hotels,San Diego,+1 6194748811,cassiahotelsnc@gmail.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-287,The Pearl Hotel,San Diego,+1 619-226-6100,info@thepearlsd.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-288,The Shoal La Jolla Beach,San Diego,,res@theshoallajolla.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-289,Orli La Jolla,San Diego,,info@stayorli.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-286,Cassia Hotels,San Diego,+1 6194748811,cassiahotelsnc@gmail.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-287,The Pearl Hotel,San Diego,+1 619-226-6100,info@thepearlsd.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-288,The Shoal La Jolla Beach,San Diego,,res@theshoallajolla.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-289,Orli La Jolla,San Diego,,info@stayorli.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-290,Sonesta ES Suites,San Diego,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-291,Beachcomber Shores,San Diego,+1-727-367-1902,reservations@thesurferbeachhotel.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-291,Beachcomber Shores,San Diego,+1-727-367-1902,reservations@thesurferbeachhotel.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-292,Econo Lodge,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-293,Americas Best Value Inn-Nashville/Downtown Hotel,Nashville,+1-615-226-9805,abvi2403@gmail.com,http://www.abvinashvilledowntown.com,verified_valid,2026-09-10,Has website
+usa-hotel-293,Americas Best Value Inn-Nashville/Downtown Hotel,Nashville,+1-615-226-9805,abvi2403@gmail.com,http://www.abvinashvilledowntown.com,sent,2026-09-10,Has website
 usa-hotel-294,Residence Inn Nashville Airport,Nashville,+1 615-889-8600,,https://www.marriott.com/bnabn,invalid_no_email,2026-09-10,Has website
 usa-hotel-295,Extended Stay America - Nashville - Airport - Music City,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-296,Crossland Economy Studios - Nashville - Airport - Briley Pkwy.,Nashville,+1 615-361-5900,cambriabna@athenahospitalitygroup.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-297,Regency Inn Express,Nashville,,atrull@nnpinvestment.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-298,Midway Motel,Nashville,+1 (615) 256-7770,info@waymoresnashville.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-299,Scottish Inn,Nashville,+1 615-727-0919,jkennedy@hifranchise.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-300,Airways Motel,Nashville,,cambriabna@athenahospitalitygroup.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-296,Crossland Economy Studios - Nashville - Airport - Briley Pkwy.,Nashville,+1 615-361-5900,cambriabna@athenahospitalitygroup.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-297,Regency Inn Express,Nashville,,atrull@nnpinvestment.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-298,Midway Motel,Nashville,+1 (615) 256-7770,info@waymoresnashville.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-299,Scottish Inn,Nashville,+1 615-727-0919,jkennedy@hifranchise.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-300,Airways Motel,Nashville,,cambriabna@athenahospitalitygroup.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-301,SpringHill Suites Nashville Vanderbilt/West End,Nashville,+1 615-988-9930,,https://www.marriott.com/bnavw,invalid_no_email,2026-09-10,Has website
-usa-hotel-302,Residence Inn Nashville Vanderbilt/West End,Nashville,+1 615-988-9920,Sustainability@marriott.com,https://www.marriott.com/bnavb,verified_valid,2026-09-10,Has website
-usa-hotel-303,The Capitol Hotel Downtown Nashville,Nashville,+1-888-385-6609,Capitol@ciahotels.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-304,Homewood Suites Nashville Downtown,Nashville,+1 615-742-5550,EmailBNADW_Homewood@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-305,The Inn at the Fontanel,Nashville,+1 615 724 1600,sales@fontanelestate.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-306,J White's House,Nashville,+1 (615) 320-0110,info@thejosephnashville.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-302,Residence Inn Nashville Vanderbilt/West End,Nashville,+1 615-988-9920,Sustainability@marriott.com,https://www.marriott.com/bnavb,sent,2026-09-10,Has website
+usa-hotel-303,The Capitol Hotel Downtown Nashville,Nashville,+1-888-385-6609,Capitol@ciahotels.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-304,Homewood Suites Nashville Downtown,Nashville,+1 615-742-5550,EmailBNADW_Homewood@hilton.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-305,The Inn at the Fontanel,Nashville,+1 615 724 1600,sales@fontanelestate.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-306,J White's House,Nashville,+1 (615) 320-0110,info@thejosephnashville.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-307,Residence Inn Nashville Downtown,Nashville,+1 615-514-2501,,,invalid_no_email,2026-09-10,No website / OTA dependent
 usa-hotel-308,Residence Inn Nashville Brentwood,Nashville,+1 615-988-9920,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-309,AC Hotel Nashville Downtown,Nashville,+1 615-514-2500,nashcvc@visitmusiccity.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-310,SpringHill Suites Nashville Downtown,Nashville,+1 615-514-2502,tyler.morgan@marriott.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-309,AC Hotel Nashville Downtown,Nashville,+1 615-514-2500,nashcvc@visitmusiccity.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-310,SpringHill Suites Nashville Downtown,Nashville,+1 615-514-2502,tyler.morgan@marriott.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-311,Classic Southern Mansion on Historic Music Row,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-312,Midtown Manhattan NYC Hotels,New York,+1 (212) 265-7400,frontdesk@hotelhendricksny.com,https://www.hotelhendricksny.com/contact-us,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-313,Boutique Hotel & Restaurant,Miami,+1 786 257 4500,reservations@cambean.com,https://www.majesticsouthbeach.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-314,The Rover Miami,Miami,,bookings@therovermiami.com,https://www.therovermiami.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-315,Contact,Miami,+1 (305) 538-4900,info@theshepleyhotel.com,https://theshepleyhotel.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-316,Hotels in Miami South Beach,Miami,+1 305 604 1000,miamiconcierge@loewshotels.com,https://www.loewshotels.com/miami-beach,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-317,"Hotel Ella: Upscale Boutique Hotel in Austin, TX",Austin,,hello@hotelella.com,https://www.hotelella.com/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-318,The Inn at Union Square: Boutique Hotel in Downtown San ...,San Francisco,,innatunionsquarefrontdesk@ohrllc.com,https://www.unionsquare.com&nbsp,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-319,"Stylish, Affordable Hotel in Union Square",San Francisco,+1 (415) 660-7876,guidesf@sfo.foundhotels.com,https://www.foundhotels.com/san-francisco/,invalid_no_mx,2026-09-10,Found via Serper live search
-usa-hotel-320,Las Vegas Hilton at Resorts World,Las Vegas,+1 833 720 0585,concierge@rwlasvegas.com,https://www.hilton.com/en/hotels/lashhhh-las-vegas-hilton-at-resorts-world/,verified_valid,2026-09-10,Has website
-usa-hotel-321,Conrad Las Vegas at Resorts World,Las Vegas,+1 833 720 0585,concierge@rwlasvegas.com,https://www.hilton.com/en/hotels/lascdci-conrad-las-vegas-at-resorts-world/,verified_valid,2026-09-10,Has website
-usa-hotel-322,Crockfords Las Vegas,Las Vegas,+1 833 720 0585,crockfordsconcierge@rwlasvegas.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-323,Rodeway Inn,Las Vegas,+1-888-385-6609,gmcoaching@choicehotels.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-312,Midtown Manhattan NYC Hotels,New York,+1 (212) 265-7400,frontdesk@hotelhendricksny.com,https://www.hotelhendricksny.com/contact-us,sent,2026-09-10,Found via Serper live search
+usa-hotel-313,Boutique Hotel & Restaurant,Miami,+1 786 257 4500,reservations@cambean.com,https://www.majesticsouthbeach.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-314,The Rover Miami,Miami,,bookings@therovermiami.com,https://www.therovermiami.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-315,Contact,Miami,+1 (305) 538-4900,info@theshepleyhotel.com,https://theshepleyhotel.com/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-316,Hotels in Miami South Beach,Miami,+1 305 604 1000,miamiconcierge@loewshotels.com,https://www.loewshotels.com/miami-beach,sent,2026-09-10,Found via Serper live search
+usa-hotel-317,"Hotel Ella: Upscale Boutique Hotel in Austin, TX",Austin,,hello@hotelella.com,https://www.hotelella.com/,sent,2026-09-10,Found via Serper live search
+usa-hotel-318,The Inn at Union Square: Boutique Hotel in Downtown San ...,San Francisco,,innatunionsquarefrontdesk@ohrllc.com,https://www.unionsquare.com&nbsp,sent,2026-09-10,Found via Serper live search
+usa-hotel-319,"Stylish, Affordable Hotel in Union Square",San Francisco,+1 (415) 660-7876,guidesf@sfo.foundhotels.com,https://www.foundhotels.com/san-francisco/,sent,2026-09-10,Found via Serper live search
+usa-hotel-320,Las Vegas Hilton at Resorts World,Las Vegas,+1 833 720 0585,concierge@rwlasvegas.com,https://www.hilton.com/en/hotels/lashhhh-las-vegas-hilton-at-resorts-world/,sent,2026-09-10,Has website
+usa-hotel-321,Conrad Las Vegas at Resorts World,Las Vegas,+1 833 720 0585,concierge@rwlasvegas.com,https://www.hilton.com/en/hotels/lascdci-conrad-las-vegas-at-resorts-world/,sent,2026-09-10,Has website
+usa-hotel-322,Crockfords Las Vegas,Las Vegas,+1 833 720 0585,crockfordsconcierge@rwlasvegas.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-323,Rodeway Inn,Las Vegas,+1-888-385-6609,gmcoaching@choicehotels.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-324,AC Hotel by Marriott Las Vegas Symphony Park,Las Vegas,+1 702 530 5990,,https://www.marriott.com/en-us/hotels/laspa-ac-hotel-las-vegas-symphony-park/overview/,invalid_no_email,2026-09-10,Has website
-usa-hotel-325,Encore Las Vegas,Las Vegas,+1 (702) 770-7000,roomreservations@wynnlasvegas.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-325,Encore Las Vegas,Las Vegas,+1 (702) 770-7000,roomreservations@wynnlasvegas.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-326,Plaza Hotel & Casino,Las Vegas,+1 702-386-2110,,https://www.plazahotelcasino.com/,invalid_no_email,2026-09-10,Has website
-usa-hotel-327,Boulder Station,Las Vegas,+1-702-432-7777,BoulderSales@stationcasinos.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-327,Boulder Station,Las Vegas,+1-702-432-7777,BoulderSales@stationcasinos.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-328,Main Street Station,Las Vegas,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-329,Trump International Hotel Las Vegas,Las Vegas,+1 855 878 6700,info@trumphotels.com,https://www.trumphotels.com/las-vegas,verified_valid,2026-09-10,Has website
-usa-hotel-330,The Rita Suites,Las Vegas,+1 702-792-2222,ritasuites@amgnevada.com,https://ritasuites.vegas/,verified_valid,2026-09-10,Has website
+usa-hotel-329,Trump International Hotel Las Vegas,Las Vegas,+1 855 878 6700,info@trumphotels.com,https://www.trumphotels.com/las-vegas,sent,2026-09-10,Has website
+usa-hotel-330,The Rita Suites,Las Vegas,+1 702-792-2222,ritasuites@amgnevada.com,https://ritasuites.vegas/,sent,2026-09-10,Has website
 usa-hotel-331,The D Las Vegas,Las Vegas,+1-702-388-2400,,https://www.thed.com/,invalid_no_email,2026-09-10,Has website
-usa-hotel-332,Fontainebleau Resort & Casino,Las Vegas,+1 833 702 7070,conciergeservices@fblasvegas.com,https://www.fontainebleaulasvegas.com/,verified_valid,2026-09-10,Has website
-usa-hotel-333,Westgate Las Vegas Resort & Casino,Las Vegas,+1 702-732-5111,DOS@wgresorts.com,,invalid_no_mx,2026-09-10,No website / OTA dependent
-usa-hotel-334,Circus Circus Las Vegas,Las Vegas,+1 702 734 0410,GuestRelations@CircusCircus.com,https://www.circuscircus.com/,verified_valid,2026-09-10,Has website
-usa-hotel-335,Circus Circus Las Vegas Manor Motor Lodge,Las Vegas,,GuestRelations@CircusCircus.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-336,Sahara Las Vegas Hotel & Casino,Las Vegas,+1-702-761-7000,reservations@saharalasvegas.com,https://saharalasvegas.com/,verified_valid,2026-09-10,Has website
-usa-hotel-337,The Strat,Las Vegas,+1 702-380-7777,generalquestions@goldenent.com,https://stratospherehotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-338,JW Marriott Resort,Las Vegas,+1-702-869-7777,sales@jwlasvegasresort.com,http://www.jwlasvegasresort.com,verified_valid,2026-09-10,Has website
-usa-hotel-339,El Cortez Hotel & Casino,Las Vegas,+1-702-385-5200,info@tlw.org,http://elcortezhotellasvegas.com/,verified_valid,2026-09-10,Has website
-usa-hotel-340,Super 8,Savannah,,accessibility@wyndham.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-332,Fontainebleau Resort & Casino,Las Vegas,+1 833 702 7070,conciergeservices@fblasvegas.com,https://www.fontainebleaulasvegas.com/,sent,2026-09-10,Has website
+usa-hotel-333,Westgate Las Vegas Resort & Casino,Las Vegas,+1 702-732-5111,DOS@wgresorts.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-334,Circus Circus Las Vegas,Las Vegas,+1 702 734 0410,GuestRelations@CircusCircus.com,https://www.circuscircus.com/,sent,2026-09-10,Has website
+usa-hotel-335,Circus Circus Las Vegas Manor Motor Lodge,Las Vegas,,GuestRelations@CircusCircus.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-336,Sahara Las Vegas Hotel & Casino,Las Vegas,+1-702-761-7000,reservations@saharalasvegas.com,https://saharalasvegas.com/,sent,2026-09-10,Has website
+usa-hotel-337,The Strat,Las Vegas,+1 702-380-7777,generalquestions@goldenent.com,https://stratospherehotel.com/,sent,2026-09-10,Has website
+usa-hotel-338,JW Marriott Resort,Las Vegas,+1-702-869-7777,sales@jwlasvegasresort.com,http://www.jwlasvegasresort.com,sent,2026-09-10,Has website
+usa-hotel-339,El Cortez Hotel & Casino,Las Vegas,+1-702-385-5200,info@tlw.org,http://elcortezhotellasvegas.com/,sent,2026-09-10,Has website
+usa-hotel-340,Super 8,Savannah,,accessibility@wyndham.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-341,Travelodge,Savannah,+1 912-208-2726,,https://www.wyndhamhotels.com/travelodge/richmond-hill-georgia/travelodge-savannah-area-richmond-hill/overview,invalid_no_email,2026-09-10,Has website
-usa-hotel-342,Home2 Suites,Savannah,+1 912-445-4480,EmailSAVMG_Home2@hilton.com,https://www.hilton.com/en/hotels/richlht-home2-suites-richmond-hill-savannah-i-95/,verified_valid,2026-09-10,Has website
-usa-hotel-343,Hampton Inn,Savannah,+1 912-231-9700,EmailSAVDT_Hampton@hilton.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-344,Holiday Inn Express,Savannah,+1-912-2319000,gm@holidayinnexpresssavannah.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-342,Home2 Suites,Savannah,+1 912-445-4480,EmailSAVMG_Home2@hilton.com,https://www.hilton.com/en/hotels/richlht-home2-suites-richmond-hill-savannah-i-95/,sent,2026-09-10,Has website
+usa-hotel-343,Hampton Inn,Savannah,+1 912-231-9700,EmailSAVDT_Hampton@hilton.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-344,Holiday Inn Express,Savannah,+1-912-2319000,gm@holidayinnexpresssavannah.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-345,Econo Lodge,Savannah,+1 912-964-4344,,https://www.choicehotels.com/south-carolina/hardeeville/quality-inn-hotels,invalid_no_email,2026-09-10,Has website
-usa-hotel-346,Hampton Inn & Suites,Savannah,+1 912-921-1515,EmailSAVHS_Hampton_Suites@hilton.com,https://www.hilton.com/en/hotels/savgwhx-hampton-suites-savannah-i-95-south-gateway/,verified_valid,2026-09-10,Has website
-usa-hotel-347,The Drayton Hotel,Savannah,+1 912-662-8900,concierge@thedraytonhotel.com,https://www.thedraytonhotel.com/,verified_valid,2026-09-10,Has website
-usa-hotel-348,Foley House Inn - 14 West Hull Street,Savannah,,concierge@foleyinn.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-346,Hampton Inn & Suites,Savannah,+1 912-921-1515,EmailSAVHS_Hampton_Suites@hilton.com,https://www.hilton.com/en/hotels/savgwhx-hampton-suites-savannah-i-95-south-gateway/,sent,2026-09-10,Has website
+usa-hotel-347,The Drayton Hotel,Savannah,+1 912-662-8900,concierge@thedraytonhotel.com,https://www.thedraytonhotel.com/,sent,2026-09-10,Has website
+usa-hotel-348,Foley House Inn - 14 West Hull Street,Savannah,,concierge@foleyinn.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-349,Best Western Premier I-95 Savannah Airport/Pooler West,Savannah,+1 912 330 5100,,https://www.bestwestern.com/en_US/book/hotels-in-pooler/best-western-premier-i-95-savannah-airport-pooler-west/propertyCode.11226.html,invalid_no_email,2026-09-10,Has website
 usa-hotel-350,Staybridge Suites Savannah Historic District,Savannah,+1-888-299-2208,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-351,River Street Inn,Savannah,,info@riverstreetinn.com,,verified_valid,2026-09-10,No website / OTA dependent
-usa-hotel-352,Days Inn by Wyndham Savannah Airport,Savannah,+1-912-200-6331,patel@daysinn.com,,verified_valid,2026-09-10,No website / OTA dependent
+usa-hotel-351,River Street Inn,Savannah,,info@riverstreetinn.com,,sent,2026-09-10,No website / OTA dependent
+usa-hotel-352,Days Inn by Wyndham Savannah Airport,Savannah,+1-912-200-6331,patel@daysinn.com,,sent,2026-09-10,No website / OTA dependent
 usa-hotel-353,WoodSpring Suites,Savannah,,,,invalid_no_email,2026-09-10,No website / OTA dependent
-usa-hotel-354,Hampton Inn Savannah Historic District,Savannah,+1 912-231-9700,EmailSAVDT_Hampton@hilton.com,https://www.hilton.com/en/hotels/savdthx-hampton-savannah-historic-district/,verified_valid,2026-09-10,Has website
-usa-hotel-355,Hyatt Regency Hotel,Savannah,+1 912-238-1234,savrs.social@hyatt.com,https://www.hyatt.com/hyatt-regency/en-us/savrs-hyatt-regency-savannah,verified_valid,2026-09-10,Has website
-usa-hotel-356,Marriott Savannah Riverfront,Savannah,+1 912 233 7722,savannah@marriottsales.com,https://www.marriott.com/hotels/travel/savrf-savannah-marriott-riverfront/,verified_valid,2026-09-10,Has website
-usa-hotel-357,Holiday Inn Express Savannah-Historic District,Savannah,+1 912-231-9000,gm@holidayinnexpresssavannah.com,https://www.facebook.com/HolidayInnExpressSavannahHistoricDistrict,verified_valid,2026-09-10,Has website
+usa-hotel-354,Hampton Inn Savannah Historic District,Savannah,+1 912-231-9700,EmailSAVDT_Hampton@hilton.com,https://www.hilton.com/en/hotels/savdthx-hampton-savannah-historic-district/,sent,2026-09-10,Has website
+usa-hotel-355,Hyatt Regency Hotel,Savannah,+1 912-238-1234,savrs.social@hyatt.com,https://www.hyatt.com/hyatt-regency/en-us/savrs-hyatt-regency-savannah,sent,2026-09-10,Has website
+usa-hotel-356,Marriott Savannah Riverfront,Savannah,+1 912 233 7722,savannah@marriottsales.com,https://www.marriott.com/hotels/travel/savrf-savannah-marriott-riverfront/,sent,2026-09-10,Has website
+usa-hotel-357,Holiday Inn Express Savannah-Historic District,Savannah,+1 912-231-9000,gm@holidayinnexpresssavannah.com,https://www.facebook.com/HolidayInnExpressSavannahHistoricDistrict,sent,2026-09-10,Has website
 usa-hotel-358,Oglethorpe Lodge,Savannah,+1 877-982-2481,,https://www.oglethorpelodge.com/,invalid_no_email,2026-09-10,Has website
 usa-hotel-359,Courtyard Savannah Downtown/Historic District,Savannah,+1 912-790-8287,,https://www.marriott.com/hotels/travel/savdt-courtyard-savannah-downtown-historic-district/,invalid_no_email,2026-09-10,Has website
-usa-hotel-360,Luxury Hotel New York,New York,+1 (212) 302-4040,Info-nyc@thetwentytwo.com,https://www.thetwentytwo.com/newyork/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-361,Contact Us,Miami,+1(786)913 0680,reservations@presidenthotelmiami.com,https://www.presidentsouthbeach.com/contact/,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-362,Contact Hometel Suites,Los Angeles,+1 213 384 7788,frontdesk@hometelsuites.com,https://hometelsuites.com/contact.php,verified_valid,2026-09-10,Found via Serper live search
-usa-hotel-363,Luxe Worldwide Hotels,Los Angeles,,eve@luxehotels.com,https://www.businesstravelnews.com/Suppliers/Lodging/Hotel-Rep-Firms/Luxe-Worldwide-Hotels-p3219109,verified_valid,2026-09-10,Found via Serper live search
+usa-hotel-360,Luxury Hotel New York,New York,+1 (212) 302-4040,Info-nyc@thetwentytwo.com,https://www.thetwentytwo.com/newyork/,sent,2026-09-10,Found via Serper live search
+usa-hotel-361,Contact Us,Miami,+1(786)913 0680,reservations@presidenthotelmiami.com,https://www.presidentsouthbeach.com/contact/,sent,2026-09-10,Found via Serper live search
+usa-hotel-362,Contact Hometel Suites,Los Angeles,+1 213 384 7788,frontdesk@hometelsuites.com,https://hometelsuites.com/contact.php,sent,2026-09-10,Found via Serper live search
+usa-hotel-363,Luxe Worldwide Hotels,Los Angeles,,eve@luxehotels.com,https://www.businesstravelnews.com/Suppliers/Lodging/Hotel-Rep-Firms/Luxe-Worldwide-Hotels-p3219109,sent,2026-09-10,Found via Serper live search
+usa-hotel-364,Rathbone Mansions,New Orleans,,info@rathbonemansions.com,"The information received by Rathbone Mansions will be kept confidential. ... New Orleans, LA 70116. ",sent,2026-09-15,No website / OTA dependent
+usa-hotel-365,Public Hotel New York,New York,,reservationsny@publichotels.com,Should you require additional assistance please send us an email at reservationsny@publichotels.com ,sent,2026-09-15,Found via Serper live search
+usa-hotel-366,No function e,New York,,ds10@york.ac.uk,"by B Montanini · 2007 · Cited by 503 — No functione. N ter, C64S, Partially activee. N ter, H5R, Par",sent,2026-09-15,Found via Serper live search
+usa-hotel-367,The Pod Hotels NYC,New York,,reservations@podhotelbk.com,Email: reservations@podhotelbk.com Phone: 718-963-3060 … s@podhotel39.com Phone: 212-865-5700. Email,sent,2026-09-15,Found via Serper live search
+usa-hotel-368,Angler's Hotel,Miami,,frontdesk@anglershotelmiami.com,"Contact. Angler's Hotel Miami Beach. 660 Washington Avenue, Miami Beach, FL 33139. frontdesk@anglers",sent,2026-09-15,Found via Serper live search
+usa-hotel-369,Boutique Hotel,Miami,+1 786 275 6434,info@lesliehotel.com,"For Reservations please book through our website, call or email us. Call: 786-476-2645. Email: info@",sent,2026-09-15,Found via Serper live search
+usa-hotel-370,Get in Touch!,Los Angeles,,laxca_salesadm@hilton.com,"Contact Details Address 6151 West Century Boulevard Los Angeles, CA 90045 Phone 310.215.3000 Email l",sent,2026-09-15,Found via Serper live search
+usa-hotel-371,Contact Us,Las Vegas,,KLASweb@8newsnow.com,"Contact Us. CONTACT KLAS. KLAS-TV 3228 Channel 8 Drive Las Vegas, Nevada 89109. Main Phone: (702) 79",sent,2026-09-15,Found via Serper live search
+usa-hotel-372,Contact email address for Blue Heron hotel,Orlando,,blueheron@festiva.travel,"They seem very hard to contact. I went searching and you are right, the only address I found is blue",sent,2026-09-15,Found via Serper live search
+usa-hotel-373,Contact Rosen Inn,Orlando,,info@roseninns.com,email contact for each Orlando Rosen Hotel. Phone + 407-996-9178. Toll reservation + 877-224-5377 in,sent,2026-09-15,Found via Serper live search
+usa-hotel-374,FAQ,Austin,,askUS@austin.utexas.edu,https://www.originhotel.com/hotels/austin/faq,invalid_non_hotel,2026-09-15,Non-hotel domain (university/city hall/gov)
+usa-hotel-375,Astra Hotel Seattle: Hotel in South Lake Union Seattle​,Seattle,,info@astrahotelseattle.com,https://astrahotelseattle.com/,sent,2026-09-15,Found via Serper live search
+usa-hotel-376,Capitol Hill Mansion B&B,Denver,,info@capitolhillmansion.com,https://www.capitolhillmansion.com/,sent,2026-09-15,Found via Serper live search
+usa-hotel-377,Staybridge Suites Denver,Denver,+1-303-3215757,sonja.lahana@interstatehotels.com,https://www.ihg.com/staybridge/hotels/us/en/glendale/dench/hoteldetail,sent,2026-09-15,Found via Serper live search
+usa-hotel-378,Top San Francisco Hotels,San Francisco,,SFOLCConcierge@marriott.com,https://hoteldrisco.com/press/,sent,2026-09-15,Found via Serper live search
+usa-hotel-379,5,San Francisco,+1 4157725000,City.Hall.Building.Management@sfgov.org,https://www.fairmont.com/en/hotels/san-francisco/fairmont-san-francisco.html,invalid_non_hotel,2026-09-15,Non-hotel domain (university/city hall/gov)
+usa-hotel-380,The Newbury Boston,Boston,,hello@thenewburyboston.com,https://www.thenewburyboston.com/,sent,2026-09-15,Found via Serper live search
+usa-hotel-381,Boutique Hotel Near Faneuil Hall,Boston,,guestservices@clubquarters.com,https://www.clubquartershotels.com/boston/faneuil-hall,sent,2026-09-15,Found via Serper live search
+usa-hotel-382,Contact Us,Boston,,digital@boston.gov,https://slh.com/contact-us,invalid_non_hotel,2026-09-15,Non-hotel domain (university/city hall/gov)
+usa-hotel-383,"Heathman Hotel | Upscale Hotel in Downtown Portland, OR",Portland,,info@heathmanhotel.com,https://heathmanhotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-384,Downtown Portland Hotels - The Nines Hotel Portland,Portland,,Info@thenines.com,https://thenines.com/,sent,2026-09-15,Serper discovery
+usa-hotel-385,Hotel deLuxe | Vintage-Inspired Boutique Hotel In Portland,Portland,,info@hoteldeluxeportland.com,https://www.hoteldeluxe.com/,sent,2026-09-15,Serper discovery
+usa-hotel-386,"Charleston Luxury Hotels | Hotel Bennett Charleston, SC",Charleston,,concierge@hotelbennett.com,https://www.hotelbennett.com/,sent,2026-09-15,Serper discovery
+usa-hotel-387,Hotels in Downtown Charleston SC - The Palmetto Hotel ...,Charleston,,info@palmettohotelcharleston.com,https://www.palmettohotelcharleston.com/,sent,2026-09-15,Serper discovery
+usa-hotel-388,"Francis Marion Hotel | Elegant Historic Hotel in Charleston, SC",Charleston,,Info@thefrancismarion.com,https://www.francismarionhotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-389,"Contact Us | The Inn of the Five Graces | Santa Fe, NM",Santa Fe,,GuestServices@FiveGraces.com,https://fivegraces.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-390,Santa Fe Downtown Hotels | Contact Us,Santa Fe,,res@thesagesf.com,https://www.hotelsantafe.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-391,Boutique hotels in Santa Fe,Santa Fe,,contact@themysticsantafe.com,https://www.myboutiquehotel.com/en/boutique-hotels-santa-fe/,sent,2026-09-15,Serper discovery
+usa-hotel-392,The Windsor Boutique Hotel - Asheville,Asheville,,info@WindsorAsheville.com,https://windsorasheville.com/,sent,2026-09-15,Serper discovery
+usa-hotel-393,The Windsor Boutique Hotel (@windsorboutiquehotelavl),Asheville,,info@WindsorAsheville.com,https://www.instagram.com/windsorboutiquehotelavl/?hl=en,sent,2026-09-15,Serper discovery
+usa-hotel-394,"The Windsor Boutique Hotel- First Class Asheville, NC Hotels",Asheville,,info@WindsorAsheville.com,https://www.travelweekly.com/Hotels/Asheville/The-Windsor-Boutique-Hotel-p9205938,sent,2026-09-15,Serper discovery
+usa-hotel-395,Parker Palm Springs | 5-Star Resort & Spa in Palm Springs,Palm Springs,,reservations@parkerpalmsprings.com,https://www.parkerpalmsprings.com/,sent,2026-09-15,Serper discovery
+usa-hotel-396,The Palm Springs Hotel | Official Site,Palm Springs,,reserve@thepalmspringshotel.com,https://www.thepalmspringshotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-397,Contact V Palm Springs | Boutique Hotel in ...,Palm Springs,,reservations@vpalmsprings.com,https://www.vpalmsprings.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-398,Contact - Milliken Creek Inn - Directions to Napa Luxury Hotel,Napa,,millikencreekinn@foursisters.com,https://www.millikencreekinn.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-399,Contact Us | BEST Napa Valley Hotels,Napa,,hotelnapavalley@oldworldinn.com,https://www.hotelnapavalley.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-400,Contact White House Napa – Boutique Hotel in Napa Valley,Napa,,info@whitehousenapa.com,https://whitehousenapa.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-401,"The Douglas | Boutique Hotel in Historic District, Savannah, GA",Savannah,,info@thedouglas.com,https://thedouglas.com/,sent,2026-09-15,Serper discovery
+usa-hotel-402,Hotel Bardo Savannah | Your Ultimate Stay Experience,Savannah,,hello@staybardo.com,https://www.staybardo.com/,sent,2026-09-15,Serper discovery
+usa-hotel-403,Contact our Luxury Savannah Hotel,Savannah,,.Locorini@perrylanehotel.com,https://www.perrylanehotel.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-404,"Boutique Hotel, Restaurant — New Orleans, LA",New Orleans,,info@thechloenola.com,https://thechloenola.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-405,Luxury Hotel French Quarter New Orleans,New Orleans,,.officer@fourseasons.com,https://www.fourseasons.com/neworleans/,sent,2026-09-15,Serper discovery
+usa-hotel-406,Hotel De La Poste | Boutique Hotel New Orleans French Quarter,New Orleans,,frontdesk@hoteldelapostnola.com,https://hoteldelapostenola.com/,sent,2026-09-15,Serper discovery
+usa-hotel-407,Contact - Hotel Maison Saint Charles,New Orleans,,reservations@stcharlesinn.com,https://www.maisonstcharles.com/contact-2/,sent,2026-09-15,Serper discovery
+usa-hotel-408,Contact Us - The Saint Hotel New Orleans,New Orleans,,Darryl.hill@thesainthotelneworleans.com,https://thesaintnola.com/contact-us/,sent,2026-09-15,Serper discovery
+usa-hotel-409,Contact | The Dauphine Orleans Hotel,New Orleans,,fddauphine@jcollectionhotels.com,https://www.dauphineorleans.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-410,Contact Us | Kimpton Hotel Fontenot,New Orleans,,,https://www.hotelfontenot.com/contact-us/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-411,Ocean Key Resort & Spa | Luxury Oceanfront Resort in Key West,Key West,,reservations@OceanKey.com,https://www.oceankey.com/,sent,2026-09-15,Serper discovery
+usa-hotel-412,The Key West Hotel | Fully Renovated Boutique Stay on Duval ...,Key West,,frontdesk@thekeywesthotel.com,https://www.thekeywesthotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-413,Key West Oceanfront Hotel | Boutique Hotel | The Capitana,Key West,,info@thecapitanakeywest.com,https://www.opalcollection.com/capitana/,sent,2026-09-15,Serper discovery
+usa-hotel-414,"Luxury & Boutique Hotels in Key West, Florida Keys, USA",Key West,,contact@slh.com,https://slh.com/americas/usa/florida/key-west,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-415,Key West Boutique Hotels | Contact Us,Key West,,info@oneofonestays.com,https://www.grandmaloneyhotel.com/contact-our-key-west-hotel,sent,2026-09-15,Serper discovery
+usa-hotel-416,Eden House Resort™ A Boutique Hotel Key West FL,Key West,,Psrflights@gmail.com,https://www.edenhousekw.com/,sent,2026-09-15,Serper discovery
+usa-hotel-417,"13 Best Hotels in Key West, From Historic Inns to Private ...",Key West,,,https://www.cntraveler.com/gallery/best-hotels-in-key-west,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-418,THE 10 BEST Boutique Hotels in Key West 2026 (with Prices),Key West,,,https://www.tripadvisor.com/HotelsList-Key_West-Boutique-Hotels-zfp1414.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-419,El Portal Sedona Hotel: Boutique Hotel Sedona AZ,Sedona,,info@1256875.us8.myftpupload.com,https://elportalsedona.com/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-420,L'Auberge de Sedona | Luxury Sedona Hotel & Resort,Sedona,,info@lauberge.com,https://www.lauberge.com/,sent,2026-09-15,Serper discovery
+usa-hotel-421,Boutique hotels in Sedona - 9,Sedona,,info@lauberge.com,https://www.myboutiquehotel.com/en/boutique-hotels-sedona/,sent,2026-09-15,Serper discovery
+usa-hotel-422,Boutique Hotel Retreat | Southwest Inn at Sedona | AZ,Sedona,,fd.swinn@gmail.com,https://www.swinn.com/,sent,2026-09-15,Serper discovery
+usa-hotel-423,Enchantment Resort | Sedona Luxury Resort | Sedona ...,Sedona,,EnchantmentResort@jpublicrelations.com,https://www.enchantmentresort.com/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-424,El Portal Sedona Hotel,Sedona,,info@1256875.us8.myftpupload.com,https://www.scenicsedona.com/el-portal-sedona-hotel/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-425,"Luxury & Boutique Hotels in Sedona, Arizona",Sedona,,contact@slh.com,https://slh.com/americas/usa/sedona,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-426,"Sky Rock Sedona, a Tribute Portfolio Hotel",Sedona,,hello@skyrocksedona.com,https://www.marriott.com/en-us/hotels/flgsx-sky-rock-sedona-a-tribute-portfolio-hotel/overview/,sent,2026-09-15,Serper discovery
+usa-hotel-427,"$112 Small & Trendy Hotels in Sedona, AZ",Sedona,,info@lauberge.com,https://www.travelocity.com/Sedona-Hotels-Boutique-Hotel.0-0-d6054771-tBoutiqueHotel.Travel-Guide-Filter-Hotels,sent,2026-09-15,Serper discovery
+usa-hotel-428,THE 5 BEST Boutique Hotels in Sedona 2026 (with Prices),Sedona,,,https://www.tripadvisor.com/HotelsList-Sedona-Boutique-Hotels-zfp1375.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-429,"Welcome to The Strand, a Boutique Myrtle Beach Resort",Myrtle Beach,,info@thestrandmb.com,https://www.thestrandmyrtlebeach.com/,sent,2026-09-15,Serper discovery
+usa-hotel-430,"The Strand - A Boutique Resort, Myrtle Beach",Myrtle Beach,,info@thestrandmb.com,https://www.hotelscombined.com/Hotel/The_Strand_A_Boutique_Resort.htm,sent,2026-09-15,Serper discovery
+usa-hotel-431,The Strand - A Boutique Resort,Myrtle Beach,,info@seamistmyrtle.com,https://www.guestreservations.com/the-strand-a-boutique-resort/booking,sent,2026-09-15,Serper discovery
+usa-hotel-432,The Caretta | Boutique hotel on the beach in Myrtle ...,Myrtle Beach,,stay@thecarettahotel.com,https://www.larkindependent.com/hotels/the-caretta,sent,2026-09-15,Serper discovery
+usa-hotel-433,Contact Us – SeaMistMyrtle Myrtle Beach Hotels Guide,Myrtle Beach,,info@seamistmyrtle.com,https://seamistmyrtle.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-434,The Polynesian Oceanfront Hotel,Myrtle Beach,,info@polynesianoceanfronthotel.com,https://www.polynesianoceanfronthotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-435,The Tremont House™ A Luxury Downtown Galveston Hotel in ...,Galveston,,info@thetremonthouse.com,https://www.thetremonthouse.com/,sent,2026-09-15,Serper discovery
+usa-hotel-436,Hotel Lucine: A new take on Galveston,Galveston,,sales@hotellucine.com,https://www.hotellucine.com/,sent,2026-09-15,Serper discovery
+usa-hotel-437,Adults Only Boutique Hotel in the Heart of Galveston.,Galveston,,illy@trevello.com,https://www.facebook.com/mansardhouse/posts/adults-only-boutique-hotel-in-the-heart-of-galveston/714553051506750/,sent,2026-09-15,Serper discovery
+usa-hotel-438,Great new Boutique Hotel right on the Galveston Seawall!,Galveston,,,https://www.tripadvisor.com/ShowUserReviews-g55879-d26171120-r987991444-Hotel_Lucine-Galveston_Galveston_Island_Texas.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-439,DoubleTree by Hilton Galveston Beach | HOTELS & MOTELS,Galveston,,EmailGLSDT_DT_Hotel@hilton.com,http://galvestonchamber.chambermaster.com/list/member/doubletree-by-hilton-galveston-beach-10643,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-440,Hilton Galveston Island Resort Beach Hotel,Galveston,,EmailGLSGI_FO@hilton.com,https://www.hilton.com/en/hotels/glsgihf-hilton-galveston-island-resort/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-441,The Mansard House: Historic Boutique Hotel in Galveston TX,Galveston,,themansardhouse@gmail.com,https://themansardhouse.com/,sent,2026-09-15,Serper discovery
+usa-hotel-442,Contact Us - The Oleander Hotel,Galveston,,Emailrootemily@gmail.com,https://www.theoleanderhotelgalveston.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-443,Contact Hotel del Coronado | A Legendary San Diego ...,Coronado,,dining@hoteldel.com,https://www.hoteldel.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-444,Hotel del Coronado | San Diego's Legendary Beach Resort,Coronado,,shorehouse@hoteldel.com,https://www.hoteldel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-445,"Hotel del Coronado, Curio Collection",Coronado,,SANQQ_hotel@hoteldel.com,https://www.travelweekly.com/Hotels/Coronado-CA/Hotel-Del-Coronado-Curio-Collection-p54563406,sent,2026-09-15,Serper discovery
+usa-hotel-446,Contact Hotel Del About Your Event,Coronado,,sanqq-salesadm@hoteldel.com,https://www.hoteldel.com/gather/submit-inquiry/,sent,2026-09-15,Serper discovery
+usa-hotel-447,Hotel Marisol Coronado: Coronado Boutique Hotel,Coronado,,info@marisolcoronado.com,https://www.marisolcoronado.com/,sent,2026-09-15,Serper discovery
+usa-hotel-448,Hotel Marisol Coronado | Coronado CA,Coronado,,info@marisolcoronado.com,https://www.facebook.com/marisolcoronado92118/,sent,2026-09-15,Serper discovery
+usa-hotel-449,Contact Us | Breckenridge Boutique Hotel Team,Breckenridge,,team@breckhotel.com,https://www.breckhotel.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-450,The Lodge At Breckenridge | Breckenridge Hotels,Breckenridge,,rhonda.wilson@guestservices.com,https://thelodgeatbreckenridge.com/,sent,2026-09-15,Serper discovery
+usa-hotel-451,Breckenridge Boutique Hotel - Recent Reviews 2026,Breckenridge,,team@breckhotel.com,https://www.expedia.com/Breckenridge-Hotels-SkiWay-Lodge.h6439236.Hotel-Information,sent,2026-09-15,Serper discovery
+usa-hotel-452,THE BRECKENRIDGE BOUTIQUE HOTEL - Updated 2026 ...,Breckenridge,,team@breckhotel.com,https://www.tripadvisor.com/Hotel_Review-g33327-d74361-Reviews-The_Breckenridge_Boutique_Hotel-Breckenridge_Colorado.html,sent,2026-09-15,Serper discovery
+usa-hotel-453,Contact Our Breckenridge CO Ski Hotel,Breckenridge,,breckinfo@vailresorts.com,https://www.hotelalpenrock.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-454,The Breckenridge Boutique Hotel,Breckenridge,,team@breckhotel.com,https://local.yahoo.com/info-19654278-the-breckenridge-boutique-hotel-breckenridge/,sent,2026-09-15,Serper discovery
+usa-hotel-455,Residence Inn Breckenridge | Long-Stay Hotel with In- ...,Breckenridge,,,https://www.marriott.com/en-us/hotels/qkbri-residence-inn-breckenridge/overview/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-456,The Breckenridge Boutique Hotel (@breckhotel),Breckenridge,,team@breckhotel.com,https://www.instagram.com/breckhotel/,sent,2026-09-15,Serper discovery
+usa-hotel-457,The Village at Breckenridge - Hotels,Breckenridge,,stay@beaverrun.com,https://www.travelweekly.com/Hotels/Breckenridge-CO/The-Village-at-Breckenridge-p4187487,sent,2026-09-15,Serper discovery
+usa-hotel-458,The Hotel Carmel | Boutique Carmel By The Sea Hotel,Carmel,,reservations@hotelcarmel.com,https://www.thehotelcarmel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-459,Hotels Near Santa Monica Pier | Contact Us,Carmel,,reservations@hotelcarmel.com,https://www.hotelcarmel.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-460,Frequently Asked Questions | The Hotel Carmel,Carmel,,reservations@hotelcarmel.com,https://www.thehotelcarmel.com/faq/,sent,2026-09-15,Serper discovery
+usa-hotel-461,"La Playa Hotel | Upscale Carmel Hotel, Wedding and Event ...",Carmel,,pr@marcandrosehospitality.com,https://www.laplayahotel.com/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-462,Hotel Carmel Photos,Carmel,,clorilla@carmelbeachhotel.com,https://www.yelp.com/biz/hotel-carmel-carmel-by-the-sea,sent,2026-09-15,Serper discovery
+usa-hotel-463,"Hotel Carmel- Tourist Class Santa Monica, CA Hotels",Carmel,,,https://www.travelweekly.com/Hotels/Santa-Monica-CA/Hotel-Carmel-p3866523,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-464,Santa Barbara Inn | Oceanfront Boutique Hotel in Santa ...,Santa Barbara,,info@santabarbarainn.com,https://www.santabarbarainn.com/,sent,2026-09-15,Serper discovery
+usa-hotel-465,"Hotel Californian | Luxury Hotel In Santa Barbara, CA",Santa Barbara,,,https://www.hotelcalifornian.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-466,Boutique hotels in Santa Barbara,Santa Barbara,,,https://www.myboutiquehotel.com/en/boutique-hotels-santa-barbara/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-467,Mar Monte Hotel: Boutique Hotels in Santa Barbara,Santa Barbara,,,https://marmontehotel.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-468,Contact | Kimpton Canary Hotel in Downtown Santa Barbara,Santa Barbara,,,https://www.canarysantabarbara.com/contact/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-469,"FOUND Hotels, Santa Barbara",Santa Barbara,,guide@sb.foundhotels.com,https://www.foundhotels.com/santa-barbara/,sent,2026-09-15,Serper discovery
+usa-hotel-470,Castillo Inn at The Beach: Beachside Hotel in Santa Barbara,Santa Barbara,,,https://www.sbcastilloinn.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-471,10 Best Santa Barbara Hotels for Resort Stays and Beach ...,Santa Barbara,,,https://www.cntraveler.com/gallery/best-hotels-in-santa-barbara,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-472,"St Julien Hotel & Spa In Boulder, Colorado | Official Site",Boulder,,,https://stjulien.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-473,Hotel Boulderado | Historic Hotel Near Pearl Street in Boulder,Boulder,,,https://www.boulderado.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-474,Hotel in Boulder Colorado|Hotel Near Pearl Street,Boulder,,Reservations@theBradleyBoulder.com,https://www.thebradleyboulder.com/,sent,2026-09-15,Serper discovery
+usa-hotel-475,"Hotel Boulderado, Boulder, Colorado, USA - Hotel Review",Boulder,,,https://www.cntraveler.com/hotels/united-states/boulder/hotel-boulderado,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-476,"Hotel Boulderado- First Class Boulder, CO Hotels",Boulder,,,https://www.travelweekly.com/Hotels/Boulder-CO/Hotel-Boulderado-p4108353,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-477,Contact Us | Limelight Boulder Hotel,Boulder,,Boulderfrontdesk@limelighthotels.com,https://www.limelighthotels.com/boulder/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-478,"Hotels in Boulder, CO",Boulder,,,https://www.marriott.com/en-us/destinations/united-states/colorado/boulder.mi,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-479,THE BEST Boutique Hotels in Boulder 2026 (with Prices),Boulder,,,https://www.tripadvisor.com/HotelsList-Boulder-Hotels-Motels-Boutique-zfp16834703.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-480,Embassy Suites by Hilton - Boulder Hotels,Boulder,,Emaildenbo_ds@hilton.com,https://www.hilton.com/en/hotels/denboes-embassy-suites-boulder/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-481,Contact Us | Grand Hotel Mackinac Island Reservations,Mackinac Island,,,https://www.grandhotel.com/our-story/contact-us/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-482,Mackinac Island Hotels | Official Website | Mission Point,Mackinac Island,,,https://www.missionpoint.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-483,Contact - Book Online - Island House Hotel on Mackinac ...,Mackinac Island,,,https://theislandhouse.com/contact/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-484,Contact us at Metivier Inn,Mackinac Island,,,https://www.metivierinn.com/contact/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-485,THE BEST Boutique Hotels in Mackinac Island,Mackinac Island,,,https://www.tripadvisor.com/HotelsList-Mackinac_Island-Hotels-Motels-Boutique-zfp16270297.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-486,Contact Us - Lake View Hotel,Mackinac Island,,,https://www.lvmackinac.com/contact-us,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-487,"Jill Gilpin - Director, Marketing at Island House Hotel",Mackinac Island,,,https://www.zoominfo.com/p/Jill-Gilpin/14448102970,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-488,Mackinac Island 5 Star Hotels,Mackinac Island,,reservations@hoteliroquois.com,https://www.hoteliroquois.com/mackinac-island-contact/,sent,2026-09-15,Serper discovery
+usa-hotel-489,Hilton Beachfront Resort & Spa Hilton Head Island,Hilton Head,,EmailHHHRS_GM@hilton.com,https://www.hilton.com/en/hotels/hhhrshh-hilton-beachfront-resort-and-spa-hilton-head-island/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-490,Hotels by Hilton - Book the Best Rates Across All Brands,Hilton Head,,,https://www.hilton.com/en/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-491,"Hampton Inn Hilton Head Island, SC Hotel",Hilton Head,,EmailHILSC_hampton@hilton.com,https://www.hilton.com/en/hotels/hilschx-hampton-hilton-head/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-492,Contact Us | Small Luxury Hotels of the World | SLH,Hilton Head,,stay@slh.com,https://slh.com/contact-us,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-493,Directory: Hilton Head Hotels & Resorts,Hilton Head,,,https://www.hiltonhead.com/directory/directory-hotels-resorts/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-494,"A Texas Hill Country Getaway | Albert Hotel | Fredericksburg, TX",Fredericksburg,,info@alberthotel.com,https://alberthotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-495,"Emigrant Boutique Hotel | Fredericksburg, TX",Fredericksburg,,,https://www.emigranthotel.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-496,Contact The Emigrant Boutique Hotel,Fredericksburg,,,https://business.fbgtxchamber.org/directory/Contact/LxXoXjML?listingTypeId=mP7DD4LZ,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-497,"Emigrant Boutique Hotel, Fredericksburg",Fredericksburg,,,https://www.hotels.com/ho3858695008/emigrant-boutique-hotel/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-498,EMIGRANT BOUTIQUE HOTEL - Updated September 2026,Fredericksburg,,,https://www.yelp.com/biz/emigrant-boutique-hotel-fredericksburg,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-499,Hampton Inn & Suites Fredericksburg,Fredericksburg,,EmailFBGTX_Hampton_Suites@hilton.com,https://www.hilton.com/en/hotels/fbgtxhx-hampton-suites-fredericksburg/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-500,Fredericksburg Inn & Suites™ - Award Winning Hotel in ...,Fredericksburg,,,https://www.fredericksburg-inn.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-501,"The Publisher, Fredericksburg: A Tribute Portfolio Hotel",Fredericksburg,,,https://fxbg.com/lodging/the-publisher-fredericksburg-a-tribute-portfolio-hotel/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-502,Emigrant Boutique Hotel (@emigrantboutiquehotel),Fredericksburg,,,https://www.instagram.com/emigrantboutiquehotel/?hl=en,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-503,Hotel Tybee: Oceanfront Hotel on Tybee Island GA,Tybee Island,,bloehr@hoteltybee.com,https://www.hoteltybee.com/,sent,2026-09-15,Serper discovery
+usa-hotel-504,Tybee Island hotel| Reservations,Tybee Island,,,https://www.hoteltybee.com/contact,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-505,"10 Best Luxury Hotels in Tybee Island, GA",Tybee Island,,,https://www.hotels.com/de1494103-qu4/luxury-hotels-tybee-island-georgia/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-506,Tybee Island Inn - Hotels,Tybee Island,,,https://www.travelweekly.com/Hotels/Tybee-Island-GA/Tybee-Island-Inn-p59581191,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-507,Atlantis Inn,Tybee Island,,,https://visittybee.com/profile/atlantis-inn/7871,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-508,"Hotel Tybee, Tybee Island, United States. Area information",Tybee Island,,,https://ocean-plaza-beach-resort.h-rez.com/location.htm,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-509,Admiral's Inn · Tybee Island,Tybee Island,,,https://www.admiralsinntybee.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-510,Ojai Valley Inn | Official Site,Ojai,,,https://www.ojaivalleyinn.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-511,"Lavender Inn and Spa/Boutique Hotel/Ojai, CA/Contact ...",Ojai,,Innkeeper@LavenderInn.com,https://lavenderinn.com/contact-us/,sent,2026-09-15,Serper discovery
+usa-hotel-512,Hotel El Roblar | Ojai Hotel & California Resort,Ojai,,,https://theroblar.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-513,The Blue Iguana Inn - Official Site - Boutique Hotel and Spa in ...,Ojai,,,https://www.blueiguanainn.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-514,Contact Us - Ojai Valley Hotel,Ojai,,innkeeper@iguanainnsofojai.com,https://www.emeraldiguana.com/contact-us.htm,sent,2026-09-15,Serper discovery
+usa-hotel-515,"Hotel El Roblar in Ojai, CA United States",Ojai,,,https://maps.apple.com/place?place-id=I921269EFC8F855A9,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-516,'WE DO NOT NEED A NEW POSH BOUTIQUE HOTEL IN OJAI ...,Ojai,,,https://www.instagram.com/reel/DZu9OuqRa-U/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-517,Ojai Rancho Inn,Ojai,,,https://www.ojairanchoinn.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-518,"The Best Hotels in Ojai, California",Ojai,,,https://www.bontraveler.com/ojai-hotels/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-519,Cape Cod Hotels on the Beach,Cape Cod,,concierge@oceanedge.com,https://www.oceanedge.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-520,THE BEST Cape Cod Luxury Boutique Hotels,Cape Cod,,,https://www.tripadvisor.com/HotelsList-Cape_Cod-Luxury-Boutique-Hotels-zfp29245397.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-521,Contact Us | Margaritaville Resort Cape Cod,Cape Cod,,,https://www.margaritavilleresorts.com/margaritaville-resort-cape-cod/contact-us,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-522,Cape Cod Hotel Contact,Cape Cod,,frontdesk@anchorin.com,https://www.anchorin.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-523,Cape Cod Luxury Hotels,Cape Cod,,,https://www.forbestravelguide.com/destinations/cape-cod-massachusetts,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-524,Best boutique and luxury hotels in Cape Cod and Nantucket,Cape Cod,,,https://www.mrandmrssmith.com/destinations/massachusetts/cape-cod-nantucket/hotels,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-525,L'Auberge de Sedona | Luxury Sedona Hotel & Resort,Sedona,,info@lauberge.com,https://www.lauberge.com/,sent,2026-09-15,Serper discovery
+usa-hotel-526,El Portal Sedona Hotel: Boutique Hotel Sedona AZ,Sedona,,,https://elportalsedona.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-527,"Boutique Resort in Sedona, AZ | Arabella Sedona",Sedona,,reservations@arabellahotelsedona.com,https://www.arabellahotelsedona.com/,sent,2026-09-15,Serper discovery
+usa-hotel-528,Sedona Luxury Hotels,Sedona,,,https://www.forbestravelguide.com/destinations/sedona-arizona,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-529,Sedona AZ Spa | Sedona Luxury Hotels | Contact ...,Sedona,,,https://miiamo.com/contact-us/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-530,"Luxury & Boutique Hotels in Sedona, Arizona",Sedona,,contact@slh.com,https://slh.com/americas/usa/sedona,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-531,Hotel Sedona AZ | Enchantment Sedona | Contact,Sedona,,,https://www.enchantmentresort.com/contact/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-532,"Sky Rock Sedona, a Tribute Portfolio Hotel",Sedona,,,https://www.marriott.com/en-us/hotels/flgsx-sky-rock-sedona-a-tribute-portfolio-hotel/overview/,duplicate,2026-09-15,Serper discovery
+usa-hotel-533,"St Julien Hotel & Spa In Boulder, Colorado | Official Site",Boulder,,,https://stjulien.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-534,Hotel in Boulder Colorado|Hotel Near Pearl Street,Boulder,,Reservations@theBradleyBoulder.com,https://www.thebradleyboulder.com/,sent,2026-09-15,Serper discovery
+usa-hotel-535,"Hotel Boulderado- First Class Boulder, CO Hotels",Boulder,,,https://www.travelweekly.com/Hotels/Boulder-CO/Hotel-Boulderado-p4108353,duplicate,2026-09-15,Serper discovery
+usa-hotel-536,"Privacy Policy | Hotel Boulderado – Boulder, Colorado",Boulder,,erin@conceptrestaurants.com,https://www.boulderado.com/privacy-policy/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-537,"Hotel Boulderado, Boulder, Colorado, USA - Hotel Review",Boulder,,,https://www.cntraveler.com/hotels/united-states/boulder/hotel-boulderado,duplicate,2026-09-15,Serper discovery
+usa-hotel-538,THE BEST Boutique Hotels in Boulder 2026 (with Prices),Boulder,,,https://www.tripadvisor.com/HotelsList-Boulder-Hotels-Motels-Boutique-zfp16834703.html,duplicate,2026-09-15,Serper discovery
+usa-hotel-539,Accommodations & Offers - Hotel Boulderado,Boulder,,,https://www.historichotels.org/us/hotels-resorts/hotel-boulderado/accommodations-and-offers,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-540,Hotel Boulderado,Boulder,,,https://indiemusicalliance.net/directory/ima/hotel-boulderado/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-541,"Hotel Boulderado in Boulder, Colorado, is a historic landmark ...",Boulder,,,https://www.facebook.com/ColoradoBusinessFinder/videos/hotel-boulderado-in-boulder-colorado-is-a-historic-landmark-hotel-located-at-211/2192979141505190/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-542,"Contact Us | The Inn of the Five Graces | Santa Fe, NM",Santa,,GuestServices@FiveGraces.com,https://fivegraces.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-543,Santa Fe Downtown Hotels | Contact Us,Santa,,,https://www.hotelsantafe.com/contact,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-544,La Posada de Santa Fe: Luxury Hotel & Resort in New Mexico,Santa,,,https://www.laposadadesantafe.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-545,Hotel St. Francis,Santa,,nmreservations@hhandr.com,https://www.hotelstfrancis.com/,sent,2026-09-15,Serper discovery
+usa-hotel-546,Hotels Downtown Santa Fe NM | Contact Us,Santa,,res@thesagesf.com,https://www.thesagesf.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-547,Santa Fe Hotel Reservations,Santa,,res@innatsf.com,https://www.innatsf.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-548,Santa Fe - Four Seasons Resort Rancho Encantado,Santa,,,https://www.fourseasons.com/santafe/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-549,"La Posada de Santa Fe, a Tribute Portfolio Resort & Spa",Santa,,,https://www.marriott.com/en-us/hotels/saflc-la-posada-de-santa-fe-a-tribute-portfolio-resort-and-spa/overview/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-550,"Emeline | Boutique Hotel in Downtown Charleston, SC",Charleston,,,https://hotelemeline.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-551,"Charleston Luxury Hotels | Hotel Bennett Charleston, SC",Charleston,,,https://www.hotelbennett.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-552,Hotels in Downtown Charleston SC - The Palmetto Hotel ...,Charleston,,,https://www.palmettohotelcharleston.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-553,Contact The Ryder Hotel Charleston | Get In Touch,Charleston,,,https://www.theryderhotel.com/about/contact/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-554,11 Boutique Hotels in Charleston for Southern Charm on ...,Charleston,,,https://www.cntraveler.com/gallery/boutique-hotels-in-charleston-for-southern-charm-on-the-coast,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-555,"Hotels in Charleston, South Carolina",Charleston,,karen.dejong@marriott.com,https://www.pmpa.org/wp-content/uploads/2021/08/Hotels-in-Charleston.pdf,sent,2026-09-15,Serper discovery
+usa-hotel-556,The Windsor Boutique Hotel - Asheville,Asheville,,info@WindsorAsheville.com,https://windsorasheville.com/,sent,2026-09-15,Serper discovery
+usa-hotel-557,The Flat Iron Hotel — Downtown Asheville Boutique Hotel,Asheville,,theflatiron@theindigoroad.com,https://ashevilleflatiron.com/,sent,2026-09-15,Serper discovery
+usa-hotel-558,"Blind Tiger Asheville | Boutique Hotel in Asheville, NC",Asheville,,,https://www.larkhotels.com/north-carolina/asheville/blind-tiger-asheville,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-559,"The Windsor Boutique Hotel- First Class Asheville, NC Hotels",Asheville,,info@windsorasheville.com,https://www.travelweekly.com/Hotels/Asheville/The-Windsor-Boutique-Hotel-p9205938,sent,2026-09-15,Serper discovery
+usa-hotel-560,The Windsor Boutique Hotel (@windsorboutiquehotelavl),Asheville,,info@windsorasheville.com,https://www.instagram.com/windsorboutiquehotelavl/?hl=en,sent,2026-09-15,Serper discovery
+usa-hotel-561,Zelda Dearest | Boutique Hotel Asheville | Official Site,Asheville,,stay@zeldadearest.com,https://www.zeldadearest.com/,sent,2026-09-15,Serper discovery
+usa-hotel-562,Contact Us | Elevation Lofts Hotel Asheville NC,Asheville,,info@elevationloftshotel.com,https://elevationloftshotel.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-563,Hotels/Motels - Asheville Area Chamber of Commerce,Asheville,,,https://web.ashevillechamber.org/cwt/external/wcpages/wcdirectory/directorytest.aspx?CategoryID=52&title=Hotels%2FMotels&adkeyword=Hotels%2FMotels,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-564,"The Windsor Boutique Hotel, Asheville, NC",Asheville,,info@windsorasheville.com,https://www.fivestaralliance.com/4star-hotels/asheville-nc/the-windsor-boutique-hotel,sent,2026-09-15,Serper discovery
+usa-hotel-565,Hotel Napa Valley | Best Hotels to Stay in Napa Valley,Napa,,hotelnapavalley@oldworldinn.com,https://www.hotelnapavalley.com/,sent,2026-09-15,Serper discovery
+usa-hotel-566,Contact White House Napa – Boutique Hotel in Napa Valley,Napa,,info@whitehousenapa.com,https://whitehousenapa.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-567,Hotel Indigo Napa Valley - IHG Hotels & Resorts,Napa,,,https://www.ihg.com/hotelindigo/hotels/us/en/napa-california/sfonv/hoteldetail,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-568,The George | Napa's Newest Boutique Hotel,Napa,,,https://www.thegeorgenapa.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-569,Contact Us at The Napa Inn & Spa,Napa,,,https://www.napainn.com/contact-us,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-570,"Napa Valley Hotel & Suites | BEST HOTEL in Napa, CA",Napa,,info@napavalleyhotelandsuites.com,https://www.napavalleyhotelandsuites.com/,sent,2026-09-15,Serper discovery
+usa-hotel-571,THE 10 BEST Boutique Hotels in Napa Valley,Napa,,,https://www.tripadvisor.com/HotelsList-Napa_Valley-Boutique-Hotels-zfp1609.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-572,Hotel Yountville | A Napa Valley Luxury Resort & Spa,Napa,,,https://www.hotelyountville.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-573,The Palm Springs Hotel | Official Site,Palm,,,https://www.thepalmspringshotel.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-574,Contact V Palm Springs | Boutique Hotel in ...,Palm,,reservations@vpalmsprings.com,https://www.vpalmsprings.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-575,Contact — Palm Springs' best boutique hotel for groups,Palm,,experience@avantstay.com,https://www.elcidpalmsprings.com/contact/meet-your-new-palm-springs-boutique-hotel,sent,2026-09-15,Serper discovery
+usa-hotel-576,Contact Us | Parker Palm Springs Boutique Hotel Resort,Palm,,,https://www.parkerpalmsprings.com/contact-parker,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-577,Fleur Noire Hôtel™ A Lifestyle Boutique Hotel Palm Springs ...,Palm,,info@fleurnoirehotel.com,https://www.fleurnoirehotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-578,Palm Springs Hotel California,Palm,,info@palmspringshotelcalifornia.com,https://palmspringshotelcalifornia.com/,sent,2026-09-15,Serper discovery
+usa-hotel-579,"23 Glamorous Boutique Hotels in Palm Springs, California",Palm,,,https://www.cntraveler.com/story/best-boutique-hotels-in-palm-springs,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-580,"The Douglas | Boutique Hotel in Historic District, Savannah, GA",Savannah,,,https://thedouglas.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-581,Hotel Bardo Savannah | Your Ultimate Stay Experience,Savannah,,hello@staybardo.com,https://www.staybardo.com/,sent,2026-09-15,Serper discovery
+usa-hotel-582,Contact our Luxury Savannah Hotel,Savannah,,information@perrylanehotel.com,https://www.perrylanehotel.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-583,"The Drayton Hotel | Boutique Hotel In Savannah, GA | Georgia ...",Savannah,,,https://www.thedraytonhotel.com/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-584,"Perry Lane Hotel, a Luxury Collection Hotel, Savannah",Savannah,,christina.mcaree@sagehospitalitygroup.com,https://www.marriott.com/en-us/hotels/savlc-perry-lane-hotel-a-luxury-collection-hotel-savannah/overview/,sent,2026-09-15,Serper discovery
+usa-hotel-585,7 Boutique Hotels in Savannah That Capture the City's ...,Savannah,,,https://www.cntraveler.com/gallery/boutique-hotels-in-savannah-that-capture-the-citys-historic-charm,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-586,FIT Friendly Hotels,Savannah,,Christina.Mcaree@SageHospitalityGroup.com,https://visitsavannah.com/sites/default/files/fit_list.pdf,sent,2026-09-15,Serper discovery
+usa-hotel-587,The Present Boutique Hotel Savannah Official Address ...,Savannah,,,https://www.facebook.com/fb-answers/the-present-boutique-hotel-savannah-official-address-phone/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-588,THE 10 BEST Boutique Hotels in Savannah,Savannah,,,https://www.tripadvisor.com/HotelsList-Savannah-Boutique-Hotels-zfp1466.html,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-589,"Contact Us | The Inn of the Five Graces | Santa Fe, NM",Santa,,guestservices@fivegraces.com,https://fivegraces.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-590,Inn at Santa Fe,Santa,,reservations@innatsantafe.com,https://www.santafe.org/listing/inn-at-santa-fe/171/,sent,2026-09-15,Serper discovery
+usa-hotel-591,Santa Fe Downtown Hotels | Contact Us,Santa,,,https://www.hotelsantafe.com/contact,duplicate,2026-09-15,Serper discovery
+usa-hotel-592,La Posada de Santa Fe: Luxury Hotel & Resort in New Mexico,Santa,,,https://www.laposadadesantafe.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-593,Hotels Downtown Santa Fe NM | Contact Us,Santa,,res@thesagesf.com,https://www.thesagesf.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-594,Santa Fe Hotel Reservations,Santa,,res@innatsf.com,https://www.innatsf.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-595,Santa Fe - Four Seasons Resort Rancho Encantado,Santa,,,https://www.fourseasons.com/santafe/,duplicate,2026-09-15,Serper discovery
+usa-hotel-596,"Inn at Santa Fe | Santa Fe, NM 87507",Santa,,,https://www.newmexico.org/listing/inn-at-santa-fe/3115/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-597,"Charleston Luxury Hotels | Hotel Bennett Charleston, SC",Charleston,,,https://www.hotelbennett.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-598,Hotels in Downtown Charleston SC - The Palmetto Hotel ...,Charleston,,,https://www.palmettohotelcharleston.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-599,Contact The Ryder Hotel Charleston | Get In Touch,Charleston,,,https://www.theryderhotel.com/about/contact/,duplicate,2026-09-15,Serper discovery
+usa-hotel-600,"Hotels in Charleston, South Carolina",Charleston,,karen.dejong@marriott.com,https://www.pmpa.org/wp-content/uploads/2021/08/Hotels-in-Charleston.pdf,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-601,Indigo Inn | Charleston | Official Site,Charleston,,info@indigoinn.com,https://www.indigoinn.com/,sent,2026-09-15,Serper discovery
+usa-hotel-602,"Contact The Ansonborough | Boutique Hotel in Charleston, ...",Charleston,,info@theansonborough.com,https://www.theansonborough.com/contact.htm,sent,2026-09-15,Serper discovery
+usa-hotel-603,The Flat Iron Hotel — Downtown Asheville Boutique Hotel,Asheville,,theflatiron@theindigoroad.com,https://ashevilleflatiron.com/,sent,2026-09-15,Serper discovery
+usa-hotel-604,The Windsor Boutique Hotel - Asheville,Asheville,,info@WindsorAsheville.com,https://windsorasheville.com/,sent,2026-09-15,Serper discovery
+usa-hotel-605,"The Windsor Boutique Hotel- First Class Asheville, NC Hotels",Asheville,,info@windsorasheville.com,https://www.travelweekly.com/Hotels/Asheville/The-Windsor-Boutique-Hotel-p9205938,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-606,Contact Us | Elevation Lofts Hotel Asheville NC,Asheville,,info@elevationloftshotel.com,https://elevationloftshotel.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-607,The Windsor Boutique Hotel (@windsorboutiquehotelavl),Asheville,,info@windsorasheville.com,https://www.instagram.com/windsorboutiquehotelavl/?hl=en,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-608,Hotels/Motels - Asheville Area Chamber of Commerce,Asheville,,,https://web.ashevillechamber.org/cwt/external/wcpages/wcdirectory/directorytest.aspx?CategoryID=52&title=Hotels%2FMotels&adkeyword=Hotels%2FMotels,duplicate,2026-09-15,Serper discovery
+usa-hotel-609,"Blind Tiger Asheville | Boutique Hotel in Asheville, NC",Asheville,,,https://www.larkhotels.com/north-carolina/asheville/blind-tiger-asheville,duplicate,2026-09-15,Serper discovery
+usa-hotel-610,Hotel Napa Valley | Best Hotels to Stay in Napa Valley,Napa,,hotelnapavalley@oldworldinn.com,https://www.hotelnapavalley.com/,sent,2026-09-15,Serper discovery
+usa-hotel-611,Contact White House Napa – Boutique Hotel in Napa Valley,Napa,,info@whitehousenapa.com,https://whitehousenapa.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-612,The George | Napa's Newest Boutique Hotel,Napa,,,https://www.thegeorgenapa.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-613,Milliken Creek Inn | Official Site | Napa CA Luxury Boutique ...,Napa,,millikencreekinn@foursisters.com,https://www.millikencreekinn.com/,sent,2026-09-15,Serper discovery
+usa-hotel-614,Hotel Indigo Napa Valley - IHG Hotels & Resorts,Napa,,,https://www.ihg.com/hotelindigo/hotels/us/en/napa-california/sfonv/hoteldetail,duplicate,2026-09-15,Serper discovery
+usa-hotel-615,A downtown wine country boutique hotel Archer Hotel Napa,Napa,,,https://archerhotel.com/napa,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-616,"Casa Mani Resort Napa Valley, Curio Collection by Hilton",Napa,,,https://www.hilton.com/en/hotels/napvpqq-casa-mani-resort-napa-valley/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-617,Hotel Yountville | A Napa Valley Luxury Resort & Spa,Napa,,,https://www.hotelyountville.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-618,THE 10 BEST Boutique Hotels in Napa Valley,Napa,,,https://www.tripadvisor.com/HotelsList-Napa_Valley-Boutique-Hotels-zfp1609.html,duplicate,2026-09-15,Serper discovery
+usa-hotel-619,The Palm Springs Hotel | Official Site,Palm,,,https://www.thepalmspringshotel.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-620,Contact V Palm Springs | Boutique Hotel in ...,Palm,,reservations@vpalmsprings.com,https://www.vpalmsprings.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-621,Contact — Palm Springs' best boutique hotel for groups,Palm,,experience@avantstay.com,https://www.elcidpalmsprings.com/contact/meet-your-new-palm-springs-boutique-hotel,sent,2026-09-15,Serper discovery
+usa-hotel-622,Contact Us | Parker Palm Springs Boutique Hotel Resort,Palm,,,https://www.parkerpalmsprings.com/contact-parker,duplicate,2026-09-15,Serper discovery
+usa-hotel-623,Fleur Noire Hôtel™ A Lifestyle Boutique Hotel Palm Springs ...,Palm,,info@fleurnoirehotel.com,https://www.fleurnoirehotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-624,Avalon Hotel Palm Springs Resort | Downtown Boutique Hotel,Palm,,info@avalonpalmsprings.com,https://www.avalon-hotel.com/palm-springs/,sent,2026-09-15,Serper discovery
+usa-hotel-625,"The Ritz-Carlton, Rancho Mirage | Palm Springs Luxury Hotel",Palm,,,https://www.ritzcarlton.com/en/hotels/pspps-the-ritz-carlton-rancho-mirage/overview/,invalid_no_email,2026-09-15,Serper discovery
+usa-hotel-626,"The Douglas | Boutique Hotel in Historic District, Savannah, GA",Savannah,,,https://thedouglas.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-627,Hotel Bardo Savannah | Your Ultimate Stay Experience,Savannah,,hello@staybardo.com,https://www.staybardo.com/,sent,2026-09-15,Serper discovery
+usa-hotel-628,Contact our Luxury Savannah Hotel,Savannah,,.Locorini@perrylanehotel.com,https://www.perrylanehotel.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-629,"The Drayton Hotel | Boutique Hotel In Savannah, GA | Georgia ...",Savannah,,,https://www.thedraytonhotel.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-630,"Perry Lane Hotel, a Luxury Collection Hotel, Savannah",Savannah,,christina.mcaree@sagehospitalitygroup.com,https://www.marriott.com/en-us/hotels/savlc-perry-lane-hotel-a-luxury-collection-hotel-savannah/overview/,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-631,FIT Friendly Hotels,Savannah,,Valerie@LeftLane.dev,https://visitsavannah.com/sites/default/files/fit_list.pdf,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-632,7 Boutique Hotels in Savannah That Capture the City's ...,Savannah,,,https://www.cntraveler.com/gallery/boutique-hotels-in-savannah-that-capture-the-citys-historic-charm,duplicate,2026-09-15,Serper discovery
+usa-hotel-633,The Present Boutique Hotel Savannah Official Address ...,Savannah,,raiyan@numarix.com,https://www.facebook.com/fb-answers/the-present-boutique-hotel-savannah-official-address-phone/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-634,THE 10 BEST Boutique Hotels in Savannah,Savannah,,,https://www.tripadvisor.com/HotelsList-Savannah-Boutique-Hotels-zfp1466.html,duplicate,2026-09-15,Serper discovery
+usa-hotel-635,L'Auberge de Sedona | Luxury Sedona Hotel & Resort,Sedona,,info@lauberge.com,https://www.lauberge.com/,sent,2026-09-15,Serper discovery
+usa-hotel-636,El Portal Sedona Hotel: Boutique Hotel Sedona AZ,Sedona,,,https://elportalsedona.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-637,"Boutique Resort in Sedona, AZ | Arabella Sedona",Sedona,,reservations@arabellahotelsedona.com,https://www.arabellahotelsedona.com/,sent,2026-09-15,Serper discovery
+usa-hotel-638,Hotel Sedona AZ | Enchantment Sedona | Contact,Sedona,,,https://www.enchantmentresort.com/contact/,duplicate,2026-09-15,Serper discovery
+usa-hotel-639,"Sky Rock Sedona, a Tribute Portfolio Hotel",Sedona,,,https://www.marriott.com/en-us/hotels/flgsx-sky-rock-sedona-a-tribute-portfolio-hotel/overview/,duplicate,2026-09-15,Serper discovery
+usa-hotel-640,Boutique hotels in Sedona - 9,Sedona,,,https://www.myboutiquehotel.com/en/boutique-hotels-sedona/,duplicate,2026-09-15,Serper discovery
+usa-hotel-641,El Portal Sedona Hotel,Sedona,,,https://www.scenicsedona.com/el-portal-sedona-hotel/,duplicate,2026-09-15,Serper discovery
+usa-hotel-642,Sedona Luxury Hotels,Sedona,,,https://www.forbestravelguide.com/destinations/sedona-arizona,duplicate,2026-09-15,Serper discovery
+usa-hotel-643,"St Julien Hotel & Spa In Boulder, Colorado | Official Site",Boulder,,,https://stjulien.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-644,Hotel in Boulder Colorado|Hotel Near Pearl Street,Boulder,,Reservations@theBradleyBoulder.com,https://www.thebradleyboulder.com/,sent,2026-09-15,Serper discovery
+usa-hotel-645,"Hotel Boulderado- First Class Boulder, CO Hotels",Boulder,,,https://www.travelweekly.com/Hotels/Boulder-CO/Hotel-Boulderado-p4108353,duplicate,2026-09-15,Serper discovery
+usa-hotel-646,"Privacy Policy | Hotel Boulderado – Boulder, Colorado",Boulder,,erin@conceptrestaurants.com,https://www.boulderado.com/privacy-policy/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-647,"Hotel Boulderado, Boulder, Colorado, USA - Hotel Review",Boulder,,,https://www.cntraveler.com/hotels/united-states/boulder/hotel-boulderado,duplicate,2026-09-15,Serper discovery
+usa-hotel-648,THE BEST Boutique Hotels in Boulder 2026 (with Prices),Boulder,,,https://www.tripadvisor.com/HotelsList-Boulder-Hotels-Motels-Boutique-zfp16834703.html,duplicate,2026-09-15,Serper discovery
+usa-hotel-649,Hotel Boulderado,Boulder,,,https://indiemusicalliance.net/directory/ima/hotel-boulderado/,duplicate,2026-09-15,Serper discovery
+usa-hotel-650,"Hotel Boulderado in Boulder, Colorado, is a historic landmark ...",Boulder,,,https://www.facebook.com/ColoradoBusinessFinder/videos/hotel-boulderado-in-boulder-colorado-is-a-historic-landmark-hotel-located-at-211/2192979141505190/,duplicate,2026-09-15,Serper discovery
+usa-hotel-651,Hotel Boulderado,Boulder,,,https://boulderdowntown.com/go/hotel-boulderado,duplicate,2026-09-15,Serper discovery
+usa-hotel-652,"Contact Us | The Inn of the Five Graces | Santa Fe, NM",Santa,,GuestServices@FiveGraces.com,https://fivegraces.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-653,Santa Fe Downtown Hotels | Contact Us,Santa,,,https://www.hotelsantafe.com/contact,duplicate,2026-09-15,Serper discovery
+usa-hotel-654,La Posada de Santa Fe: Luxury Hotel & Resort in New Mexico,Santa,,,https://www.laposadadesantafe.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-655,Hotel St. Francis,Santa,,nmreservations@hhandr.com,https://www.hotelstfrancis.com/,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-656,Hotels Downtown Santa Fe NM | Contact Us,Santa,,res@thesagesf.com,https://www.thesagesf.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-657,Santa Fe Hotel Reservations,Santa,,res@innatsf.com,https://www.innatsf.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-658,Santa Fe - Four Seasons Resort Rancho Encantado,Santa,,,https://www.fourseasons.com/santafe/,duplicate,2026-09-15,Serper discovery
+usa-hotel-659,"Inn at Santa Fe | Santa Fe, NM 87507",Santa,,,https://www.newmexico.org/listing/inn-at-santa-fe/3115/,duplicate,2026-09-15,Serper discovery
+usa-hotel-660,"Emeline | Boutique Hotel in Downtown Charleston, SC",Charleston,,,https://hotelemeline.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-661,Hotels in Downtown Charleston SC - The Palmetto Hotel ...,Charleston,,,https://www.palmettohotelcharleston.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-662,"Charleston Luxury Hotels | Hotel Bennett Charleston, SC",Charleston,,,https://www.hotelbennett.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-663,"Hotels in Charleston, South Carolina",Charleston,,karen.dejong@marriott.com,https://www.pmpa.org/wp-content/uploads/2021/08/Hotels-in-Charleston.pdf,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-664,"Contact The Ansonborough | Boutique Hotel in Charleston, ...",Charleston,,info@theansonborough.com,https://www.theansonborough.com/contact.htm,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-665,The Flat Iron Hotel — Downtown Asheville Boutique Hotel,Asheville,,theflatiron@theindigoroad.com,https://ashevilleflatiron.com/,sent,2026-09-15,Serper discovery
+usa-hotel-666,Contact Us | Elevation Lofts Hotel Asheville NC,Asheville,,info@elevationloftshotel.com,https://elevationloftshotel.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-667,The Windsor Boutique Hotel - Asheville,Asheville,,info@WindsorAsheville.com,https://windsorasheville.com/,sent,2026-09-15,Serper discovery
+usa-hotel-668,"The Windsor Boutique Hotel- First Class Asheville, NC Hotels",Asheville,,info@windsorasheville.com,https://www.travelweekly.com/Hotels/Asheville/The-Windsor-Boutique-Hotel-p9205938,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-669,Hotels/Motels - Asheville Area Chamber of Commerce,Asheville,,,https://web.ashevillechamber.org/cwt/external/wcpages/wcdirectory/directorytest.aspx?CategoryID=52&title=Hotels%2FMotels&adkeyword=Hotels%2FMotels,duplicate,2026-09-15,Serper discovery
+usa-hotel-670,"Blind Tiger Asheville | Boutique Hotel in Asheville, NC",Asheville,,,https://www.larkhotels.com/north-carolina/asheville/blind-tiger-asheville,duplicate,2026-09-15,Serper discovery
+usa-hotel-671,The Windsor Boutique Hotel (@windsorboutiquehotelavl),Asheville,,info@windsorasheville.com,https://www.instagram.com/windsorboutiquehotelavl/?hl=en,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-672,Zelda Dearest | Boutique Hotel Asheville | Official Site,Asheville,,stay@zeldadearest.com,https://www.zeldadearest.com/,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-673,Hotel Napa Valley | Best Hotels to Stay in Napa Valley,Napa,,hotelnapavalley@oldworldinn.com,https://www.hotelnapavalley.com/,sent,2026-09-15,Serper discovery
+usa-hotel-674,Contact White House Napa – Boutique Hotel in Napa Valley,Napa,,info@whitehousenapa.com,https://whitehousenapa.com/contact/,sent,2026-09-15,Serper discovery
+usa-hotel-675,The George | Napa's Newest Boutique Hotel,Napa,,,https://www.thegeorgenapa.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-676,Milliken Creek Inn | Official Site | Napa CA Luxury Boutique ...,Napa,,millikencreekinn@foursisters.com,https://www.millikencreekinn.com/,sent,2026-09-15,Serper discovery
+usa-hotel-677,Hotel Indigo Napa Valley - IHG Hotels & Resorts,Napa,,,https://www.ihg.com/hotelindigo/hotels/us/en/napa-california/sfonv/hoteldetail,duplicate,2026-09-15,Serper discovery
+usa-hotel-678,A downtown wine country boutique hotel Archer Hotel Napa,Napa,,,https://archerhotel.com/napa,duplicate,2026-09-15,Serper discovery
+usa-hotel-679,Hotel Yountville | A Napa Valley Luxury Resort & Spa,Napa,,,https://www.hotelyountville.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-680,THE 10 BEST Boutique Hotels in Napa Valley,Napa,,,https://www.tripadvisor.com/HotelsList-Napa_Valley-Boutique-Hotels-zfp1609.html,duplicate,2026-09-15,Serper discovery
+usa-hotel-681,"Napa Valley Hotel & Suites | BEST HOTEL in Napa, CA",Napa,,info@napavalleyhotelandsuites.com,https://www.napavalleyhotelandsuites.com/,sent,2026-09-15,Serper discovery
+usa-hotel-682,The Palm Springs Hotel | Official Site,Palm,,,https://www.thepalmspringshotel.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-683,Contact V Palm Springs | Boutique Hotel in ...,Palm,,reservations@vpalmsprings.com,https://www.vpalmsprings.com/contact,sent,2026-09-15,Serper discovery
+usa-hotel-684,Contact — Palm Springs' best boutique hotel for groups,Palm,,experience@avantstay.com,https://www.elcidpalmsprings.com/contact/meet-your-new-palm-springs-boutique-hotel,sent,2026-09-15,Serper discovery
+usa-hotel-685,Contact Us | Parker Palm Springs Boutique Hotel Resort,Palm,,,https://www.parkerpalmsprings.com/contact-parker,duplicate,2026-09-15,Serper discovery
+usa-hotel-686,Fleur Noire Hôtel™ A Lifestyle Boutique Hotel Palm Springs ...,Palm,,info@fleurnoirehotel.com,https://www.fleurnoirehotel.com/,sent,2026-09-15,Serper discovery
+usa-hotel-687,Palm Springs Hotel California,Palm,,info@palmspringshotelcalifornia.com,https://palmspringshotelcalifornia.com/,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-688,"23 Glamorous Boutique Hotels in Palm Springs, California",Palm,,,https://www.cntraveler.com/story/best-boutique-hotels-in-palm-springs,duplicate,2026-09-15,Serper discovery
+usa-hotel-689,"The Douglas | Boutique Hotel in Historic District, Savannah, GA",Savannah,,,https://thedouglas.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-690,Hotel Bardo Savannah | Your Ultimate Stay Experience,Savannah,,hello@staybardo.com,https://www.staybardo.com/,sent,2026-09-15,Serper discovery
+usa-hotel-691,Contact our Luxury Savannah Hotel,Savannah,,.Locorini@perrylanehotel.com,https://www.perrylanehotel.com/contact-us,sent,2026-09-15,Serper discovery
+usa-hotel-692,"The Drayton Hotel | Boutique Hotel In Savannah, GA | Georgia ...",Savannah,,,https://www.thedraytonhotel.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-693,"Perry Lane Hotel, a Luxury Collection Hotel, Savannah",Savannah,,christina.mcaree@sagehospitalitygroup.com,https://www.marriott.com/en-us/hotels/savlc-perry-lane-hotel-a-luxury-collection-hotel-savannah/overview/,duplicate,2026-09-15,Serper discovery | duplicate of already-sent hotel
+usa-hotel-694,FIT Friendly Hotels,Savannah,,Valerie@LeftLane.dev,https://visitsavannah.com/sites/default/files/fit_list.pdf,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-695,7 Boutique Hotels in Savannah That Capture the City's ...,Savannah,,,https://www.cntraveler.com/gallery/boutique-hotels-in-savannah-that-capture-the-citys-historic-charm,duplicate,2026-09-15,Serper discovery
+usa-hotel-696,The Present Boutique Hotel Savannah Official Address ...,Savannah,,raiyan@numarix.com,https://www.facebook.com/fb-answers/the-present-boutique-hotel-savannah-official-address-phone/,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-697,THE 10 BEST Boutique Hotels in Savannah,Savannah,,,https://www.tripadvisor.com/HotelsList-Savannah-Boutique-Hotels-zfp1466.html,duplicate,2026-09-15,Serper discovery
+usa-hotel-698,L'Auberge de Sedona | Luxury Sedona Hotel & Resort,Sedona,,info@lauberge.com,https://www.lauberge.com/,sent,2026-09-15,Serper discovery
+usa-hotel-699,El Portal Sedona Hotel: Boutique Hotel Sedona AZ,Sedona,,,https://elportalsedona.com/,duplicate,2026-09-15,Serper discovery
+usa-hotel-700,"Boutique Resort in Sedona, AZ | Arabella Sedona",Sedona,,reservations@arabellahotelsedona.com,https://www.arabellahotelsedona.com/,sent,2026-09-15,Serper discovery
+usa-hotel-701,Sedona Luxury Hotels,Sedona,,,https://www.forbestravelguide.com/destinations/sedona-arizona,duplicate,2026-09-15,Serper discovery
+usa-hotel-702,Sedona AZ Spa | Sedona Luxury Hotels | Contact ...,Sedona,,,https://miiamo.com/contact-us/,duplicate,2026-09-15,Serper discovery
+usa-hotel-703,"Luxury & Boutique Hotels in Sedona, Arizona",Sedona,,contact@slh.com,https://slh.com/americas/usa/sedona,invalid_non_hotel,2026-09-15,Serper discovery
+usa-hotel-704,Hotel Sedona AZ | Enchantment Sedona | Contact,Sedona,,,https://www.enchantmentresort.com/contact/,duplicate,2026-09-15,Serper discovery
+usa-hotel-705,"Sky Rock Sedona, a Tribute Portfolio Hotel",Sedona,,,https://www.marriott.com/en-us/hotels/flgsx-sky-rock-sedona-a-tribute-portfolio-hotel/overview/,duplicate,2026-09-15,Serper discovery
+usa-hotel-706,W Austin,Austin,,info@whotels.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-707,Fairmont Austin,Austin,,jane.doe@fairmont.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-708,Cambria Hotel Austin Airport,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-709,The Stephen F Austin Royal Sonesta Hotel,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-710,JW Marriott Austin,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-711,The Westin Austin at The Domain,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-712,Drury Inn & Suites Austin North,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-713,Hampton Inn Austin East Side 5th Street,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-714,Residence Inn Austin Airport,Austin,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-715,Biltmore Hotel Miami Coral Gables,Miami,,austin@fairmont.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-716,Four Seasons Hotel Miami,Miami,,info@fourseasons.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-717,InterContinental Miami,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-718,JW Marriott Marquis Miami,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-719,Eden Roc Resort Miami Beach,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-720,Miami Beach Resort Spa,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-721,JW Marriott Miami Turnberry Resort & Spa,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-722,the goodtime hotel,Miami,,chicagostay@virginhotels.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-723,EB Hotel Miami,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-724,Hotel Miami Springs inn,Miami,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-725,Hotel Denver,Denver,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-726,Renaissance Nashville Hotel,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-727,Club-Hotel Nashville,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-728,Drury Plaza Hotel Nashville Downtown,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-729,Cambria Hotel Nashville Midtown,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-730,Best Western Plus Nashville Airport Hotel,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-731,Country Inn & Suites,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-732,Comfort Inn & Suites Nashville Downtown - Stadium,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-733,La Quinta Inn Nashville South,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-734,Holiday Inn Express Nashville Downtown,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-735,Holiday Inn Nashville Downtown - Stadium,Nashville,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-736,The Hotel Zags Portland,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-737,AC Hotel by Marriott Portland Downtown,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-738,Radisson Hotel Portland Airport,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-739,Home2 Suites by Hilton Portland Airport OR,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-740,Clarion Hotel Portland International Airport,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-741,Best Western Plus Portland Airport Hotel & Suites,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-742,La Quinta Inn & Suites Portland NW,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-743,Sheraton Portland Airport,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-744,Holiday Inn Portland-Airport,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-745,Sojourn Suites Portland Airport,Portland,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-746,Hyatt Regency Phoenix,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-747,Sheraton Grand Phoenix,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-748,Renaissance Phoenix Downtown Hotel,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-749,Hotel Palomar Phoenix - a Kimpton Hotel,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-750,FOUND:RE Phoenix Hotel,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-751,Downtown Phoenix Hotel,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-752,AC Hotel by Marriott Phoenix North Norterra,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-753,Fairfield Inn & Suites Phoenix West/Tolleson,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-754,Red Roof Inn Phoenix North - I-17 at Bell Rd,Phoenix,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-755,The St. Anthony,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-756,Surestay Plus Hotel San Antonio Airport,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-757,Holiday Inn Hotel & Suites San Antonio Northwest,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-758,Sheraton Gunter Hotel San Antonio,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-759,Holiday Inn Express Hotel & Suites San Antonio-Downtown Market Area,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-760,Hotel Gibbs Downtown San Antonio Riverwalk,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-761,Hotel San Diego,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-762,Trump International Hotel & Tower Chicago,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-763,Virgin Hotels Chicago,Chicago,,chicagostay@virginhotels.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-764,Chicago Hilton & Towers,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-765,Pendry Chicago,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-766,Warwick Allerton Hotel Chicago,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-767,Residence Inn Chicago Downtown/Loop,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-768,Waldorf Astoria Chicago,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-769,Fairmont Hotel Chicago,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-770,Loews Chicago Downtown,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-771,Sofitel Chicago Magnificent Mile,Chicago,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-772,Hotel Boston,Boston,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-773,The Fairmont San Francisco Hotel,San,,austin@fairmont.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-774,Intercontinental San Francisco,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-775,Omni San Francisco Hotel,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-776,Stanford Court San Francisco Hotel,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-777,Parc 55 San Francisco - a Hilton Hotel,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-778,Hyatt Regency San Francisco Downtown SOMA,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-779,Hotel Nikko San Francisco,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-780,Hotel Zephyr San Francisco,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-781,BEI Hotel San Francisco,San,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-782,Hotel MGM Grand Las Vegas,Las,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-783,Bellagio Las Vegas,Las,,bellagio@bellagiolasvegas.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-784,The Venetian Las Vegas,Las,,info@parislasvegas.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-785,Paris Las Vegas,Las,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-786,Flamingo Las Vegas,Las,,info@flamingolasvegas.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-787,The Cosmopolitan of Las Vegas,Las,,info@cosmopolitanlasvegas.com,,sent,2026-09-15,OSM Nominatim discovery
+usa-hotel-788,Luxor Las Vegas,Las,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-789,Horseshoe Las Vegas,Las,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-790,Park MGM,Las,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-791,Hotel Los Ángeles,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-792,DoubleTree by Hilton Hotel Los Angeles Downtown,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-793,Millennium Biltmore Hotel,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-794,Best Western Airpark Hotel-Los Angeles Lax Airport,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-795,Conrad Los Angeles Hotel,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-796,Omni Los Angeles Hotel,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-797,Americas Best Value Inn & Suites Los Angeles Downtown SW,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-798,Hampton Inn by Hilton Los Angeles Airport,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-799,Los Angeles Athletic Club,Los,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-800,Waldorf Astoria New York,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-801,New York Marriott Marquis,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-802,Sheraton New York Times Square Hotel,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-803,The Peninsula New York,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-804,Grand Hyatt New York,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-805,Hilton New York Midtown,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-806,The Lexington,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-807,InterContinental New York Barclay,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery
+usa-hotel-808,Lotte New York Palace,New,,,,invalid_no_email,2026-09-15,OSM Nominatim discovery

@@ -37,7 +37,25 @@ try:
     sys.path.insert(0, os.environ.get("LEADS_HOME", os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
     from telegram_notifier import send_message, load_config as tg_load_config
 except Exception:
-    send_message = tg_load_config = None
+    # Fallback: walk up to find telegram_notifier.py
+    try:
+        _dir = os.path.dirname(os.path.abspath(__file__))
+        for _ in range(5):
+            if os.path.exists(os.path.join(_dir, "telegram_notifier.py")):
+                sys.path.insert(0, _dir)
+                from telegram_notifier import send_message, load_config as tg_load_config
+                break
+            _dir = os.path.dirname(_dir)
+        else:
+            send_message = tg_load_config = None
+    except Exception:
+        send_message = tg_load_config = None
+
+# Debug: verify import
+if send_message is None:
+    print("WARNING: telegram_notifier import failed — no Telegram notifications")
+else:
+    print("Telegram notifier loaded successfully")
 
 if hasattr(sys.stdout, "reconfigure"):
     try:
@@ -200,22 +218,25 @@ def main():
             bot_token = tg_cfg.get('bot_token')
             chat_id = tg_cfg.get('chat_id')
             if bot_token and chat_id and sent > 0:
-                mode = "📤 <b>Email Sent</b>" if not args.dry_run else "✏️ <b>Dry-Run Preview</b>"
-                lines = [f"{mode} — {sent} lead(s)"]
+                mode = "\U0001f4e4 <b>Email Sent</b>" if not args.dry_run else "\u270f <b>Dry-Run Preview</b>"
+                lines = [f"{mode} \u2014 {sent} lead(s)"]
                 for lead in leads[:sent]:
                     name = lead.get('hotel_name','')
                     city = lead.get('city','')
                     email = lead.get('email','')
                     subject, _ = render(lead, cfg)
                     status = lead.get('outreach_status','identified')
-                    lines.append(f"\n🏨 {name} | {city}")
-                    lines.append(f"📧 {email}")
-                    lines.append(f"📋 {subject}")
-                    lines.append(f"🔹 Status: {status}")
+                    lines.append(f"\n\U0001f3e9 {name} | {city}")
+                    lines.append(f"\n\U0001f4e7 {email}")
+                    lines.append(f"\n\U0001f4cb {subject}")
+                    lines.append(f"\n\U0001f511 Status: {status}")
                 text = "\n".join(lines)
-                send_message(bot_token, chat_id, text)
-        except Exception:
-            pass
+                result = send_message(bot_token, chat_id, text)
+                print(f"  [Telegram] Notification result: {result.get('ok', False)}")
+        except Exception as e:
+            import traceback
+            print(f"  [Telegram] Error: {e}")
+            traceback.print_exc()
 
 
 if __name__ == "__main__":

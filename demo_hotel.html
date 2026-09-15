@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Executive Hotel Pacific Downtown Seattle - Demo</title>
+    <script src="https://cdn.tailwindcss"></script>
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-blue-900 text-white p-4">
+        <div class="container mx-auto flex justify-between">
+            <h1 class="text-xl font-bold">Executive Hotel Pacific Downtown Seattle</h1>
+            <a href="#book" class="bg-yellow-500 text-black px-4 py-2 rounded">Book Now</a>
+        </div>
+    </nav>
+
+    <section class="bg-cover bg-center h-96" style="background-image: url('https://images.unsplash.com/photo-1566073771259-6a8506099945')">
+        <div class="bg-black bg-opacity-50 h-full flex items-center">
+            <div class="container mx-auto text-white px-4">
+                <h2 class="text-5xl font-bold">Executive Hotel Pacific Downtown Seattle</h2>
+                <p class="text-xl mt-4">Luxury boutique hotel in the heart of Seattle</p>
+                <a href="#book" class="inline-block mt-6 bg-yellow-500 text-black px-6 py-3 rounded font-bold">Check Availability</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="container mx-auto px-4 py-12">
+        <h2 class="text-3xl font-bold mb-6">Rooms & Suites</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="bg-white rounded-lg shadow">
+                <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304" class="w-full h-48 object-cover rounded-t-lg">
+                <div class="p-4">
+                    <h3 class="font-bold text-xl">Deluxe King Room</h3>
+                    <p class="text-gray-600">Spacious room with city views</p>
+                    <p class="text-blue-900 font-bold mt-2">$249/night</p>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow">
+                <img src="https://images.unsplash.com/photo-1611892440505-8f402d3a8ca3" class="w-full h-48 object-cover rounded-t-lg">
+                <div class="p-4">
+                    <h3 class="font-bold text-xl">Executive Suite</h3>
+                    <p class="text-gray-600">Separate living area, skyline views</p>
+                    <p class="text-blue-900 font-bold mt-2">$449/night</p>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow">
+                <img src="https://images.unsplash.com/photo-1582582621959-48d27397dc69" class="w-full h-48 object-cover rounded-t-lg">
+                <div class="p-4">
+                    <h3 class="font-bold text-xl">Presidential Suite</h3>
+                    <p class="text-gray-600">Premium suite, private terrace</p>
+                    <p class="text-blue-900 font-bold mt-2">$899/night</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="book" class="bg-white py-12">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center mb-8">Book Direct & Save 15%</h2>
+            <div class="max-w-md mx-auto bg-gray-50 p-6 rounded-lg">
+                <form>
+                    <div class="mb-4">
+                        <label class="block text-sm font-bold mb-2">Check-in</label>
+                        <input type="date" class="w-full p-3 border rounded">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-sm font-bold mb-2">Check-out</label>
+                        <input type="date" class="w-full p-3 border rounded">
+                    </div>
+                    <div class="mb-4">
+                        <label class="block text-sm font-bold mb-2">Guests</label>
+                        <select class="w-full p-3 border rounded">
+                            <option>1 Guest</option>
+                            <option>2 Guests</option>
+                            <option>3 Guests</option>
+                            <option>4 Guests</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="w-full bg-blue-900 text-white py-3 rounded font-bold">Check Availability</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-gray-800 text-white py-6">
+        <div class="container mx-auto px-4 text-center">
+            <p>Executive Hotel Pacific Downtown Seattle - Demo Website</p>
+            <p class="text-sm mt-2">Built with Tailwind CSS | Direct Booking Demo</p>
+        </div>
+    </footer>
+</body>
+</html>

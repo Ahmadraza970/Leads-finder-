@@ -1,209 +1,298 @@
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 25)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Pune...
-  [✓] Pune: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 10)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Goa...
-  [✓] Goa: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 25)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Pune...
-  [✓] Pune: 25 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Hotel Name                       | Location     | Phone            | Status
--------------------------------------------------------------------------------------
-Sun N Sand                       | Pune         | Not on Maps      | No website (OTA depend
-Sriman                           | Pune         | Not on Maps      | No website (OTA depend
-Sirona                           | Pune         | Not on Maps      | No website (OTA depend
-Aurora Towers                    | Pune         | Not on Maps      | No website (OTA depend
-Raviraj                          | Pune         | Not on Maps      | No website (OTA depend
-Sagar Plaza                      | Pune         | Not on Maps      | No website (OTA depend
-The Gordon House                 | Pune         | Not on Maps      | No website (OTA depend
-MIT School Of Design             | Pune         | Not on Maps      | No website (OTA depend
-P.G.HOSTEL                       | Pune         | Not on Maps      | No website (OTA depend
-Hotel Executive Residency        | Pune         | Not on Maps      | No website (OTA depend
-shitai hotel                     | Pune         | Not on Maps      | No website (OTA depend
-IISER New Hall of Residence      | Pune         | Not on Maps      | No website (OTA depend
-MAE girls hostel                 | Pune         | Not on Maps      | No website (OTA depend
-Sadanand                         | Pune         | Not on Maps      | No website (OTA depend
-Viva Inn                         | Pune         | Not on Maps      | No website (OTA depend
-Ritz Hotel                       | Pune         | Not on Maps      | No website (OTA depend
-Takshashila                      | Pune         | Not on Maps      | No website (OTA depend
-Meghmalhar                       | Pune         | Not on Maps      | No website (OTA depend
-Ganga Bhagyoday                  | Pune         | 02041420000      | No website (OTA depend
-Rahane Arcade                    | Pune         | Not on Maps      | No website (OTA depend
-... and 5 more leads in C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 10)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Goa...
-  [✓] Goa: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-[2026-09-06 18:49:41] === Daily Auto Pipeline START ===
-[2026-09-06 18:49:41] Step 1: Finding leads Pune+Goa via indian_hotel_agent
-[2026-09-06 18:50:02] Step 2: Serper enrich for leads without email
-[2026-09-06 18:50:05] Enriched Hotel Paradise Continental -> -
-[2026-09-06 18:50:08] Enriched Bunkotel -> -
-[2026-09-06 18:50:10] Enriched The Cliffe -> info@cliffecottage.com
-[2026-09-06 18:50:13] Enriched Hotel raj palace -> -
-[2026-09-06 18:50:16] Enriched The three oaks boutique hotel -> -
-[2026-09-06 18:50:19] Enriched Vikas Hotel -> -
-[2026-09-06 18:50:23] Enriched FabHotel Clock View -> -
-[2026-09-06 18:50:26] Enriched Hotel Satyaheera -> -
-[2026-09-06 18:50:29] Enriched Urmila Guest House -> -
-[2026-09-06 18:50:32] Enriched Hotel Executive Residency -> -
-[2026-09-06 18:50:35] Enriched Viva Inn -> -
-[2026-09-06 18:50:38] Enriched Chandan Heights -> -
-[2026-09-06 18:50:42] Enriched Swagat Luxury Lodging -> -
-[2026-09-06 18:50:45] Enriched Shreemangal Palace -> -
-[2026-09-06 18:50:47] Enriched Chandrakant Residency A -> -
-[2026-09-06 18:50:50] Enriched Jijai Palace -> -
-[2026-09-06 18:50:53] Enriched Jijai Heights -> -
-[2026-09-06 18:50:58] Enriched Pankaj Society -> -
-[2026-09-06 18:51:03] Enriched Sai Residency -> -
-[2026-09-06 18:51:05] Enriched Jagdamba Apartment -> -
-[2026-09-06 18:51:07] Enriched 1/20
-[2026-09-06 18:51:07] Step 2b: Strict verify (MX via 8.8.8.8, drop bad domains)
-[2026-09-06 18:51:22] Cleaning in-lead-016 info@cliffecottage.com (no MX)
-[2026-09-06 18:51:25] Cleaning in-lead-034 contact@hotelgreenparkgoa.com (known bad)
-[2026-09-06 18:51:27] Cleaning in-lead-043 contact@gtdchotel.com (known bad)
-[2026-09-06 18:51:31] Cleaning in-lead-059 reservations@sunnsandpune.com (no MX)
-[2026-09-06 18:51:36] Cleaning in-lead-091 contactus@commonfloor.com (known bad)
-[2026-09-06 18:51:36] Cleaning in-lead-093 contactus@commonfloor.com (known bad)
-[2026-09-06 18:51:37] Cleaning in-lead-097 contactus@commonfloor.com (known bad)
-[2026-09-06 18:51:37] Strict cleaned 7, now 73/108 with email
-[2026-09-06 18:51:37] Step 2c: Syncing enriched emails + sent status to CSV
-Traceback (most recent call last):
-  File "C:\Users\AHMAD RAJA\Desktop\hermes\daily_auto_pipeline.py", line 247, in <module>
-    sync_csv()
-    ~~~~~~~~^^
-  File "C:\Users\AHMAD RAJA\Desktop\hermes\daily_auto_pipeline.py", line 150, in sync_csv
-    log(f"CSV synced: {len(rows)} rows, emails: {emails_before}\u2192{emails_after}, sent marked: {len(sent_ids)}")
-    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\AHMAD RAJA\Desktop\hermes\daily_auto_pipeline.py", line 28, in log
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}")
-    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\AHMAD RAJA\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
-    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
-           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 54: character maps to <undefined>
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 25)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Pune...
-  [✓] Pune: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 10)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Goa...
-  [✓] Goa: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-^C^C^C
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 25)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Pune...
-  [✓] Pune: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-
-===========================================================================
-🇮🇳 HERMES INDIAN HOTEL LEAD GEN & OUTREACH AGENT (DAILY TARGET: 10)
-===========================================================================
-Mode             : DISCOVERY & PITCH PREVIEW
-Target Output    : C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-Workers          : 5 parallel city scanners
-===========================================================================
-  [→] Scanning Goa...
-  [✓] Goa: 0 candidates found
-
-===========================================================================
-✨ DAILY HARVEST FINISHED: 0 New Leads Added Today
-📁 Total leads in Hermes: C:\Users\AHMAD RAJA\Desktop\hermes\indian_hotel_leads.csv
-===========================================================================
-
-Tip: Run with '--send' to automatically email all qualified leads via SMTP.
-^C^C^C^C^C
+[2026-09-10 15:04:48] === USA Daily Auto Pipeline START ===
+[2026-09-10 15:04:48] Step 1: Finding USA hotel leads via usa_hotel_agent.py & us_serper_live.py
+Scanning USA city: New York...
+ -> Found 20, Added 0 new leads. Total DB: 197
+Scanning USA city: Los Angeles...
+Overpass API error for Los Angeles: HTTP Error 504: Gateway Timeout
+ -> Found 0, Added 0 new leads. Total DB: 197
+Scanning USA city: Miami...
+ -> Found 20, Added 18 new leads. Total DB: 215
+Scanning USA city: Las Vegas...
+Overpass API error for Las Vegas: HTTP Error 504: Gateway Timeout
+ -> Found 0, Added 0 new leads. Total DB: 215
+Scanning USA city: Orlando...
+ -> Found 20, Added 17 new leads. Total DB: 232
+Scanning USA city: Chicago...
+ -> Found 20, Added 0 new leads. Total DB: 232
+Scanning USA city: San Francisco...
+Overpass API error for San Francisco: HTTP Error 504: Gateway Timeout
+ -> Found 0, Added 0 new leads. Total DB: 232
+Scanning USA city: Austin...
+ -> Found 20, Added 0 new leads. Total DB: 232
+Scanning USA city: New Orleans...
+ -> Found 20, Added 20 new leads. Total DB: 252
+Scanning USA city: Seattle...
+Overpass API error for Seattle: HTTP Error 504: Gateway Timeout
+ -> Found 0, Added 0 new leads. Total DB: 252
+Scanning USA city: Boston...
+ -> Found 20, Added 0 new leads. Total DB: 252
+Scanning USA city: Denver...
+ -> Found 20, Added 19 new leads. Total DB: 271
+Scanning USA city: San Diego...
+ -> Found 20, Added 20 new leads. Total DB: 291
+Scanning USA city: Nashville...
+ -> Found 20, Added 20 new leads. Total DB: 311
+Scanning USA city: Savannah...
+Overpass API error for Savannah: HTTP Error 504: Gateway Timeout
+ -> Found 0, Added 0 new leads. Total DB: 311
+[→] Serper live USA search: New York
+[→] Serper live USA search: Miami
+[→] Serper live USA search: Los Angeles
+[→] Serper live USA search: Las Vegas
+[→] Serper live USA search: Orlando
+[→] Serper live USA search: Austin
+[→] Serper live USA search: Seattle
+[→] Serper live USA search: Denver
+[→] Serper live USA search: San Francisco
+[→] Serper live USA search: Boston
+Serper USA live search completed. Added 8 new leads.
+[2026-09-10 15:14:51] Lead discovery completed.
+[2026-09-10 15:14:51] Step 2: Enriching missing emails and phone numbers via Serper
+[2026-09-10 15:27:54] Enriched 251 lead records.
+[2026-09-10 15:27:54] Step 3: Strict MX record email verification
+[2026-09-10 15:28:50] Verification complete. Valid leads ready: 238
+[2026-09-10 15:28:50] Syncing USA CSV status
+[2026-09-10 15:28:54] Step 4: Pushing verified USA leads to Google Sheet
+[2026-09-10 15:28:56] Google Sheet push error: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:28:56] Step 5: Sending cold emails via Gmail API (sender: mithsjames87@gmail.com)
+[2026-09-10 15:28:57] Failed to send to hotelindigoatx@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:00] Failed to send to downtownaustin@placemakr.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:03] Failed to send to discoveryteam@wyn.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:06] Failed to send to atx.concierge@thelorenhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:10] Failed to send to ATXP.info@properhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:13] Failed to send to EmailAUSPF_home2@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:16] Failed to send to EmailAUSPV_TRU@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:19] Failed to send to campmabrylodging@military.texas.gov: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:22] Failed to send to EmailAUSBW_TRU@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:26] Failed to send to aus78753@woodspring.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:29] Failed to send to AUSCV_GM@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:32] Failed to send to hiexpress.nwaustin@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:35] Failed to send to reservations@kimberlyhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:38] Failed to send to reservations@hotelatfifthavenyc.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:42] Failed to send to info.newyork@virginhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:45] Failed to send to info@theradiohotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:48] Failed to send to info@nomosoho.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:51] Failed to send to stay@slh.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:54] Failed to send to talktous@themusehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:29:57] Failed to send to bookings@southbeachgroup.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:01] Failed to send to reservations@circa39.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:04] Failed to send to info@esmehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:07] Failed to send to sales@lennoxhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:10] Failed to send to frontdesk@casamiamihotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:14] Failed to send to info@theaventurahotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:17] Failed to send to info@liveaustinproper.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:20] Failed to send to info@swankguide.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:23] Failed to send to guestservices@oliviahotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:26] Failed to send to dine@carahotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:37] Failed to send to Email-Support@hotelbedssupportusa.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:40] Failed to send to privacy@wynnresorts.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:43] Failed to send to frontdesk@tblv.vegas: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:46] Failed to send to reservations@stayskysuitesidriveorlando.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:49] Failed to send to cfhla_info@cfhla.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:53] Failed to send to info@staydh.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:56] Failed to send to LQ0171gm@LaQuinta.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:30:59] Failed to send to stay@slh.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:02] Failed to send to austincambriafd@pyramidglobal.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:05] Failed to send to stay@framehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:08] Failed to send to reservations@hotelviata.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:12] Failed to send to stay@framehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:15] Failed to send to info@statehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:18] Failed to send to frontdesk.seattle@executivehotels.net: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:21] Failed to send to stay@collegeinnseattle.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:24] Failed to send to info@harrysguesthouse.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:28] Failed to send to Sales@ForeverTinyHomes.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:31] Failed to send to reservations@edgewaterhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:34] Failed to send to info@innatthemarket.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:37] Failed to send to info@catbirdhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:40] Failed to send to sarai.aragonl@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:44] Failed to send to reservations@therallyhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:47] Failed to send to info@bestchamber.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:50] Failed to send to info@thecurtis.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:53] Failed to send to sm@claytondenver.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:31:56] Failed to send to info@populusdenver.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:00] Failed to send to caprimotelsfo@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:03] Failed to send to info@hotelviasf.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:06] Failed to send to reservations@beihotelsf.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:09] Failed to send to sfp.frontdesk@properhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:12] Failed to send to reservations@hoteldrisco.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:16] Failed to send to contact@slh.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:19] Failed to send to info@harborsideinnboston.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:22] Failed to send to info@envoyhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:25] Failed to send to Sadie@BringBackDoors.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:28] Failed to send to sales@whitneyhotelboston.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:32] Failed to send to guide@copleysquarehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:35] Failed to send to CambriaInfo@cambriaboston.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:38] Failed to send to belleclairesales@triumphhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:41] Failed to send to wsyrooms@ymcanyc.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:45] Failed to send to wsyrooms@ymcanyc.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:48] Failed to send to americana@newyorkhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:52] Failed to send to conradconcierge_newyorkdowntown@ConradHotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:55] Failed to send to info@triumphny.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:32:58] Failed to send to frontdesk@hielatham.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:01] Failed to send to MONYC-RESERVATIONS@MOHG.COM: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:04] Failed to send to info@hotel99.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:08] Failed to send to sev.sales@standardhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:11] Failed to send to hello@hotelparkave.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:14] Failed to send to reservations@fitzpatrickhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:17] Failed to send to stregisny.res@stregis.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:20] Failed to send to help@tryphotelnyc.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:24] Failed to send to info@nighthotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:27] Failed to send to tla@stayinglevel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:30] Failed to send to Dtlap.info@properhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:33] Failed to send to incominghotel@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:36] Failed to send to laconventioninn17@aol.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:39] Failed to send to reserve@hilosangeles.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:43] Failed to send to reservations@innatvenicebeach.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:46] Failed to send to info@thehoteljune.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:49] Failed to send to loewshotelsreservations@loewshotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:52] Failed to send to hollywood@samesun.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:55] Failed to send to reservations@theredondo.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:33:58] Failed to send to Development@Sonesta.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:02] Failed to send to booking@wilshiremotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:05] Failed to send to hollywood1@bananabungalows.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:08] Failed to send to spartakmt@yahoo.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:11] Failed to send to info@chicagocitysuites.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:14] Failed to send to EmailCHITD_Hampton@Hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:17] Failed to send to guestservices@clubquarters.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:21] Failed to send to Jeremy.Roberts@ritzcarlton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:24] Failed to send to FrontDesk_RSRiverNorth@sonesta.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:27] Failed to send to hivocoinfo@firsthospitality.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:30] Failed to send to info@chicagoriverhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:33] Failed to send to info@urbanholidayusa.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:36] Failed to send to host@cityscenebb.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:40] Failed to send to tlchi.info@langhamhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:43] Failed to send to loyolalodging@luc.edu: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:46] Failed to send to chinr@whitelodging.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:49] Failed to send to hyattchizd@whitelodging.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:52] Failed to send to aloft3370@whitelodging.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:56] Failed to send to stay@manilowsuites.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:34:59] Failed to send to info@hotelviasf.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:02] Failed to send to abrfrontdesk@metwestterra.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:05] Failed to send to reservations@chancellorhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:08] Failed to send to frontdesk@andrewshotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:12] Failed to send to starmotelsf@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:15] Failed to send to sfdowntown@hiusa.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:18] Failed to send to SFDowntown@hiusa.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:21] Failed to send to info@sanfranciscohostel.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:24] Failed to send to watersedge@marinhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:28] Failed to send to info@sfmayflowerhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:31] Failed to send to stay@themetrohotelsf.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:34] Failed to send to handlerysf@handlery.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:37] Failed to send to sfp.frontdesk@properhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:41] Failed to send to frontdesk.seattle@executivehotels.net: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:44] Failed to send to guestservicessea@stayinglevel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:47] Failed to send to leasing@samis.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:50] Failed to send to stay@americanhotelseattle.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:53] Failed to send to hello@HotelHotel.co: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:35:57] Failed to send to reservations@moorehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:00] Failed to send to info@belltown-inn.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:03] Failed to send to shs.seadt.gm@marriott.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:06] Failed to send to reservations@edgewaterhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:09] Failed to send to cy.seatc.gm@marriott.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:12] Failed to send to info@greentortoise.net: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:16] Failed to send to seattle.grand@hyatt.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:19] Failed to send to reservations@edgewaterhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:22] Failed to send to can.mehdigil@marriott.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:26] Failed to send to stay@collegeinnseattle.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:29] Failed to send to waterfront.sales@westin.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:32] Failed to send to cambridgereservations@lemeridiencambridge.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:35] Failed to send to reservations@bhh.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:38] Failed to send to info@reverehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:42] Failed to send to reservations@colonnadehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:45] Failed to send to EmailBOSCO_Inquiry@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:48] Failed to send to email@eliothotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:51] Failed to send to info@hotelcommonwealth.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:54] Failed to send to info@innatlongwood.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:36:57] Failed to send to qualitybosto@hyatt.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:01] Failed to send to westincopley@westin.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:04] Failed to send to Hello@StayThatch.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:07] Failed to send to guide@copleysquarehotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:10] Failed to send to info@THEREVOLUTIONHOTEL.COM: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:13] Failed to send to BCguestservices@stayaka.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:17] Failed to send to RC-Bostonleads@ritzcarlton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:20] Failed to send to info@harborsideinnboston.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:23] Failed to send to resv@miamiairporthotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:26] Failed to send to corporate@roundtrip.travel: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:29] Failed to send to reservations@thebetsyhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:32] Failed to send to EventsSoBe@mangos.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:36] Failed to send to reservations@vmmiamibeach.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:39] Failed to send to reservations-miamibeach@faena.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:42] Failed to send to reservations@marseilleshotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:46] Failed to send to info@themiamisunhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:49] Failed to send to hellowynwood@arlohotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:52] Failed to send to MiamiBilling@ihg.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:55] Failed to send to EmailMIADT_Hotel@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:37:59] Failed to send to frontdesk@epichotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:02] Failed to send to mia.contact@yotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:05] Failed to send to mia.contact@yotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:08] Failed to send to StaybridgeReservations@BuffaloLodging.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:11] Failed to send to infolbv@roseninns.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:14] Failed to send to customer.advocacy@vacationclub.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:18] Failed to send to EmailMCOIN_Home2@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:21] Failed to send to mchotels@micasahotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:24] Failed to send to thefloridahotel@thefloridahotelorlando.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:29] Failed to send to EmailHGIOrlandoReservations@buffalolodging.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:32] Failed to send to ORLNO_hampton@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:36] Failed to send to info@staydh.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:39] Failed to send to MCOLN_GM@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:42] Failed to send to customer.care@vacationclub.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:45] Failed to send to 407-972-1183stay@villatelresort.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:48] Failed to send to events@hotelpeterandpaul.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:51] Failed to send to guestservice@frenchmarketinn.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:54] Failed to send to gm@hoteltheoneworleans.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:38:58] Failed to send to mercantilehotelneworleans@innisfreehotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:01] Failed to send to fddauphine@jcollectionhotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:04] Failed to send to indiahousehostel@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:07] Failed to send to Sugar722@AOL.COM: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:10] Failed to send to info@saintvincentnola.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:14] Failed to send to info@qandc.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:17] Failed to send to bookings@neworleansluxurycollection.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:20] Failed to send to info@frenchquarterguesthouses.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:23] Failed to send to NewOrleans@hiusa.org: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:26] Failed to send to reservations@melrosemansion.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:29] Failed to send to info@thecrawfordhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:33] Failed to send to info@11thavenuehostel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:36] Failed to send to stay@emberhostels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:39] Failed to send to 1092@hometownestudios.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:42] Failed to send to stay@hostelfish.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:45] Failed to send to reservations@therallyhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:48] Failed to send to denverfrontdesk@limelighthotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:52] Failed to send to achoteldenver@whitelodging.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:55] Failed to send to reservations@themavenhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:39:58] Failed to send to info@sbcos.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:01] Failed to send to EmailDENNY_TRU@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:04] Failed to send to EmailDENIP_Homewood@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:07] Failed to send to EmailDENTI_frontdesk@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:11] Failed to send to info@indigodenver.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:14] Failed to send to info@beachcottages.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:17] Failed to send to Emailbayside.fd@lodgingdynamics.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:20] Failed to send to EmailReservation.emailHGIOT@hgioldtown.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:23] Failed to send to reservations@thesurferbeachhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:26] Failed to send to accessibility@wyndham.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:30] Failed to send to jsilver@pacificahost.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:33] Failed to send to cassiahotelsnc@gmail.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:36] Failed to send to info@thepearlsd.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:46] Failed to send to res@theshoallajolla.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:49] Failed to send to info@stayorli.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:52] Failed to send to reservations@thesurferbeachhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:55] Failed to send to cambriabna@athenahospitalitygroup.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:40:58] Failed to send to atrull@nnpinvestment.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:01] Failed to send to info@waymoresnashville.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:05] Failed to send to cambriabna@athenahospitalitygroup.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:08] Failed to send to Sustainability@marriott.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:11] Failed to send to Capitol@ciahotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:14] Failed to send to EmailBNADW_Homewood@hilton.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:17] Failed to send to sales@fontanelestate.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:21] Failed to send to info@thejosephnashville.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:24] Failed to send to nashcvc@visitmusiccity.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:27] Failed to send to tyler.morgan@marriott.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:30] Failed to send to frontdesk@hotelhendricksny.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:33] Failed to send to reservations@cambean.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:36] Failed to send to bookings@therovermiami.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:39] Failed to send to info@theshepleyhotel.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:43] Failed to send to miamiconcierge@loewshotels.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:46] Failed to send to hello@hotelella.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:49] Failed to send to innatunionsquarefrontdesk@ohrllc.com: ('unauthorized_client: Unauthorized', {'error': 'unauthorized_client', 'error_description': 'Unauthorized'})
+[2026-09-10 15:41:52] Syncing USA CSV status
+[2026-09-10 15:41:59] === USA Daily Auto Pipeline END - Waiting for replies ===
+^C

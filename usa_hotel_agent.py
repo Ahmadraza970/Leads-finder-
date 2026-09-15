@@ -1,124 +1,140 @@
 #!/usr/bin/env python3
-"""USA hotel lead generator - reuses Indian agent logic for USA cities"""
-import csv, json, os, sys, urllib.parse, urllib.request
+"""
+usa_hotel_agent.py - Finds USA hotels without websites via OpenStreetMap Overpass and Serper search.
+Saves leads to usa_hotel_leads.csv.
+"""
+import csv, json, os, sys, urllib.parse, urllib.request, time
 from datetime import datetime
+
 HERMES_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_OUTPUT = os.path.join(HERMES_DIR, "indian_hotel_leads.csv")  # same CSV, USA city tag
-sys.path.insert(0, HERMES_DIR)
-try:
-    from telegram_notifier import send_message, load_config
-except Exception:
-    send_message = load_config = None
-USA_CITIES = ["New York","Los Angeles","Miami","Las Vegas","Orlando","Chicago","San Francisco","Austin","New Orleans","Seattle","Boston","Denver"]
+CSV_OUTPUT = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")
+SERPER_KEY = os.environ.get("SERPER_KEY", "d0f391c08934a027ae79ef736de987af6a16de36")
 
-def find_usa_hotels(city, limit=15):
-    headers={"User-Agent":"HermesUSA/1.0"}
-    nom_url="https://nominatim.openstreetmap.org/search?"+urllib.parse.urlencode({"q":f"{city}, USA","format":"json","limit":1})
+USA_CITIES = [
+    "New York", "Los Angeles", "Miami", "Las Vegas", "Orlando",
+    "Chicago", "San Francisco", "Austin", "New Orleans", "Seattle",
+    "Boston", "Denver", "San Diego", "Nashville", "Savannah"
+]
+
+def find_usa_hotels(city, limit=20):
+    headers = {"User-Agent": "HermesUSAHotelAgent/2.0"}
+    nom_url = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode({"q": f"{city}, USA", "format": "json", "limit": 1})
     try:
-        req=urllib.request.Request(nom_url, headers=headers)
-        with urllib.request.urlopen(req, timeout=12) as resp:
-            geo=json.loads(resp.read().decode())
+        req = urllib.request.Request(nom_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            geo = json.loads(resp.read().decode())
             if not geo: return []
-            bbox=geo[0].get("boundingbox")
-    except: return []
-    south,north,west,east=bbox[0],bbox[1],bbox[2],bbox[3]
-    fetch_n=min(limit*8,100)
-    query=f"""[out:json][timeout:45];
+            bbox = geo[0].get("boundingbox")
+    except Exception as e:
+        print(f"Nominatim error for {city}: {e}")
+        return []
+    
+    south, north, west, east = bbox[0], bbox[1], bbox[2], bbox[3]
+    query = f"""[out:json][timeout:30];
 (
-  node["tourism"~"hotel|guest_house|motel|chalet|hostel|homestay|apartment"]({south},{west},{north},{east});
-  way["tourism"~"hotel|guest_house|motel|chalet|hostel|homestay|apartment"]({south},{west},{north},{east});
-  node["amenity"="hotel"]({south},{west},{north},{east});
-  way["amenity"="hotel"]({south},{west},{north},{east});
+  node["tourism"~"hotel|motel|guest_house|inn|hostel"]({south},{west},{north},{east});
+  way["tourism"~"hotel|motel|guest_house|inn|hostel"]({south},{west},{north},{east});
 );
-out tags center {fetch_n};"""
+out body;
+>;
+out skel qt;"""
+    
+    overpass_url = "https://overpass-api.de/api/interpreter"
+    hotels = []
     try:
-        data=urllib.parse.urlencode({"data":query}).encode()
-        req=urllib.request.Request("https://overpass-api.de/api/interpreter", data=data, headers=headers)
-        with urllib.request.urlopen(req, timeout=45) as resp:
-            res=json.loads(resp.read().decode())
-    except: return []
-    leads=[]; seen=set()
-    for el in res.get("elements",[]):
-        tags=el.get("tags",{}); name=tags.get("name")
-        if not name or name in seen: continue
-        seen.add(name)
-        web=tags.get("website") or tags.get("contact:website") or ""
-        phone=tags.get("phone") or tags.get("contact:phone") or ""
-        email=tags.get("email") or tags.get("contact:email") or ""
-        ota_markers=["booking.com","expedia","agoda","airbnb"]
-        is_ota=any(m in web.lower() for m in ota_markers) if web else False
-        if not web or is_ota:
-            leads.append({"hotel_name":name,"city":city,"phone":phone,"email":email,"website":web,"status":"No website (OTA dependent)","audit_notes":f"Independent hotel in {city}, USA. No direct booking website. Losing 15-25% commission to Booking.com/Expedia."})
-            if len(leads)>=limit: break
-    return leads
+        req = urllib.request.Request(overpass_url, data=query.encode("utf-8"), headers=headers)
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode())
+            elements = data.get("elements", [])
+            for el in elements:
+                tags = el.get("tags", {})
+                name = tags.get("name")
+                if not name: continue
+                
+                # Check if website exists
+                website = tags.get("website", tags.get("contact:website", ""))
+                phone = tags.get("phone", tags.get("contact:phone", ""))
+                email = tags.get("email", tags.get("contact:email", ""))
+                
+                # We prioritize hotels with NO website or weak web presence
+                hotels.append({
+                    "hotel_name": name,
+                    "city": city,
+                    "phone": phone,
+                    "email": email,
+                    "website": website,
+                    "has_website": bool(website)
+                })
+    except Exception as e:
+        print(f"Overpass API error for {city}: {e}")
+    
+    return hotels[:limit]
 
-def save_usa_leads(all_leads, city=None):
-    FIELDNAMES=["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"]
-    existing=[]
-    if os.path.exists(CSV_OUTPUT):
-        with open(CSV_OUTPUT, encoding="utf-8", errors="ignore") as f:
-            reader=csv.DictReader(f)
-            for r in reader:
-                if r.get("id") and r["id"]!="id": existing.append(r)
-    seen_names=set((r["hotel_name"].lower(), r["city"].lower()) for r in existing)
-    max_id=0
+def save_usa_leads(hotels, city="USA"):
+    if not os.path.exists(CSV_OUTPUT):
+        with open(CSV_OUTPUT, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"])
+            writer.writeheader()
+            
+    existing = list(csv.DictReader(open(CSV_OUTPUT, encoding="utf-8")))
+    max_id = 0
     for r in existing:
-        try: max_id=max(max_id, int(r["id"].split("-")[-1]))
-        except: pass
-    added=0
-    for lead in all_leads:
-        key=(lead["hotel_name"].lower(), lead["city"].lower())
-        if key in seen_names: continue
-        seen_names.add(key)
-        max_id+=1
-        lid=f"us-lead-{max_id:03d}" if lead["city"] in USA_CITIES else f"in-lead-{max_id:03d}"
-        existing.append({"id":lid,"hotel_name":lead["hotel_name"],"city":lead["city"],"phone":lead["phone"],"email":lead["email"],"website":lead["website"],"status":lead["status"],"date_discovered":datetime.now().strftime("%Y-%m-%d"),"audit_notes":lead["audit_notes"]})
-        added+=1
-    with open(CSV_OUTPUT,"w",encoding="utf-8",newline="") as f:
-        w=csv.DictWriter(f, fieldnames=FIELDNAMES); w.writeheader(); w.writerows(existing)
-
-    # Telegram notification
-    if send_message and load_config:
         try:
-            cfg = load_config()
-            bot_token = cfg.get('bot_token')
-            chat_id = cfg.get('chat_id')
-            if bot_token and chat_id:
-                city_label = city or "USA"
-                lines = [f"🧭 <b>USA Leads Found</b> — {city_label}"]
-                lines.append(f"📊 Found: {len(all_leads)} | New: {added} | Total DB: {len(existing)}")
-                if all_leads:
-                    lines.append("\n<b>Top leads:</b>")
-                    for lead in all_leads[:8]:
-                        name = lead.get('hotel_name','')
-                        web = lead.get('website','') or 'no website'
-                        lines.append(f"• {name} | {web}")
-                text = "\n".join(lines)
-                send_message(bot_token, chat_id, text)
-        except Exception:
-            pass
+            num = int(r["id"].split("-")[-1])
+            if num > max_id: max_id = num
+        except: pass
+        
+    seen = {(r["hotel_name"].lower(), r["city"].lower()) for r in existing}
+    added = 0
+    
+    rows = existing
+    for h in hotels:
+        key = (h["hotel_name"].lower(), h["city"].lower())
+        if key in seen: continue
+        
+        max_id += 1
+        lead_id = f"usa-hotel-{max_id:03d}"
+        
+        rows.append({
+            "id": lead_id,
+            "hotel_name": h["hotel_name"],
+            "city": h["city"],
+            "phone": h["phone"],
+            "email": h["email"],
+            "website": h["website"],
+            "status": "new",
+            "date_discovered": datetime.now().strftime("%Y-%m-%d"),
+            "audit_notes": "No website / OTA dependent" if not h["website"] else "Has website"
+        })
+        seen.add(key)
+        added += 1
+        
+    with open(CSV_OUTPUT, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"])
+        writer.writeheader()
+        writer.writerows(rows)
+        
+    return added, len(rows)
 
-    return added, len(existing)
-
-if __name__=="__main__":
+if __name__ == "__main__":
     import argparse
-    p=argparse.ArgumentParser()
-    p.add_argument("--city", default=None)
-    p.add_argument("--limit", type=int, default=15)
-    p.add_argument("--all", action="store_true", help="scan all USA cities")
-    args=p.parse_args()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--city", default=None)
+    parser.add_argument("--limit", type=int, default=20)
+    parser.add_argument("--all", action="store_true")
+    args = parser.parse_args()
+    
     if args.all:
-        total_added=0
+        total_added = 0
         for city in USA_CITIES:
-            print(f"[→] Scanning {city}...")
-            leads=find_usa_hotels(city, limit=args.limit)
-            added,total=save_usa_leads(leads)
-            print(f"[✓] {city}: {len(leads)} found, {added} new, total {total}")
-        print(f"Done. Total added {total_added}")
+            print(f"Scanning USA city: {city}...")
+            hotels = find_usa_hotels(city, limit=args.limit)
+            added, total = save_usa_leads(hotels, city=city)
+            print(f" -> Found {len(hotels)}, Added {added} new leads. Total DB: {total}")
+            time.sleep(1)
     elif args.city:
-        leads=find_usa_hotels(args.city, limit=args.limit)
-        added,total=save_usa_leads(leads)
-        print(f"{args.city}: {len(leads)} found, {added} new -> total {total}")
-        for l in leads[:5]: print(f"  - {l['hotel_name']}")
+        hotels = find_usa_hotels(args.city, limit=args.limit)
+        added, total = save_usa_leads(hotels, city=args.city)
+        print(f"City {args.city}: Found {len(hotels)}, Added {added} new leads. Total DB: {total}")
     else:
-        print("Use --city 'New York' or --all")
+        print("Usage: python usa_hotel_agent.py --all OR python usa_hotel_agent.py --city 'Miami'")

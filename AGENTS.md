@@ -65,7 +65,7 @@ python hotel_agent.py auto --cities "Goa,Manali,Jaipur" --commit
 
 ## Email Configuration
 - SMTP: Gmail (smtp.gmail.com:587)
-- Sender: ahmadbkj92@gmail.com ("Ahmad Raza")
+- Sender: mithsjames87@gmail.com ("Ahmad Raza")
 - Daily send limit: 30 (warmup cap: 20)
 - Unsubscribe link injected in every email
 

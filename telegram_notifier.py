@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-HERMES Telegram Notifier — sends updates to Telegram via Bot API.
+telegram_notifier.py - Sends updates to Telegram via Bot API.
 Cross-platform: auto-detects OS (Windows/Linux/Android-Termux).
 """
-import json, os, requests
+import json, os, requests, time, csv
 from datetime import datetime
 
 def _hermes_dir():
@@ -11,6 +11,16 @@ def _hermes_dir():
     env = os.environ.get("HERMES_DIR")
     if env:
         return env
+    # Check script's own directory first (most reliable)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    if os.path.exists(os.path.join(script_dir, "usa_hotel_leads.csv")) or \
+       os.path.exists(os.path.join(script_dir, "telegram_config.json")):
+        return script_dir
+    # Check current working directory
+    cwd = os.getcwd()
+    if os.path.exists(os.path.join(cwd, "usa_hotel_leads.csv")) or \
+       os.path.exists(os.path.join(cwd, "telegram_config.json")):
+        return cwd
     # Android/Termux
     if os.path.exists("/data/data/com.termux/files/home/hermes"):
         return "/data/data/com.termux/files/home/hermes"
@@ -18,127 +28,99 @@ def _hermes_dir():
     if os.path.exists(os.path.expanduser("~/hermes")):
         return os.path.expanduser("~/hermes")
     # Windows fallback
-    return os.path.expanduser("~")
+    return os.environ.get("USERPROFILE", "C:/Users/AHMAD RAJA")
 
 HERMES_DIR = _hermes_dir()
-CONFIG_FILE = os.path.join(HERMES_DIR, "telegram_config.json")
+BOT_TOKEN = os.environ.get("HERMES_BOT_TOKEN", "8614803868:AAHYDLM63tYKGp668UQbCU8lKXDwLHcuHfg")
+CHAT_ID = os.environ.get("HERMES_CHAT_ID", "6554462815")
+BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
-def load_config():
-    if os.path.exists(CONFIG_FILE):
-        with open(CONFIG_FILE, encoding='utf-8') as f:
-            return json.load(f)
-    return {}
-
-def save_config(config):
-    with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
-        json.dump(config, indent=2)
-
-def send_message(bot_token, chat_id, text, parse_mode='HTML'):
-    """Send message to Telegram."""
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    payload = {
-        'chat_id': chat_id,
-        'text': text,
-        'parse_mode': parse_mode,
-        'disable_web_page_preview': True
-    }
+def send_message(text, parse_mode="Markdown"):
+    """Send a message to the Telegram chat."""
+    url = f"{BASE_URL}/sendMessage"
+    payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": parse_mode}
     try:
-        resp = requests.post(url, json=payload, timeout=10)
-        return resp.json()
+        r = requests.post(url, json=payload, timeout=15)
+        return r.json()
     except Exception as e:
-        return {'ok': False, 'error': str(e)}
+        print(f"Telegram send error: {e}")
+        return {"ok": False, "description": str(e)}
 
-def format_lead_stats():
-    """Get current pipeline stats."""
+def get_updates(offset=None):
+    """Poll for incoming Telegram updates (replies)."""
+    url = f"{BASE_URL}/getUpdates"
+    params = {"timeout": 30}
+    if offset:
+        params["offset"] = offset
     try:
-        import csv, json
-        csv_path = os.path.join(HERMES_DIR, "indian_hotel_leads.csv")
-        sent_path = os.path.join(HERMES_DIR, "sent_log_goa_pune.json")
-        csv_leads = list(csv.DictReader(open(csv_path, encoding='utf-8', errors='ignore')))
-        sent = json.load(open(sent_path)) if os.path.exists(sent_path) else {'sent': []}
-        
-        total = len(csv_leads)
-        india = len([r for r in csv_leads if not (r.get('Lead ID','').startswith('us-') or r.get('id','').startswith('us-') or r.get('Lead ID','').startswith('us-serper'))])
-        usa = total - india
-        with_email = len([r for r in csv_leads if (r.get('Email Address','') or r.get('email','')).strip()])
-        sent_count = len(sent.get('sent', []))
-        
-        return f"""📊 <b>HERMES Pipeline Status</b> — {datetime.now().strftime('%b %d, %H:%M')}
-
-📈 <b>Leads:</b> {total} total ({india} India + {usa} USA)
-📧 <b>With email:</b> {with_email}
-📤 <b>Sent:</b> {sent_count} emails
-🇺🇸 <b>USA ready:</b> {len([r for r in csv_leads if (r.get('Lead ID','').startswith('us-') or r.get('id','').startswith('us-') or r.get('Lead ID','').startswith('us-serper')) and (r.get('Email Address','') or r.get('email','')).strip()])} verified
-"""
+        r = requests.get(url, params=params, timeout=35)
+        return r.json()
     except Exception as e:
-        return f"📊 Pipeline status error: {e}"
+        print(f"Telegram get_updates error: {e}")
+        return {"ok": False, "description": str(e)}
 
-def send_pipeline_update():
-    """Send full pipeline update to Telegram."""
-    config = load_config()
-    bot_token = config.get('bot_token')
-    chat_id = config.get('chat_id')
-    
-    if not bot_token or not chat_id:
-        return {'ok': False, 'error': 'Telegram not configured. Run setup_telegram() first.'}
-    
-    text = format_lead_stats()
-    return send_message(bot_token, chat_id, text)
+def parse_incoming_updates(last_update_id=0):
+    """Parse incoming Telegram messages and return the latest one."""
+    data = get_updates(last_update_id)
+    if data.get("ok") and data.get("result"):
+        results = data["result"]
+        if results:
+            latest = results[-1]
+            update_id = latest["update_id"]
+            message = latest.get("message", {})
+            text = message.get("text", "")
+            from_user = message.get("from", {})
+            from_name = from_user.get("first_name", "User")
+            chat = message.get("chat", {})
+            chat_id = chat.get("id")
+            return {
+                "update_id": update_id,
+                "text": text,
+                "from_name": from_name,
+                "chat_id": chat_id,
+                "is_command": text.startswith("/")
+            }
+    return None
 
-def send_alert(bot_token, chat_id, title, message):
-    """Send alert message."""
-    text = f"🚨 <b>{title}</b>\n\n{message}"
-    return send_message(bot_token, chat_id, text)
-
-def send_reply_alert(bot_token, chat_id, hotel_name, classification, from_email, preview):
-    """Send alert for new reply."""
-    emoji = {
-        'INTERESTED': '🔥',
-        'DEMO_REQUEST': '🎯',
-        'PRICE_REQUEST': '💰',
-        'QUESTION': '❓',
-        'NOT_INTERESTED': '❌',
-        'UNSUBSCRIBE': '🛑',
-        'WRONG_PERSON': '🔄',
-        'UNCLEAR': '🤔'
-    }.get(classification, '📨')
-    
-    text = f"""{emoji} <b>New Reply: {classification}</b>
-
-🏨 <b>Hotel:</b> {hotel_name}
-📧 <b>From:</b> {from_email}
-📝 <b>Preview:</b> {preview[:200]}...
-"""
-    return send_message(bot_token, chat_id, text)
-
-def send_demo_alert(bot_token, chat_id, hotel_name, demo_url):
-    """Send alert when demo is ready."""
-    text = f"""✅ <b>Demo Ready</b>
-
-🏨 <b>Hotel:</b> {hotel_name}
-🔗 <b>Demo URL:</b> {demo_url}
-
-Sent to client.
-"""
-    return send_message(bot_token, chat_id, text)
-
-def setup_telegram(bot_token, chat_id):
-    """Configure Telegram bot."""
-    config = {'bot_token': bot_token, 'chat_id': chat_id, 'setup_date': datetime.now().isoformat()}
-    save_config(config)
-    # Test
-    result = send_message(bot_token, chat_id, "✅ HERMES Telegram connected!")
-    return result
-
-if __name__ == '__main__':
-    import sys
-    if len(sys.argv) > 1 and sys.argv[1] == 'setup':
-        if len(sys.argv) >= 4:
-            print(json.dumps(setup_telegram(sys.argv[2], sys.argv[3]), indent=2))
-        else:
-            print("Usage: python telegram_notifier.py setup <bot_token> <chat_id>")
-    elif len(sys.argv) > 1 and sys.argv[1] == 'test':
-        config = load_config()
-        print(json.dumps(send_message(config.get('bot_token'), config.get('chat_id'), "🧪 HERMES test message"), indent=2))
+if __name__ == "__main__":
+    # Test: send a quick test message
+    result = send_message("✅ Telegram notifier initialized. USA hotel lead pipeline active.")
+    if result.get("ok"):
+        print("Test message sent to Telegram successfully.")
     else:
-        print(json.dumps(send_pipeline_update(), indent=2))
+        print(f"Failed to send test message: {result.get('description')}")
+    
+    # Poll loop for replies
+    print("Polling for Telegram replies (Ctrl+C to stop)...")
+    last_id = 0
+    while True:
+        msg = parse_incoming_updates(last_id + 1)
+        if msg:
+            text = msg["text"]
+            from_name = msg["from_name"]
+            print(f"💬 Message from {from_name}: {text}")
+            
+            if text.startswith("/"):
+                if text == "/status":
+                    send_message("🟡 USA Hotel Pipeline Status: Finding leads → Verifying emails → Sending cold emails → Waiting for replies")
+                elif text == "/leads":
+                    csv_path = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")
+                    if os.path.exists(csv_path):
+                        rows = list(csv.DictReader(open(csv_path, encoding="utf-8")))
+                        count = len(rows)
+                        verified = sum(1 for r in rows if r.get("status") == "verified_valid")
+                        send_message(f"📊 *USA Leads Report*\nTotal: {count}\nVerified emails: {verified}\nSheet ID: 1cHgkbafxil3J80KB8RuAaS4Rw82iaKaPA7ckHe8lMfA")
+                    else:
+                        send_message("No leads CSV found yet.")
+                elif text == "/demo":
+                    send_message("🤖 Demo mode: Send a hotel name to generate a mock demo link.")
+                elif text.startswith("/send"):
+                    parts = text.split(" ", 1)
+                    if parts[1]:
+                        send_message(f"📧 Test email send triggered (manual review required). Target: {parts[1]}")
+                else:
+                    send_message(f"Unknown command: {text}")
+            else:
+                # Incoming message - pass to reply handler logic
+                send_message(f"📨 Received reply from user: *{from_name}*: _{text}_\nAwaiting your AI analysis and approval.")
+        time.sleep(3)

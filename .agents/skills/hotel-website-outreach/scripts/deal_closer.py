@@ -189,7 +189,7 @@ def generate_contract(lead, price, currency="USD", cfg=None):
     lead_id = lead.get("id", "LEAD-" + datetime.now().strftime("%Y%m%d"))
     contract_date = datetime.now().strftime("%B %d, %Y")
     agency_name = cfg.get("from_name", "Ahmad Raza Web Solutions")
-    agency_email = cfg.get("smtp_user", "ahmadbkj92@gmail.com")
+    agency_email = cfg.get("smtp_user", "mithsjames87@gmail.com")
 
     # Payment calculations (50% deposit, 50% on completion)
     deposit = round(price * 0.5, 2)

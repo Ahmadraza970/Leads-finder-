@@ -10,7 +10,7 @@ This Web Development & Software Agreement ("Agreement") is entered into by and b
 
 1. **Service Provider / Developer:**  
    **Ahmad Raza**  
-   Email: ahmadbkj92@gmail.com  
+   Email: mithsjames87@gmail.com  
    (Hereinafter referred to as "Developer")
 
 2. **Client / Property Owner:**  
