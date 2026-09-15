@@ -7,7 +7,7 @@ from datetime import datetime
 
 HERMES_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")
-SERPER_KEY = os.environ.get("SERPER_KEY", "d0f391c08934a027ae79ef736de987af6a16de36")
+SERPER_KEY = os.environ.get("SERPER_KEY", "15a5d39e5a590b71065a97207ea026d1fe39d232")
 
 USA_CITIES = [
     "New York", "Miami", "Los Angeles", "Las Vegas", "Orlando",

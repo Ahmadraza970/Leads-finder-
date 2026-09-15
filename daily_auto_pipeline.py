@@ -17,7 +17,7 @@ if not os.path.exists(HERMES_DIR):
 CSV = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")
 SHEET_ID = "1cHgkbafxil3J80KB8RuAaS4Rw82iaKaPA7ckHe8lMfA"
 SENT_LOG = os.path.join(HERMES_DIR, "sent_log_usa_hotels.json")
-SERPER_KEY = os.environ.get("SERPER_KEY", "d0f391c08934a027ae79ef736de987af6a16de36")
+SERPER_KEY = os.environ.get("SERPER_KEY", "15a5d39e5a590b71065a97207ea026d1fe39d232")
 GOOGLE_TOKEN = os.path.join(HERMES_DIR, "google_token.json")
 
 def log(msg):

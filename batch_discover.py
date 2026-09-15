@@ -1,127 +1,89 @@
-#!/usr/bin/env python3
-"""
-batch_discover.py - Daily lead discovery using Serper API.
-Finds new USA boutique hotels, enriches with emails, verifies MX records.
-"""
-import csv, json, os, re, time, socket
+import json, urllib.request, csv, os, time, re
 from datetime import datetime
-import urllib.request, urllib.parse
 
-HERMES_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")
-SERPER_KEY = os.environ.get("SERPER_KEY", "d0f391c08934a027ae79ef736de987af6a16de36")
+SERPER_KEY = "15a5d39e5a590b71065a97207ea026d1fe39d232"
+CSV_PATH = "C:/Users/AHMAD RAJA/Desktop/hermes/usa_hotel_leads.csv"
 
-# Target cities for boutique hotel discovery
-CITIES = [
-    "Asheville NC", "Santa Fe NM", "Napa CA", "Sedona AZ", "Charleston SC",
-    "Savannah GA", "Portland OR", "Austin TX", "Nashville TN", "Denver CO",
-    "Phoenix AZ", "San Antonio TX", "Chicago IL", "Boston MA", "San Francisco CA",
-    "Las Vegas NV", "Los Angeles CA", "New York NY", "Miami FL", "Seattle WA",
-    "San Diego CA", "New Orleans LA", "Key West FL", "Myrtle Beach SC",
-    "Galveston TX", "Coronado CA", "Breckenridge CO", "Carmel CA",
-    "Palm Springs CA", "Fredericksburg TX", "Hilton Head SC", "Boulder CO",
-    "Tybee Island GA", "Ojai CA", "Yountville CA", "Solvang CA"
+with open(CSV_PATH) as f:
+    existing_rows = list(csv.DictReader(f))
+
+existing_names = set()
+for r in existing_rows:
+    existing_names.add(r['hotel_name'].lower().strip())
+
+print(f"Existing leads: {len(existing_rows)}")
+print(f"Existing unique names: {len(existing_names)}")
+
+cities = [
+    "Asheville NC", "Austin TX", "Napa CA", "Sedona AZ", "Santa Fe NM",
+    "Charleston SC", "Savannah GA", "Boulder CO", "Palm Springs CA",
+    "Portland OR", "Denver CO", "Nashville TN", "San Francisco CA",
+    "New Orleans LA", "Key West FL", "Santa Barbara CA", "Fredericksburg TX",
+    "Ojai CA", "Tybee Island GA", "Carmel CA", "Coronado CA", "Breckenridge CO",
+    "Solvang CA", "Mackinac Island MI", "Cape Cod MA", "Galveston TX",
+    "Hilton Head SC", "Orlando FL", "Seattle WA", "San Diego CA",
+    "Los Angeles CA", "Chicago IL", "Miami FL", "Boston MA", "Las Vegas NV"
 ]
 
-def log(msg):
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}")
+new_leads = []
+seen = set()
 
-def serper_search(query, num=10):
-    """Search via Serper API."""
-    try:
-        req = urllib.request.Request(
-            "https://google.serper.dev/search",
-            data=json.dumps({"q": query, "num": num}).encode(),
-            headers={"X-API-KEY": ***"Content-Type": "application/json"}
-        )
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            return json.loads(resp.read().decode())
-    except Exception as e:
-        log(f"Serper error: {e}")
-        return {}
-
-def extract_email(text):
-    """Extract valid email from text."""
-    emails = re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", text)
-    for e in emails:
-        domain = e.split("@")[1].lower()
-        if any(bad in domain for bad in ["example.com", "sentry.io", "png", "jpg", "jpeg", 
-                                          "google.com", "facebook.com", "twitter.com",
-                                          "instagram.com", "linkedin.com", "youtube.com",
-                                          "w3.org", "schema.org", "cloudflare.com"]):
-            continue
-        if len(e) > 80:
-            continue
-        return e
-    return None
-
-def has_mx(domain):
-    """Check if domain has MX records."""
-    try:
-        import dns.resolver
-        mx = dns.resolver.resolve(domain, 'MX')
-        return len(mx) > 0
-    except:
-        try:
-            socket.gethostbyname(domain)
-            return True
-        except:
-            return False
-
-def discover():
-    """Discover new hotel leads via Serper."""
-    log("Starting batch discovery...")
+for city in cities:
+    if len(new_leads) >= 50:
+        break
     
-    # Load existing leads
-    existing = set()
-    if os.path.exists(CSV):
-        with open(CSV) as f:
-            reader = csv.DictReader(f)
-            for r in reader:
-                existing.add(r["hotel_name"].lower().strip())
+    queries = [
+        f"boutique hotel {city} contact email reservations",
+        f"independent hotel {city} direct booking website email"
+    ]
     
-    new_leads = []
-    seen_names = set()
-    
-    for city in CITIES:
-        if len(new_leads) >= 30:
+    for query in queries:
+        if len(new_leads) >= 50:
             break
-        
-        queries = [
-            f"boutique hotel {city} contact email",
-            f"independent hotel {city} reservations email",
-            f"small hotel {city} direct booking website"
-        ]
-        
-        for query in queries:
-            if len(new_leads) >= 30:
-                break
             
-            log(f"Searching: {query}")
-            result = serper_search(query, num=8)
+        try:
+            url = "https://google.serper.dev/search"
+            payload = json.dumps({"q": query, "num": 8}).encode()
+            req = urllib.request.Request(url, data=payload, headers={"X-API-KEY": "15a5d39e5a590b71065a97207ea026d1fe39d232", "Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                result = json.loads(resp.read().decode())
             
-            for item in result.get("organic", []):
-                title = item.get("title", "")
-                snippet = item.get("snippet", "")
-                link = item.get("link", "")
+            for item in result.get('organic', []):
+                title = item.get('title', '').strip()
+                snippet = item.get('snippet', '')
+                link = item.get('link', '')
                 
-                # Skip if already have this hotel
                 name_lower = title.lower().strip()
-                if name_lower in existing or name_lower in seen_names:
+                if name_lower in existing_names or name_lower in seen:
                     continue
                 
-                # Skip non-hotel results
-                skip_words = ["booking.com", "expedia", "tripadvisor", "agoda", "hotels.com",
-                              "airbnb", "vrbo", "wikipedia", "blog", "review", "list"]
-                if any(w in title.lower() for w in skip_words):
+                skip = ['booking.com', 'expedia', 'tripadvisor', 'agoda', 'hotels.com',
+                        'airbnb', 'vrbo', 'wikipedia', 'blog', 'review', 'list of',
+                        'chamber of commerce', 'best western', 'marriott', 'hilton',
+                        'hyatt', 'holiday inn', 'courtyard', 'residence inn', 'hampton',
+                        'doubletree', 'comfort inn', 'la quinta', 'drury', 'cambria',
+                        'fairfield', 'radisson', 'clarion', 'home2', 'homewood', 'ramada',
+                        'wingate', 'quality', 'red roof', 'super 8', 'motel 6', 'econo',
+                        'mainstay', 'staybridge', 'candlewood', 'aloft', 'element', 'moxy',
+                        'grand hyatt', 'andaz', 'alila', 'park hyatt', 'thompson',
+                        'small luxury hotels', 'slh.com', 'concept restaurants']
+                if any(w in name_lower for w in skip):
                     continue
                 
-                # Extract email
-                email = extract_email(snippet + " " + link)
-                if not email:
-                    email = extract_email(title)
+                email = ""
+                emails = re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", snippet + " " + link)
+                for e in emails:
+                    domain = e.split('@')[1].lower()
+                    if any(bad in domain for bad in ['example.com', 'sentry.io', 'google.com', 'facebook.com',
+                                                      'twitter.com', 'instagram.com', 'linkedin.com', 'youtube.com',
+                                                      'w3.org', 'schema.org', 'cloudflare.com', 'wordpress.com',
+                                                      'godaddy.com', 'squarespace.com', 'wix.com']):
+                        continue
+                    if len(e) > 80:
+                        continue
+                    email = e
+                    break
                 
-                # Extract phone
                 phone = ""
                 phone_match = re.search(r"\+1[\s\-]*\(?\d{3}\)?[\s\-]*\d{3}[\s\-]*\d{4}", snippet)
                 if phone_match:
@@ -134,38 +96,31 @@ def discover():
                     "hotel_name": title[:100],
                     "city": city,
                     "phone": phone,
-                    "email": email or "",
+                    "email": email,
                     "website": link,
                     "status": "verified_valid" if email else "invalid_no_email",
                     "date_discovered": datetime.now().strftime("%Y-%m-%d"),
-                    "audit_notes": "Serper batch discovery"
+                    "audit_notes": "Serper batch discovery (new key)"
                 })
                 
-                seen_names.add(name_lower)
-                log(f"  Found: {title[:60]} -> {email or 'no email'}")
+                seen.add(name_lower)
+                if email:
+                    print(f"  + {title[:55]} -> {email}")
+                else:
+                    print(f"  - {title[:55]} (no email)")
             
-            time.sleep(0.5)
-    
-    log(f"Discovered {len(new_leads)} new leads")
-    
-    # Merge with existing
-    all_rows = []
-    if os.path.exists(CSV):
-        with open(CSV) as f:
-            all_rows = list(csv.DictReader(f))
-    
-    all_rows.extend(new_leads)
-    
-    # Save
-    fields = ["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"]
-    with open(CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
-        writer.writeheader()
-        writer.writerows(all_rows)
-    
-    log(f"Total leads now: {len(all_rows)}")
-    return len(new_leads)
+            time.sleep(0.3)
+        except Exception as e:
+            print(f"  Error for {city}: {e}")
 
-if __name__ == "__main__":
-    count = discover()
-    log(f"Discovery complete. Added {count} new leads.")
+print(f"\nDiscovered {len(new_leads)} new leads")
+
+all_rows = existing_rows + new_leads
+
+fields = ["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"]
+with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
+    writer = csv.DictWriter(f, fieldnames=fields)
+    writer.writeheader()
+    writer.writerows(all_rows)
+
+print(f"Total leads now: {len(all_rows)}")
