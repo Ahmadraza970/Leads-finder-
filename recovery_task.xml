@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Task version="1.2" xmlns="http://schemas.microsoft.com/Windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Description>Run hotel pipeline recovery on server startup</Description>
+  </RegistrationInfo>
+  <Triggers>
+    <BootTrigger>
+      <Enabled>true</Enabled>
+    </BootTrigger>
+  </Triggers>
+  <Principals>
+    <Principal id="Author" userId="S-1-5-21-290014440-1957816549-3798054126-1004" logonType="Interactive"/>
+  </Principals>
+  <Settings>
+    <MultipleInstancesBehavior>IgnoreNew</MultipleInstancesBehavior>
+    <StartWhenAvailable>true</StartWhenAvailable>
+    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
+  </Settings>
+  <Actions Context="Author">
+    <Exec>
+      <Command>C:/Users/AHMAD RAJA/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe</Command>
+      <Arguments>C:/Users/AHMAD RAJA/Desktop/hermes/server_recovery.py</Arguments>
+      <WorkingDirectory>C:/Users/AHMAD RAJA/Desktop/hermes</WorkingDirectory>
+    </Exec>
+  </Actions>
+</Task>

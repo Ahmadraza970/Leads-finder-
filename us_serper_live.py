@@ -7,7 +7,10 @@ from datetime import datetime
 
 HERMES_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")
-SERPER_KEY = os.environ.get("SERPER_KEY", "15a5d39e5a590b71065a97207ea026d1fe39d232")
+SERPER_KEYS = [
+    os.environ.get("SERPER_KEY", "15a5d39e5a590b71065a97207ea026d1fe39d232"),
+    "d0f391c08934a027ae79ef736de987af6a16de36",
+]
 
 USA_CITIES = [
     "New York", "Miami", "Los Angeles", "Las Vegas", "Orlando",
@@ -15,14 +18,27 @@ USA_CITIES = [
 ]
 
 def s_search(q):
-    d = json.dumps({"q": q, "num": 10}).encode()
-    req = urllib.request.Request(
-        "https://google.serper.dev/search",
-        data=d,
-        headers={"X-API-KEY": SERPER_KEY, "Content-Type": "application/json"}
-    )
-    with urllib.request.urlopen(req, timeout=15) as r:
-        return json.loads(r.read().decode())
+    last_err = None
+    for key in SERPER_KEYS:
+        try:
+            d = json.dumps({"q": q, "num": 10}).encode()
+            req = urllib.request.Request(
+                "https://google.serper.dev/search",
+                data=d,
+                headers={"X-API-KEY": key, "Content-Type": "application/json"}
+            )
+            with urllib.request.urlopen(req, timeout=15) as r:
+                return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            body = e.read().decode()[:200]
+            if "Not enough credits" in body or e.code == 402:
+                last_err = e
+                continue
+            raise
+        except Exception as e:
+            last_err = e
+            continue
+    raise last_err or Exception("All Serper keys failed")
 
 def ext_email(text):
     emails = re.findall(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", text)
@@ -39,7 +55,7 @@ if __name__ == "__main__":
         with open(CSV, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"])
             writer.writeheader()
-            
+
     rows = list(csv.DictReader(open(CSV, encoding="utf-8")))
     max_id = 0
     for r in rows:
@@ -47,10 +63,10 @@ if __name__ == "__main__":
             num = int(r["id"].split("-")[-1])
             if num > max_id: max_id = num
         except: pass
-        
+
     seen = {(r["hotel_name"].lower(), r["city"].lower()) for r in rows}
     added = 0
-    
+
     for city in USA_CITIES:
         print(f"[→] Serper live USA search: {city}")
         queries = [
@@ -65,16 +81,15 @@ if __name__ == "__main__":
                     title = item.get("title", "")
                     snippet = item.get("snippet", "")
                     link = item.get("link", "")
-                    
-                    # Look for hotel-like title
+
                     if any(w in title.lower() for w in ["hotel", "motel", "inn", "suites", "lodge", "resort", "guest house"]):
                         name = title.split("-")[0].split("|")[0].strip()
                         key = (name.lower(), city.lower())
                         if key in seen: continue
-                        
+
                         email = ext_email(snippet + " " + link)
                         phone = ext_phone(snippet)
-                        
+
                         if email:
                             max_id += 1
                             lead_id = f"usa-hotel-{max_id:03d}"
@@ -94,10 +109,10 @@ if __name__ == "__main__":
             except Exception as e:
                 print(f"Serper search error: {e}")
             time.sleep(1)
-            
+
     with open(CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["id","hotel_name","city","phone","email","website","status","date_discovered","audit_notes"])
         writer.writeheader()
         writer.writerows(rows)
-        
+
     print(f"Serper USA live search completed. Added {added} new leads.")

@@ -2825,6 +2825,966 @@
       "hotel": "Privacy",
       "email": "marshallhouse@theindigoroad.com",
       "date": "2026-09-15"
+    },
+    {
+      "id": "usa-hotel-809",
+      "hotel": "YOTEL",
+      "email": "newyork.contact@yotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-815",
+      "hotel": "Central Park Inn",
+      "email": "info@centralparkinn.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-817",
+      "hotel": "Hotel Verve",
+      "email": "info@vervehotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-820",
+      "hotel": "Nesva Hotel",
+      "email": "sleep@nesvahotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-826",
+      "hotel": "The GEM Hotel Chelsea",
+      "email": "info.chelsea@thegemhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-836",
+      "hotel": "Crowne Plaza Manhattan Times Square by IHG",
+      "email": "reservations@mtshotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-843",
+      "hotel": "The Fifth Avenue Hotel",
+      "email": "reservations@thefifthavenuehotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-845",
+      "hotel": "WestHouse Hotel New York, an SLH Hotel",
+      "email": "welcome@westhousehotelnewyork.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-849",
+      "hotel": "Westgate New York Grand Central Hotel",
+      "email": "wgny-fdm@wgresorts.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-851",
+      "hotel": "M Social Hotel New York Times Square",
+      "email": "info@msocialhotelnewyork.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-856",
+      "hotel": "World Center Hotel",
+      "email": "info@worldcenterhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-857",
+      "hotel": "Sonder at Battery Park",
+      "email": "inquiries@sonder.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-861",
+      "hotel": "33 Hotel, New York City, Seaport",
+      "email": "info@33hotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-865",
+      "hotel": "Feather Factory Hotel",
+      "email": "fd@anzymgt.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-873",
+      "hotel": "The Paul",
+      "email": "info@thepaulnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-885",
+      "hotel": "World Hotel",
+      "email": "info@worldhotelnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-889",
+      "hotel": "Chambers Hotel New York",
+      "email": "info@chambershotelnewyork.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-893",
+      "hotel": "The Wallace",
+      "email": "info@thewallace.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-898",
+      "hotel": "Sanctuary Hotel",
+      "email": "info@sanctuaryhotelnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-902",
+      "hotel": "The Inn at Irving Place",
+      "email": "innatirving@aol.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-912",
+      "hotel": "Chelsea international hostel",
+      "email": "reservations@chelseahostel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-913",
+      "hotel": "NAP YORK CENTRAL PARK",
+      "email": "JazzColumbus@jazzhostels.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-918",
+      "hotel": "Red Lion Inn & Suites",
+      "email": "info@redlionlic.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-936",
+      "hotel": "John Hotel",
+      "email": "info@johnhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-944",
+      "hotel": "Orchard Street Hotel",
+      "email": "reservations@orchardstreethotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-966",
+      "hotel": "The Gardens Sonesta ES Suites",
+      "email": "reservations@sonesta.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-968",
+      "hotel": "The Shelburne Sonesta",
+      "email": "reservations@sonesta.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-976",
+      "hotel": "Club Quarters Hotel at World Trade Center",
+      "email": "memberservices@clubquarters.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-996",
+      "hotel": "The Franklin",
+      "email": "reservations@franklinhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1003",
+      "hotel": "Leon Hotel",
+      "email": "info@leonhotelnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1008",
+      "hotel": "Equinox",
+      "email": "reservations.hy@equinox-hotels.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1010",
+      "hotel": "Navy Lodge",
+      "email": "navylodge.newyork@nexweb.org",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1014",
+      "hotel": "Truss Hotel Times Square",
+      "email": "reservations@trusshotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1026",
+      "hotel": "Hotel Indigo",
+      "email": "hotelindigoles@ihg.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1044",
+      "hotel": "Elys\u00e9e New York",
+      "email": "info@elyseehotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1046",
+      "hotel": "The Artezen",
+      "email": "reservations@artezenhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1047",
+      "hotel": "Off Soho Suites Hotel",
+      "email": "info@offsoho.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1060",
+      "hotel": "Kimpton Theta New York - Times Square by IHG",
+      "email": "info@hoteltheta.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1061",
+      "hotel": "Millennium Premier Hotel New York Times Square",
+      "email": "premierconcierge.us@millenniumhotels.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1063",
+      "hotel": "The Shoreham",
+      "email": "frontoffice@shorehamhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1071",
+      "hotel": "Hotel Scherman",
+      "email": "info@hotelscherman.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1081",
+      "hotel": "Waldorf Astoria New York",
+      "email": "nycwa-sales@waldorfastoria.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1086",
+      "hotel": "Baccarat Hotel New York",
+      "email": "NYReservations@baccarathotels.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1087",
+      "hotel": "Lotte New York Palace",
+      "email": "info@lottenypalace.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1095",
+      "hotel": "Eventi",
+      "email": "info@eventihotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1109",
+      "hotel": "Hyatt Union Square New York",
+      "email": "sales@hyattunionsquarenyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1111",
+      "hotel": "Crosby Street Hotel",
+      "email": "crosby@firmdale.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1112",
+      "hotel": "NoMo SoHo",
+      "email": "info@nomosoho.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1129",
+      "hotel": "Wyndham Garden Chinatown",
+      "email": "salesNYCCT@wyndham.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1146",
+      "hotel": "Artel 535",
+      "email": "sales@artel535.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1147",
+      "hotel": "AMTD Idea Tribeca Hotel",
+      "email": "info@amtdideatribecahotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1151",
+      "hotel": "The Ludlow Hotel",
+      "email": "info@ludlowhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1152",
+      "hotel": "Hotel on Rivington",
+      "email": "hello@hotelonrivington.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1153",
+      "hotel": "The Redford Hotel",
+      "email": "reservations@redfordhotelnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1164",
+      "hotel": "World of Blue",
+      "email": "frontdesk@theworldofblue.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1168",
+      "hotel": "Hyatt Regency Jersey City on the Hudson",
+      "email": "newjp-front.office.static@hyatt.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1169",
+      "hotel": "Hyatt Centric Times Square",
+      "email": "timessquare@hyatt.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1170",
+      "hotel": "Chelsea Pines Inn",
+      "email": "mail@chelseapinesinn.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1178",
+      "hotel": "Midtown West Hotel",
+      "email": "info@midtownwesthotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1185",
+      "hotel": "Ace Hotel New York",
+      "email": "reservations@acehotelnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1192",
+      "hotel": "Thompson Central Park New York",
+      "email": "lgatp.concierge@hyatt.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1195",
+      "hotel": "The Luxury Collection Hotel Manhattan Midtown",
+      "email": "guestservices@luxurycollectionnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1201",
+      "hotel": "Holiday Inn Express Long Island City E",
+      "email": "contact@hinnexplic.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1202",
+      "hotel": "City View Inn",
+      "email": "info@cityviewinn.net",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1204",
+      "hotel": "The Hotel @ 5th Avenue",
+      "email": "thafave@applecorehotels.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1205",
+      "hotel": "Life Hotel",
+      "email": "info@lifehotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1206",
+      "hotel": "Hotel Wolcott",
+      "email": "sales@wolcott.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1207",
+      "hotel": "Hotel Stanford",
+      "email": "info@hotelstanford.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1208",
+      "hotel": "nyma",
+      "email": "reservations@hotelnyma.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1210",
+      "hotel": "Martinique New York on Broadway, Curio Collection by Hilton",
+      "email": "nyccu_reservations@hilton.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1215",
+      "hotel": "Hotel AKA",
+      "email": "hotelakanomad@stayaka.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1216",
+      "hotel": "Crowne Plaza HY36 Midtown Manhattan",
+      "email": "CPMidtown@ihg.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1219",
+      "hotel": "Henn Na Hotel",
+      "email": "Hello@HennNaHotelNY.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1220",
+      "hotel": "Doxie Hotel",
+      "email": "doxiehotel@gmail.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1221",
+      "hotel": "Artel Hotel",
+      "email": "tom.carpenter@bklynhousehotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1225",
+      "hotel": "Distrikt Hotel",
+      "email": "hello@distrikthotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1227",
+      "hotel": "Candlewood Suites",
+      "email": "waheeda.ashraf@hhmlp.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1228",
+      "hotel": "Hotel Hendricks",
+      "email": "frontdesk@hotelhendricksny.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1230",
+      "hotel": "Marriott Vacation Club, New York City",
+      "email": "reservations@thestrandnyc.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1232",
+      "hotel": "The Gregorian New York City",
+      "email": "info@gregorianhotel.com",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "usa-hotel-1236",
+      "hotel": "The Knickerbocker Hotel",
+      "email": "reservations@theknickerbocker.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1250",
+      "hotel": "The Pod Hotel",
+      "email": "info@podhotel51.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1253",
+      "hotel": "Pod 39",
+      "email": "info@podhotel39.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1261",
+      "hotel": "EVEN Hotel Midtown East",
+      "email": "whitespark@ozmoving.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1264",
+      "hotel": "Hotel 48LEX",
+      "email": "info@hotel48lex.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1265",
+      "hotel": "The Lexington",
+      "email": "info@lexingtonnyc.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1274",
+      "hotel": "Aliz Hotel",
+      "email": "info@alizhotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1281",
+      "hotel": "Hyatt Regency Times Square",
+      "email": "NYCRT-Guest.Services@hyatt.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1283",
+      "hotel": "The Algonquin Hotel Times Square Autograph Collection",
+      "email": "askalgonquin@marriott.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1284",
+      "hotel": "Casablanca Hotel",
+      "email": "rooms@casablancahotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1285",
+      "hotel": "City Club Hotel",
+      "email": "frontdesk@cityclubhotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1286",
+      "hotel": "Broadway @ Times Square Hotel",
+      "email": "bats@applecorehotels.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1290",
+      "hotel": "Hard Rock Hotel New York",
+      "email": "info@hrhnewyork.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1293",
+      "hotel": "Millennium Hotel Broadway Times Square",
+      "email": "BroadwayInfo.US@MILLENNIUMHOTELS.COM",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1294",
+      "hotel": "Night Theater District",
+      "email": "reservations@nighthotelny.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1295",
+      "hotel": "Royalton New York",
+      "email": "Reservations@royalton-nyc.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1297",
+      "hotel": "The Chatwal",
+      "email": "reservations@thechatwalny.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1298",
+      "hotel": "The Muse New York",
+      "email": "talktous@themusehotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1299",
+      "hotel": "Hotel Riu Plaza Manhattan Times Square",
+      "email": "hotel.plazamanhattan@riu.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1300",
+      "hotel": "VOCO Times Square",
+      "email": "info@voconyc.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1301",
+      "hotel": "The Michelangelo New York",
+      "email": "reservations@michelangelohotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1308",
+      "hotel": "Hotel 57",
+      "email": "reservations@hotel57.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1311",
+      "hotel": "The Surrey",
+      "email": "info@thesurrey.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1315",
+      "hotel": "Imperial Court Hotel",
+      "email": "frontdesk@imperialcourthotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1317",
+      "hotel": "Jazz on the Park",
+      "email": "park@jazzhostels.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1323",
+      "hotel": "The Vine Hotel Bronx",
+      "email": "elranchoo37@gmail.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1327",
+      "hotel": "Hilton Garden Inn New York/Times Square Central",
+      "email": "NYCSS_GM@hilton.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1331",
+      "hotel": "M Social Hotel New York Downtown",
+      "email": "info@msocialnewyorkdowntown.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1333",
+      "hotel": "Wall Street Inn",
+      "email": "reservations@wsinn.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1334",
+      "hotel": "Radisson Hotel New York Wall Street",
+      "email": "rhi_wsny@radisson.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1338",
+      "hotel": "Hotel Mimosa",
+      "email": "contact@hotelmimosany.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1339",
+      "hotel": "Brooklyn Motor Inn",
+      "email": "info@brooklynmotorinn.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1340",
+      "hotel": "The Lodge Red Hook",
+      "email": "localguides@lodgeredhook.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1346",
+      "hotel": "New York Moore Hostel",
+      "email": "info@nymoorehostel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1347",
+      "hotel": "The Penny",
+      "email": "info@penny-hotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1348",
+      "hotel": "The Pod",
+      "email": "reservations@podhotelbk.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1351",
+      "hotel": "Arlo Williamsburg",
+      "email": "hellowilliamsburg@arlohotels.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1361",
+      "hotel": "Ramada Long Island City",
+      "email": "ramadaqueens.nyc@gmail.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1362",
+      "hotel": "Hilton Garden Inn Secaucus/Meadowlands",
+      "email": "EWRSC_GM@hilton.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1364",
+      "hotel": "LIC Manhattan View",
+      "email": "reserve@licmanhattanview.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1365",
+      "hotel": "LIC Hotel",
+      "email": "reservations@lichotelny.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1366",
+      "hotel": "Ravel Hotel",
+      "email": "delores.a@ravelmgmt.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1384",
+      "hotel": "Bryant Park Hotel",
+      "email": "SALES@BRYANTPARKHOTEL.COM",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1389",
+      "hotel": "Hotel Key",
+      "email": "hotelkey11354@gmail.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1406",
+      "hotel": "Radisson Hotel New Rochelle",
+      "email": "rhi_nrny@radisson.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1437",
+      "hotel": "Five Towns Inn",
+      "email": "reservations@fivetownsinn.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1438",
+      "hotel": "LUMA Hotel Times Square",
+      "email": "infonyc@lumahotels.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1442",
+      "hotel": "Holiday Inn Brooklyn Downtown",
+      "email": "info.HIBrooklyn@nyhotelmgmt.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1449",
+      "hotel": "EVEN Hotel",
+      "email": "evenbrooklyn-reservations@ihg.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1473",
+      "hotel": "avid Hotel",
+      "email": "gm@avidbrooklyn.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1487",
+      "hotel": "King Hotel",
+      "email": "NY646@NYCmail.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1491",
+      "hotel": "DoubleTree by Hilton Hotel Newark Airport",
+      "email": "EWRNA_DT_Hotel@hilton.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1495",
+      "hotel": "The Allen Hotel",
+      "email": "stay@theallenhotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1504",
+      "hotel": "Radio Hotel",
+      "email": "info@theradiohotel.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1516",
+      "hotel": "Hilton Garden Inn Austin Downtown",
+      "email": "AUSGI_GM@hilton.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1518",
+      "hotel": "Extended Stay America",
+      "email": "anw@extendedstay.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1520",
+      "hotel": "Hyatt Place Austin/Arboretum - Domain Area",
+      "email": "ausza-guest.services.hp.austin.arboretum@hyatt.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1530",
+      "hotel": "Embassy Suites by Hilton Austin Downtown South Congress",
+      "email": "auslk_gm@hilton.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1569",
+      "hotel": "Hyatt Centric Congress Avenue Austin",
+      "email": "AUSCT-RFP@hyatt.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1571",
+      "hotel": "Sonesta Select Austin North",
+      "email": "reservations@sonesta.com",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "usa-hotel-1573",
+      "hotel": "Country Inn & Suites",
+      "email": "cx_astn@countryinn.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1587",
+      "hotel": "Goodall Wooten House",
+      "email": "hello@hotelella.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1594",
+      "hotel": "DoubleTree Suites by Hilton Austin Downtown Capitol",
+      "email": "ausfl_dt@hilton.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1638",
+      "hotel": "The Westin Austin Downtown",
+      "email": "sales@westinaustindowntown.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1644",
+      "hotel": "Staybridge Suites Austin North - Parmer Lane",
+      "email": "waseem.khan@mkmlodging.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1681",
+      "hotel": "Hotel Van Zandt",
+      "email": "info@hotelvanzandt.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1684",
+      "hotel": "East Austin Hotel",
+      "email": "hello@eastaustinhotel.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1698",
+      "hotel": "Austin Southpark Hotel",
+      "email": "austinsouthparkhotel@gmail.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1703",
+      "hotel": "Tru by Hilton Austin Airport",
+      "email": "AUSBW_TRU@hilton.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1705",
+      "hotel": "Origin Hotel",
+      "email": "info@originhotelaustin.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1707",
+      "hotel": "Hotel Trinity",
+      "email": "sales@hoteltrinityatx.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1714",
+      "hotel": "Cambria Hotel Austin Downtown",
+      "email": "austincambriafd@pyramidglobal.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1727",
+      "hotel": "The Bungalows Hotel",
+      "email": "gm@texasbungalow.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1729",
+      "hotel": "Flora House Denver",
+      "email": "hello@florahousedenver.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1730",
+      "hotel": "The All Inn Hotel",
+      "email": "hello@theallinnhotel.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1733",
+      "hotel": "Hilton Denver City Center",
+      "email": "dency_gm@hilton.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1735",
+      "hotel": "Holiday Inn Express Denver Downtown by IHG",
+      "email": "reservations@hixdenver.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1743",
+      "hotel": "the Curtis Denver - a DoubleTree by Hilton Hotel",
+      "email": "info@thecurtis.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1752",
+      "hotel": "Renaissance Denver Hotel & Conference Center",
+      "email": "justin.budyak@renaissancehotels.com",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "usa-hotel-1758",
+      "hotel": "DoubleTree by Hilton Hotel Denver",
+      "email": "RLDV_DT_Hotel@hilton.com",
+      "date": "2026-09-23"
     }
   ]
 }
