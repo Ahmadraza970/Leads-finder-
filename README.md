@@ -33,10 +33,10 @@ The repository currently contains an operational USA hotel outreach pipeline wit
 - Hotel demo websites
 - Local, Termux, and automated workflow support
 These figures are operational snapshots and may change as the pipeline runs.
+## 📁 Repository Structure
 
-📁 Repository Structure
+```text
 hotelpipeline/
-│
 ├── .agents/
 │   └── skills/
 │       └── hotel-website-outreach/
@@ -79,6 +79,7 @@ hotelpipeline/
 ├── AGENTS.md
 ├── kilo.json
 └── README.md
+```
 🔍 Main Components
 usa_business_finder.py
 Discovers potential USA business and hotel prospects using search services.
