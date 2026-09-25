@@ -311,7 +311,7 @@ usa-hotel-309,AC Hotel Nashville Downtown,Nashville,+1 615-514-2500,nashcvc@visi
 usa-hotel-310,SpringHill Suites Nashville Downtown,Nashville,+1 615-514-2502,tyler.morgan@marriott.com,,sent,2026-09-10,No website / OTA dependent,
 usa-hotel-311,Classic Southern Mansion on Historic Music Row,Nashville,,,,invalid_no_email,2026-09-10,No website / OTA dependent,
 usa-hotel-312,Midtown Manhattan NYC Hotels,New York,+1 (212) 265-7400,frontdesk@hotelhendricksny.com,https://www.hotelhendricksny.com/contact-us,sent,2026-09-10,Found via Serper live search,
-usa-hotel-313,Boutique Hotel & Restaurant,Miami,+1 786 257 4500,reservations@cambean.com,https://www.majesticsouthbeach.com/,sent,2026-09-10,Found via Serper live search,
+usa-hotel-313,Boutique Hotel & Restaurant,Miami,+1 786 257 4500,reservations@cambean.com,https://www.majesticsouthbeach.com/,invalid_non_hotel,2026-09-10,Found via Serper live search,
 usa-hotel-314,The Rover Miami,Miami,,bookings@therovermiami.com,https://www.therovermiami.com/,sent,2026-09-10,Found via Serper live search,
 usa-hotel-315,Contact,Miami,+1 (305) 538-4900,info@theshepleyhotel.com,https://theshepleyhotel.com/contact/,sent,2026-09-10,Found via Serper live search,
 usa-hotel-316,Hotels in Miami South Beach,Miami,+1 305 604 1000,miamiconcierge@loewshotels.com,https://www.loewshotels.com/miami-beach,sent,2026-09-10,Found via Serper live search,
@@ -402,11 +402,11 @@ usa-hotel-400,Contact White House Napa – Boutique Hotel in Napa Valley,Napa,,i
 usa-hotel-401,"The Douglas | Boutique Hotel in Historic District, Savannah, GA",Savannah,,info@thedouglas.com,https://thedouglas.com/,sent,2026-09-15,Serper discovery,
 usa-hotel-402,Hotel Bardo Savannah | Your Ultimate Stay Experience,Savannah,,hello@staybardo.com,https://www.staybardo.com/,sent,2026-09-15,Serper discovery,
 usa-hotel-403,Contact our Luxury Savannah Hotel,Savannah,,.Locorini@perrylanehotel.com,https://www.perrylanehotel.com/contact-us,sent,2026-09-15,Serper discovery,
-usa-hotel-404,"Boutique Hotel, Restaurant — New Orleans, LA",New Orleans,,info@thechloenola.com,https://thechloenola.com/contact-us,sent,2026-09-15,Serper discovery,
+usa-hotel-404,"Boutique Hotel, Restaurant — New Orleans, LA",New Orleans,,info@thechloenola.com,https://thechloenola.com/contact-us,invalid_non_hotel,2026-09-15,Serper discovery,
 usa-hotel-405,Luxury Hotel French Quarter New Orleans,New Orleans,,.officer@fourseasons.com,https://www.fourseasons.com/neworleans/,sent,2026-09-15,Serper discovery,
 usa-hotel-406,Hotel De La Poste | Boutique Hotel New Orleans French Quarter,New Orleans,,frontdesk@hoteldelapostnola.com,https://hoteldelapostenola.com/,sent,2026-09-15,Serper discovery,
 usa-hotel-407,Contact - Hotel Maison Saint Charles,New Orleans,,reservations@stcharlesinn.com,https://www.maisonstcharles.com/contact-2/,sent,2026-09-15,Serper discovery,
-usa-hotel-408,Contact Us - The Saint Hotel New Orleans,New Orleans,,Darryl.hill@thesainthotelneworleans.com,https://thesaintnola.com/contact-us/,sent,2026-09-15,Serper discovery,
+usa-hotel-408,Contact Us - The Saint Hotel New Orleans,New Orleans,,Darryl.hill@thesainthotelneworleans.com,https://thesaintnola.com/contact-us/,invalid_non_hotel,2026-09-15,Serper discovery,
 usa-hotel-409,Contact | The Dauphine Orleans Hotel,New Orleans,,fddauphine@jcollectionhotels.com,https://www.dauphineorleans.com/contact/,sent,2026-09-15,Serper discovery,
 usa-hotel-410,Contact Us | Kimpton Hotel Fontenot,New Orleans,,,https://www.hotelfontenot.com/contact-us/,invalid_no_email,2026-09-15,Serper discovery,
 usa-hotel-411,Ocean Key Resort & Spa | Luxury Oceanfront Resort in Key West,Key West,,reservations@OceanKey.com,https://www.oceankey.com/,sent,2026-09-15,Serper discovery,
@@ -440,7 +440,7 @@ usa-hotel-438,Great new Boutique Hotel right on the Galveston Seawall!,Galveston
 usa-hotel-439,DoubleTree by Hilton Galveston Beach | HOTELS & MOTELS,Galveston,,EmailGLSDT_DT_Hotel@hilton.com,http://galvestonchamber.chambermaster.com/list/member/doubletree-by-hilton-galveston-beach-10643,invalid_non_hotel,2026-09-15,Serper discovery,
 usa-hotel-440,Hilton Galveston Island Resort Beach Hotel,Galveston,,EmailGLSGI_FO@hilton.com,https://www.hilton.com/en/hotels/glsgihf-hilton-galveston-island-resort/,invalid_non_hotel,2026-09-15,Serper discovery,
 usa-hotel-441,The Mansard House: Historic Boutique Hotel in Galveston TX,Galveston,,themansardhouse@gmail.com,https://themansardhouse.com/,sent,2026-09-15,Serper discovery,
-usa-hotel-442,Contact Us - The Oleander Hotel,Galveston,,Emailrootemily@gmail.com,https://www.theoleanderhotelgalveston.com/contact-us,sent,2026-09-15,Serper discovery,
+usa-hotel-442,Contact Us - The Oleander Hotel,Galveston,,Emailrootemily@gmail.com,https://www.theoleanderhotelgalveston.com/contact-us,invalid_non_hotel,2026-09-15,Serper discovery,
 usa-hotel-443,Contact Hotel del Coronado | A Legendary San Diego ...,Coronado,,dining@hoteldel.com,https://www.hoteldel.com/contact/,sent,2026-09-15,Serper discovery,
 usa-hotel-444,Hotel del Coronado | San Diego's Legendary Beach Resort,Coronado,,shorehouse@hoteldel.com,https://www.hoteldel.com/,sent,2026-09-15,Serper discovery,
 usa-hotel-445,"Hotel del Coronado, Curio Collection",Coronado,,SANQQ_hotel@hoteldel.com,https://www.travelweekly.com/Hotels/Coronado-CA/Hotel-Del-Coronado-Curio-Collection-p54563406,sent,2026-09-15,Serper discovery,
@@ -512,7 +512,7 @@ usa-hotel-510,Ojai Valley Inn | Official Site,Ojai,,,https://www.ojaivalleyinn.c
 usa-hotel-511,"Lavender Inn and Spa/Boutique Hotel/Ojai, CA/Contact ...",Ojai,,Innkeeper@LavenderInn.com,https://lavenderinn.com/contact-us/,sent,2026-09-15,Serper discovery,
 usa-hotel-512,Hotel El Roblar | Ojai Hotel & California Resort,Ojai,,,https://theroblar.com/,invalid_no_email,2026-09-15,Serper discovery,
 usa-hotel-513,The Blue Iguana Inn - Official Site - Boutique Hotel and Spa in ...,Ojai,,,https://www.blueiguanainn.com/,invalid_no_email,2026-09-15,Serper discovery,
-usa-hotel-514,Contact Us - Ojai Valley Hotel,Ojai,,innkeeper@iguanainnsofojai.com,https://www.emeraldiguana.com/contact-us.htm,sent,2026-09-15,Serper discovery,
+usa-hotel-514,Contact Us - Ojai Valley Hotel,Ojai,,innkeeper@iguanainnsofojai.com,https://www.emeraldiguana.com/contact-us.htm,invalid_non_hotel,2026-09-15,Serper discovery,
 usa-hotel-515,"Hotel El Roblar in Ojai, CA United States",Ojai,,,https://maps.apple.com/place?place-id=I921269EFC8F855A9,invalid_no_email,2026-09-15,Serper discovery,
 usa-hotel-516,'WE DO NOT NEED A NEW POSH BOUTIQUE HOTEL IN OJAI ...,Ojai,,,https://www.instagram.com/reel/DZu9OuqRa-U/,invalid_no_email,2026-09-15,Serper discovery,
 usa-hotel-517,Ojai Rancho Inn,Ojai,,,https://www.ojairanchoinn.com/,invalid_no_email,2026-09-15,Serper discovery,
@@ -825,7 +825,7 @@ usa-hotel-1789479925-14,North Austin Boutique Hotels at The Domain | Lone Star C
 usa-hotel-1789479925-15,Frequently Asked Questions | Archer Hotel Austin,Austin TX,,austin@archerhotel.com,https://archerhotel.com/austin/faq,sent,2026-09-15,Serper batch discovery (new key),
 usa-hotel-1789479925-16,"The LINE Hotels | Boutique Hotels In LA, DC & Austin",Austin TX,,,https://www.thelinehotel.com/,invalid_no_email,2026-09-15,Serper batch discovery (new key),
 usa-hotel-1789479925-17,"Omni Austin Hotel Downtown | Austin, Texas Hotels",Austin TX,,,https://www.omnihotels.com/hotels/austin-downtown,invalid_no_email,2026-09-15,Serper batch discovery (new key),
-usa-hotel-1789479930-18,Terms & Conditions,Napa CA,,help@innsight.com,https://www.napavalleyhotelandsuites.com/terms-conditions,sent,2026-09-15,Serper batch discovery (new key),
+usa-hotel-1789479930-18,Terms & Conditions,Napa CA,,help@innsight.com,https://www.napavalleyhotelandsuites.com/terms-conditions,invalid_non_hotel,2026-09-15,Serper batch discovery (new key),
 usa-hotel-1789479930-19,Candlelight Inn Napa Valley: Bed and Breakfast in Napa CA,Napa CA,,,https://candlelightinn.com/,invalid_no_email,2026-09-15,Serper batch discovery (new key),
 usa-hotel-1789479930-20,"Contact Elm House Inn | Napa, CA",Napa CA,,guestservices@elmhouseinn.com,https://www.elmhouseinn.com/contact-us,sent,2026-09-15,Serper batch discovery (new key),
 usa-hotel-1789479930-21,"The Inn On First | Top-Rated Hotel In Napa, CA",Napa CA,,innkeeper@theinnonfirst.com,https://www.theinnonfirst.com/,sent,2026-09-15,Serper batch discovery (new key),
@@ -1959,7 +1959,7 @@ usa-hotel-1789638507-77,"The 15 Best Hotels in Savannah, Georgia",Savannah GA,,,
 usa-hotel-1789638509-78,Stilwell Hotel - Carmel-By-The-Sea Boutique ...,Carmel CA,,stay@stilwellcarmel.com,https://www.larkhotels.com/california/carmel-by-the-sea/stilwell-hotel,sent,2026-09-17,Serper batch discovery (key1),2026-09-25 12:10
 usa-hotel-1789638509-79,Hotel Carmel | Hotels in Santa Monica CA | Official Site,Carmel CA,,reservations@hotelcarmel.com,https://www.hotelcarmel.com/,sent,2026-09-17,Serper batch discovery (key1),2026-09-25 12:10
 usa-hotel-1789638509-80,Villa Mara Carmel: Carmel-By-The-Sea Luxury Boutique Hotel,Carmel CA,+1 831-624-6433,info@villamaracarmel.com,https://villamaracarmel.com/,sent,2026-09-17,Serper batch discovery (key1),2026-09-25 12:11
-usa-hotel-1789638509-81,"Cypress Inn, Carmel by the Sea Hotel | Terry's Restaurant+ ...",Carmel CA,,terrys@cypress-inn.com,https://cypress-inn.com/,sent,2026-09-17,Serper batch discovery (key1),2026-09-25 12:15
+usa-hotel-1789638509-81,"Cypress Inn, Carmel by the Sea Hotel | Terry's Restaurant+ ...",Carmel CA,,terrys@cypress-inn.com,https://cypress-inn.com/,invalid_non_hotel,2026-09-17,Serper batch discovery (key1),2026-09-25 12:15
 usa-hotel-1789638542-0,Contact - Hideaway Santa Barbara,Santa Barbara CA,,stay@hideawaysantabarbara.com,https://www.kirkwoodcollection.com/hideaway/contact/,sent,2026-09-17,Serper batch 2 (key1),2026-09-25 12:15
 usa-hotel-1789638542-1,Inn by the Harbor,Santa Barbara CA,,,https://www.sbhotels.com/inn-by-the-harbor,invalid_no_email,2026-09-17,Serper batch 2 (key1),
 usa-hotel-1789638542-2,Contact Hotel In Santa Barbara,Santa Barbara CA,,info@laplayainn.com,https://www.laplayainn.com/contact-us,sent,2026-09-17,Serper batch 2 (key1),2026-09-25 12:15
@@ -2036,9 +2036,9 @@ usa-hotel-web-2033,Top 10 Places to Stay in Downtown Napa,Napa CA,(707) 687-1234
 usa-hotel-web-2034,"Archer Hotel – Napa, CA",Napa CA,(707) 690-9800,,https://napavalley.com/businesses/42587/archer-hotel,invalid_no_email,2026-09-17,Web search discovery,
 usa-hotel-web-2035,"Archer Hotel Napa in Napa, CA – Reviews, Hours, and Contact Details",Napa CA,(707) 690-9800,,https://local.yahoo.com/info-202862559-archer-hotel-napa-napa,invalid_no_email,2026-09-17,Web search discovery,
 usa-hotel-web-2036,Contact Us | Hotel Glorieta,Santa Fe NM,(505) 992-5800,reservations@hotelglorietasantafe.com,https://www.hotelglorietasantafe.com/contact-us,sent,2026-09-17,Web search discovery,2026-09-25 12:17
-usa-hotel-web-2037,Contact Us - La Fonda on the Plaza,Santa Fe NM,505-982-5511,manager@lafondasantafe.com,https://lafondasantafe.com/contact/,sent,2026-09-17,Web search discovery,2026-09-25 12:17
+usa-hotel-web-2037,Contact Us - La Fonda on the Plaza,Santa Fe NM,505-982-5511,manager@lafondasantafe.com,https://lafondasantafe.com/contact/,invalid_non_hotel,2026-09-17,Web search discovery,2026-09-25 12:17
 usa-hotel-web-2038,Downtown Santa Fe Boutique Hotel | Hotel Glorieta,Santa Fe NM,505-992-5800,reservations@hotelglorietasantafe.com,https://www.hotelglorietasantafe.com/,sent,2026-09-17,Web search discovery,2026-09-25 12:17
-usa-hotel-web-2039,"Contact Information for Vanessie - Vanessie, New Mexico - Hotel, Restaurant and Lounge",Santa Fe NM,505-984-1193,info@vanessiesantafe.com,https://vanessiesantafe.com/contact-us.html,sent,2026-09-17,Web search discovery,2026-09-25 12:22
+usa-hotel-web-2039,"Contact Information for Vanessie - Vanessie, New Mexico - Hotel, Restaurant and Lounge",Santa Fe NM,505-984-1193,info@vanessiesantafe.com,https://vanessiesantafe.com/contact-us.html,invalid_non_hotel,2026-09-17,Web search discovery,2026-09-25 12:22
 usa-hotel-web-2040,Santa Fe Hotel Reservations | Inn at Santa Fe,Santa Fe NM,505-474-9500,res@innatsf.com,https://www.innatsf.com/contact-us,sent,2026-09-17,Web search discovery,2026-09-25 12:22
 usa-hotel-web-2041,5-Star Hotel & Resort in Santa Fe | The Inn of the Five Graces #1 Hotel in Santa Fe | Travel + Leisu,Santa Fe NM,1505992095,GuestServices@FiveGraces.com,https://fivegraces.com/,sent,2026-09-17,Web search discovery,2026-09-25 12:22
 usa-hotel-web-2042,Our Key West Location | Steps from Duval Street,Key West FL,(305) 292-0011,frontdeak@thekeywesthotel.com,https://www.thekeywesthotel.com/location,sent,2026-09-17,Web search discovery,2026-09-25 12:22
@@ -2046,7 +2046,7 @@ usa-hotel-web-2043,The Key West Hotel | Fully Renovated Boutique Stay on Duval S
 usa-hotel-web-2044,Contact Us | Key West Oceanfront Hotel | Beachside Resort,Key West FL,305-330-5681,beachside@brightwild.com,https://beachsidekeywest.com/contact-us,sent,2026-09-17,Web search discovery,2026-09-25 12:22
 usa-hotel-web-2045,Key West Hotel Contact | Parrot Key Hotel & Villas,Key West FL,888-665-6368,info@parrotkeyhotel.com,https://www.parrotkeyhotel.com/contact,sent,2026-09-17,Web search discovery,2026-09-25 12:22
 usa-hotel-web-2046,Contact | The Marker Key West Resort,Key West FL,(305) 501-5193,info@markerkeywest.com,https://www.themarkerkeywest.com/contact,sent,2026-09-17,Web search discovery,2026-09-25 12:22
-usa-hotel-web-2047,Contact – Bishop Hotel,Key West FL,(305) 294-7775,info@bishopkeywest.com,https://bishopkeywest.com/contact,sent,2026-09-17,Web search discovery,2026-09-25 12:22
+usa-hotel-web-2047,Contact – Bishop Hotel,Key West FL,(305) 294-7775,info@bishopkeywest.com,https://bishopkeywest.com/contact,invalid_non_hotel,2026-09-17,Web search discovery,2026-09-25 12:22
 usa-hotel-web-2048,Contact Ocean Key Resort a Key West waterfront hotel,Key West FL,,,https://www.oceankey.com/contact-us,invalid_no_email,2026-09-17,Web search discovery,
 usa-hotel-web-2049,Key West and the Lower Keys Hotel/Motels/Resorts,Key West FL,(305) 320-0920,,https://memberportal.keywestchamber.org/HotelMotelsResorts,invalid_no_email,2026-09-17,Web search discovery,
 usa-hotel-web-2050,Melissa Royston and Bryan Powell's Wedding Website,Boulder CO,(303) 440-8877,,https://zola.com/wedding/melissaandbryan2026/travel,invalid_no_email,2026-09-17,Web search discovery,
@@ -2063,32 +2063,32 @@ usa-hotel-web-2060,Carmel Boutique Hotel | Contact Lamp Lighter Inn | Carmel Bed
 usa-hotel-web-2061,Contact - Carmel Inn and Suites,Carmel CA,(831) 624-1900,contactus@carmelinnandsuites.com,https://carmelinnandsuites.com/contact/,sent,2026-09-17,Web search discovery,2026-09-25 12:23
 usa-hotel-web2-2062,Contact information - Boutique Charleston,Charleston SC,,info@boutique-charleston.com,https://boutique-charleston.com/policies/contact-information,sent,2026-09-17,Web search discovery v2,2026-09-25 12:23
 usa-hotel-web2-2063,Contact - – Boutique Charleston,Charleston SC,818 230 4115,info@boutique-charleston.com,https://boutique-charleston.com/pages/contact,sent,2026-09-17,Web search discovery v2,2026-09-24 14:30
-usa-hotel-web2-2064,Contact Charming Inn's | Boutique Charleston SC Hotels,Charleston SC,(843) 722-8680,info@charminginns.com,https://charminginns.com/contact,verified_valid,2026-09-17,Web search discovery v2,
+usa-hotel-web2-2064,Contact Charming Inn's | Boutique Charleston SC Hotels,Charleston SC,(843) 722-8680,info@charminginns.com,https://charminginns.com/contact,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
 usa-hotel-web2-2065,The Boutique Charleston contact information and customer service policies,Charleston SC,(843) 722-1441,,https://theboutique.myshoplocal.com/info.cfm,invalid_no_email,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2066,"The Ansonborough | Boutique Hotel in Charleston, SC",Charleston SC,,info@theansonborough.com,https://www.theansonborough.com/,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2067,The Dewberry | Charleston SC Hotels | Official Site,Charleston SC,843 558 8000,reservations@dewberryhotels.com,http://thedewberrycharleston.com/,verified_valid,2026-09-17,Web search discovery v2,
+usa-hotel-web2-2066,"The Ansonborough | Boutique Hotel in Charleston, SC",Charleston SC,,info@theansonborough.com,https://www.theansonborough.com/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
+usa-hotel-web2-2067,The Dewberry | Charleston SC Hotels | Official Site,Charleston SC,843 558 8000,reservations@dewberryhotels.com,http://thedewberrycharleston.com/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
 usa-hotel-web2-2068,"Get In Touch - The Ashley Bed and Breakfast in Charleston, SC",Charleston SC,833-623-7826,,https://theashleychs.com/contact,invalid_no_email,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2069,Contact Us | The Dewberry Charleston,Charleston SC,888-550-1450,reservations@dewberryhotels.com,https://www.thedewberrycharleston.com/contact,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2070,"Contact The Vendue Hotel in Charleston, SC",Charleston SC,888-528-0725,info@thevendue.com,https://www.thevendue.com/contact,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2071,WindsorAsheville,Asheville NC,844 494 6376,info@WindsorAsheville.com,https://windsorasheville.com/304,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2072,Privacy Policy | Foundry Hotel,Asheville NC,(828) 552-8545,greetings@foundryasheville.com,https://foundryasheville.com/privacy-policy,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2073,"Windsor Boutique Hotel - Asheville, United States of America",Asheville NC,844-494-6376,info@windsorasheville.com,https://hotels.cloudbeds.com/reservation/qmV7s4,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2074,Danielle Musselwhite and Jarrett Horne's Wedding Website,Asheville NC,,dpmusselwhite@gmail.com,https://zola.com/wedding/danielle-jarrett/travel,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2075,Places to stay around Asheville,Asheville NC,(828) 232-2838,info@lazytigerhostel.com,https://ashevillecommunityyoga.org/general/places-to-stay-around-asheville,verified_valid,2026-09-17,Web search discovery v2,
+usa-hotel-web2-2069,Contact Us | The Dewberry Charleston,Charleston SC,888-550-1450,reservations@dewberryhotels.com,https://www.thedewberrycharleston.com/contact,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
+usa-hotel-web2-2070,"Contact The Vendue Hotel in Charleston, SC",Charleston SC,888-528-0725,info@thevendue.com,https://www.thevendue.com/contact,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
+usa-hotel-web2-2071,WindsorAsheville,Asheville NC,844 494 6376,info@WindsorAsheville.com,https://windsorasheville.com/304,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
+usa-hotel-web2-2072,Privacy Policy | Foundry Hotel,Asheville NC,(828) 552-8545,greetings@foundryasheville.com,https://foundryasheville.com/privacy-policy,invalid_non_hotel,2026-09-17,Web search discovery v2,2026-09-25 13:53
+usa-hotel-web2-2073,"Windsor Boutique Hotel - Asheville, United States of America",Asheville NC,844-494-6376,info@windsorasheville.com,https://hotels.cloudbeds.com/reservation/qmV7s4,sent,2026-09-17,Web search discovery v2,2026-09-25 13:53
+usa-hotel-web2-2074,Danielle Musselwhite and Jarrett Horne's Wedding Website,Asheville NC,,dpmusselwhite@gmail.com,https://zola.com/wedding/danielle-jarrett/travel,invalid_non_hotel,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2075,Places to stay around Asheville,Asheville NC,(828) 232-2838,info@lazytigerhostel.com,https://ashevillecommunityyoga.org/general/places-to-stay-around-asheville,invalid_non_hotel,2026-09-17,Web search discovery v2,2026-09-25 13:54
 usa-hotel-web2-2076,Contact Our Team,Asheville NC,828-252-8211,,https://renaissanceasheville.com/contact-us/contact-team,invalid_no_email,2026-09-17,Web search discovery v2,
 usa-hotel-web2-2077,Holiday Asheville Tourism Hollywood,Asheville NC,8282522711,,https://tourismhollywood.com/travel/asheville/nc,invalid_no_email,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2078,Contact White House Napa â Boutique Hotel in Napa Valley,Napa CA,(707) 254-9301,info@whitehousenapa.com,https://whitehousenapa.com/contact/,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2079,Reserve your stay,Napa CA,(707) 224-3739,info@1801first.com,https://1801first.com/contact,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2080,"The Charles Napa Valley | Top-Rated Bed and Breakfast in Downtown Napa, California",Napa CA,707-727-7979,info@thecharlesnapavalley.com,https://www.thecharlesnapavalley.com/,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2081,"The Inn On First | Top-Rated Hotel In  Napa, CA",Napa CA,(707)-253-1331,innkeeper@theinnonfirst.com,https://www.theinnonfirst.com/,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2082,Contact Us | Napa Valley Hotel & Suites,Napa CA,(707) 226-1871,info@napavalleyhotelandsuites.com,https://www.napavalleyhotelandsuites.com/contact-us,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2083,"Contact Us at our Napa, CA Hotel | Inn on Randolph",Napa CA,(707) 257-2886,reservations@innonrandolph.com,https://www.innonrandolph.com/contact-us,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2084,Contact - Senza Hotel,Napa CA,,contactus@senzahotel.com,https://senzahotel.com/contact/,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2085,Home - Santa Fe Motel & Inn - Santa Fe NM,Santa Fe NM,(800) 930-5002,info@santafemotel.com,https://santafemotel.com/,verified_valid,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2086,Hotel Santa Fe,Santa Fe NM,(505) 982-1200,stay@hotelsantafe.com,https://www.santafe.org/listing/hotel-santa-fe/48,verified_valid,2026-09-17,Web search discovery v2,
+usa-hotel-web2-2078,Contact White House Napa â Boutique Hotel in Napa Valley,Napa CA,(707) 254-9301,info@whitehousenapa.com,https://whitehousenapa.com/contact/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2079,Reserve your stay,Napa CA,(707) 224-3739,info@1801first.com,https://1801first.com/contact,invalid_non_hotel,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2080,"The Charles Napa Valley | Top-Rated Bed and Breakfast in Downtown Napa, California",Napa CA,707-727-7979,info@thecharlesnapavalley.com,https://www.thecharlesnapavalley.com/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2081,"The Inn On First | Top-Rated Hotel In  Napa, CA",Napa CA,(707)-253-1331,innkeeper@theinnonfirst.com,https://www.theinnonfirst.com/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2082,Contact Us | Napa Valley Hotel & Suites,Napa CA,(707) 226-1871,info@napavalleyhotelandsuites.com,https://www.napavalleyhotelandsuites.com/contact-us,sent,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2083,"Contact Us at our Napa, CA Hotel | Inn on Randolph",Napa CA,(707) 257-2886,reservations@innonrandolph.com,https://www.innonrandolph.com/contact-us,sent,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2084,Contact - Senza Hotel,Napa CA,,contactus@senzahotel.com,https://senzahotel.com/contact/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:54
+usa-hotel-web2-2085,Home - Santa Fe Motel & Inn - Santa Fe NM,Santa Fe NM,(800) 930-5002,info@santafemotel.com,https://santafemotel.com/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:55
+usa-hotel-web2-2086,Hotel Santa Fe,Santa Fe NM,(505) 982-1200,stay@hotelsantafe.com,https://www.santafe.org/listing/hotel-santa-fe/48,sent,2026-09-17,Web search discovery v2,2026-09-25 13:55
 usa-hotel-web2-2087,Downtown Santa Fe Hotel | Contact | La Posada de Santa Fe,Santa Fe NM,505-986-0000,,https://www.laposadadesantafe.com/contact-us,invalid_no_email,2026-09-17,Web search discovery v2,
 usa-hotel-web2-2088,Santa Fe Downtown Hotels | Contact Us | Hotel Santa Fe,Santa Fe NM,(855) 825-9876,,http://hotelsantafe.com/contact,invalid_no_email,2026-09-17,Web search discovery v2,
-usa-hotel-web2-2089,La Dea - Santa Fe,Santa Fe NM,(505) 578-4888,ladeasantafe@gmail.com,https://www.ladeasantafe.com/,verified_valid,2026-09-17,Web search discovery v2,
+usa-hotel-web2-2089,La Dea - Santa Fe,Santa Fe NM,(505) 578-4888,ladeasantafe@gmail.com,https://www.ladeasantafe.com/,sent,2026-09-17,Web search discovery v2,2026-09-25 13:55
 usa-hotel-web2-2090,Hotels Downtown Santa Fe NM | Contact Us | The Sage Hotel,Santa Fe NM,505-982-5952,res@thesagesf.com,https://www.thesagesf.com/contact-us,verified_valid,2026-09-17,Web search discovery v2,
 usa-hotel-web2-2091,Hotel Flora Santa Fe | Official Site,Santa Fe NM,,info@hotelflorasantafe.com,https://www.hotelflorasantafe.com/,verified_valid,2026-09-17,Web search discovery v2,
 usa-hotel-web2-2092,Contact V Palm Springs | Boutique Hotel in Palm Springs — V Palm Springs,Palm Springs CA,760-278-3424,reservations@vpalmsprings.com,https://www.vpalmsprings.com/contact,verified_valid,2026-09-17,Web search discovery v2,
