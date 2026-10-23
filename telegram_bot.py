@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 Telegram Bot for Hotel Pipeline — standalone, runs alongside Hermes gateway.
-Token: 8614803868:AAHYDLM63tYKGp668UQbCU8lKXDwLHcuHfg
+Token: [REMOVED - set TELEGRAM_BOT_TOKEN env var]
 Chat: 6554462815
 """
 import os, json, csv, subprocess, urllib.request
 from datetime import datetime
 
-TOKEN = "8614803868:AAHYDLM63tYKGp668UQbCU8lKXDwLHcuHfg"
+TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = "6554462815"
 HERMES_DIR = "C:/Users/AHMAD RAJA/Desktop/hermes"
 CSV_PATH = os.path.join(HERMES_DIR, "usa_hotel_leads.csv")

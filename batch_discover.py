@@ -1,7 +1,7 @@
 import json, urllib.request, csv, os, time, re
 from datetime import datetime
 
-SERPER_KEY = "15a5d39e5a590b71065a97207ea026d1fe39d232"
+SERPER_KEY = os.environ.get("SERPER_API_KEY", "")
 CSV_PATH = "C:/Users/AHMAD RAJA/Desktop/hermes/usa_hotel_leads.csv"
 
 with open(CSV_PATH) as f:
@@ -44,7 +44,7 @@ for city in cities:
         try:
             url = "https://google.serper.dev/search"
             payload = json.dumps({"q": query, "num": 8}).encode()
-            req = urllib.request.Request(url, data=payload, headers={"X-API-KEY": "15a5d39e5a590b71065a97207ea026d1fe39d232", "Content-Type": "application/json"})
+            req = urllib.request.Request(url, data=payload, headers={"X-API-KEY": SERPER_KEY, "Content-Type": "application/json"})
             with urllib.request.urlopen(req, timeout=15) as resp:
                 result = json.loads(resp.read().decode())
             

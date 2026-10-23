@@ -3,7 +3,7 @@ from datetime import datetime
 HERMES_DIR = os.environ.get("HERMES_DIR", os.path.expanduser("~"))
 CSV = os.path.join(HERMES_DIR, "indian_hotel_leads.csv")
 SENT_LOG = os.path.join(HERMES_DIR, "sent_log_goa_pune.json")
-SERPER_KEY = os.environ.get("SERPER_KEY", "d0f391c08934a027ae79ef736de987af6a16de36")
+SERPER_KEY = os.environ.get("SERPER_API_KEY", "")
 GOOGLE_TOKEN = os.path.join(HERMES_DIR, "google_token.json")
 def log(m): print(f"[{datetime.now().strftime('%H:%M:%S')}] {m}", flush=True)
 def s_search(q):

@@ -14,7 +14,7 @@ SENT_LOG = os.path.join(HERMES_DIR, "sent_log_usa_hotels.json")
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_ADDRESS = "mithsjames87@gmail.com"
-EMAIL_PASSWORD = "dyqa yvty bopb nvzk"
+EMAIL_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
 def send_batch(limit=20):
     sent_data = {"sent": []}
