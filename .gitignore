@@ -1,9 +1,33 @@
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+
+# Secrets — NEVER commit real credentials to this public repo.
+# Use the *.example.json templates and environment variables / GitHub Secrets.
+.env
+.env.*
+!.env.example
 client_secret*.json
 google_token.json
 oauth_flow.pkl
+.agents/skills/hotel-website-outreach/data/config.json
+.agents/skills/hotel-website-outreach/data/serper_config.json
+
+# Operational logs and send-records stay local
 *.log
-nul
+sent_log_*.json
+
+# Generated spreadsheets (CSVs are the source of truth)
+*.xlsx
+
+# Import drop-files stay local
 identified_leads_*.csv
-.env
+
+# OS noise
+.DS_Store
+nul
+
+# NOTE: outputs/ is intentionally tracked — the Daily Lead Digest
+# workflow commits its results there.
