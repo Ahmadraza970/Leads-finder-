@@ -1,0 +1,55 @@
+name: Daily Lead Digest
+
+# Research only: discovers, de-duplicates and scores hotel leads, then
+# commits a digest back to the repo. It NEVER sends email or messages —
+# outreach is drafted for Ahmad's approval and sent manually.
+
+"on":
+  schedule:
+    - cron: "15 3 * * *" # 08:45 IST daily
+  workflow_dispatch:
+    inputs:
+      discover:
+        description: "Also run Serper discovery (needs the SERPER_API_KEY secret)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-lead-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    name: Build lead digest
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build digest
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          DISCOVER: ${{ inputs.discover }}
+        run: python pipeline/daily_lead_digest.py
+
+      - name: Commit digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/
+          if git diff --staged --quiet; then
+            echo "No changes — digest already up to date."
+            exit 0
+          fi
+          git commit -m "data: daily lead digest $(date -u +%Y-%m-%d)"
+          git push
