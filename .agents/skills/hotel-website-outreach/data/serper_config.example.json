@@ -1,0 +1,1 @@
+{"_comment":"TEMPLATE ONLY. Set the SERPER_API_KEY environment variable (locally) or the SERPER_API_KEY GitHub Secret (for the Daily Lead Digest workflow) instead of putting a key in this file. Any Serper key that was ever committed here is exposed in git history and MUST be rotated.","provider":"serper","serper_api_key":""}
