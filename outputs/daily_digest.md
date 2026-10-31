@@ -1,9 +1,9 @@
-# Daily Lead Digest — 2026-10-30
+# Daily Lead Digest — 2026-10-31
 
 Discovery and scoring only. **No outreach is sent by this pipeline** — leads here are research for human-reviewed, manually sent messages.
 
 - Master list: **1994** unique businesses (de-duplicated)
-- New since last digest: **1994** (incl. 0 via Serper today)
+- New since last digest: **0** (incl. 0 via Serper today)
 - Not yet contacted: **1480**
 - Score bands: A (75+) **67** · B (55+) **1316** · C (35+) **611** · D **0**
 
@@ -26,23 +26,5 @@ Discovery and scoring only. **No outreach is sent by this pipeline** — leads h
 | 13 | Contact Us for Your Stay at Hotel Granada | Atlanta Georgia | **79** | independent lodging business; no website found; email on file, marked verified | info@granadaatlanta.com |
 | 14 | Denver Hotels Email List — 47 Verified Contacts | Denver Colorado | **79** | independent lodging business; no website found; email on file, marked verified | reservations@limelighthotels.com |
 | 15 | Experience luxurious boutique hotel accommodations | Albuquerque New Mexico | **79** | independent lodging business; no website found; email on file, marked verified | info@lospoblanos.com |
-
-## Newly added
-
-- **A12 Suites** (Louisville Kentucky) — score 79, source: usa_hotel_leads.csv
-- **About – boutiquehotels** (San Diego California) — score 79, source: usa_hotel_leads.csv
-- **Allied Supplier: Hotels** (Kansas City Missouri) — score 79, source: usa_hotel_leads.csv
-- **Best Hotels in Kansas City** (Kansas City Missouri) — score 79, source: usa_hotel_leads.csv
-- **Bottleworks Hotel** (Indianapolis Indiana) — score 79, source: usa_hotel_leads.csv
-- **Boutique Hotel** (New Orleans Louisiana) — score 79, source: usa_hotel_leads.csv
-- **Boutique Hotel Louisville KY** (Louisville Kentucky) — score 79, source: usa_hotel_leads.csv
-- **Boutique Hotels in Chicago** (Chicago Illinois) — score 79, source: usa_hotel_leads.csv
-- **Boutique Hotels Louisville KY** (Louisville Kentucky) — score 79, source: usa_hotel_leads.csv
-- **Contact Garden District Hotel** (New Orleans Louisiana) — score 79, source: usa_hotel_leads.csv
-- **Contact Our Boutique Chicago Hotel Today** (Chicago Illinois) — score 79, source: usa_hotel_leads.csv
-- **Contact Our Hotel in Downtown Chicago IL** (Chicago Illinois) — score 79, source: usa_hotel_leads.csv
-- **Contact Us for Your Stay at Hotel Granada** (Atlanta Georgia) — score 79, source: usa_hotel_leads.csv
-- **Denver Hotels Email List — 47 Verified Contacts** (Denver Colorado) — score 79, source: usa_hotel_leads.csv
-- **Experience luxurious boutique hotel accommodations** (Albuquerque New Mexico) — score 79, source: usa_hotel_leads.csv
 
 _Full scored list: `outputs/leads_master.csv`. Scores are heuristics from repo data — anything marked unverified must be checked by a human before use._
