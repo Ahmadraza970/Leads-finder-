@@ -1,6 +1,6 @@
 # Leads Finder — Ahmad Digital Studio
 
-Lead research system for [Ahmad Digital Studio](https://ahmadstudio.onrender.com):
+Lead research system for [Ahmad Digital Studio](https://ahmadrazaa.me):
 it finds independent hotels, motels, inns and B&Bs in the US, UK, Canada and India,
 checks what state their web presence is in, and scores each lead so outreach time
 goes to the businesses most likely to need a direct-booking website.
