@@ -77,11 +77,6 @@ Config templates live in `.agents/skills/hotel-website-outreach/data/` as
 `serper_config.json` locally if a script needs the file form — both names are
 git-ignored.
 
-## Security notice
+## Security
 
-This is a **public** repository. Real credentials were committed here in the past
-(an SMTP password in `data/config.json` and a Serper API key). The files have been
-removed and replaced with templates, and the workflow now uses GitHub Secrets —
-**but the old values remain in git history and must be treated as compromised:
-rotate the Gmail App Password and the Serper key.** Do not try to "fix" history by
-force-pushing without a plan; rotation is the real fix.
+Credentials are never committed to this repository. All keys live in GitHub Secrets or local environment variables; only `.example` templates are tracked.
