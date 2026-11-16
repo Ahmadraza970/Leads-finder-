@@ -1,4 +1,4 @@
-# Daily Lead Digest — 2026-11-15
+# Daily Lead Digest — 2026-11-16
 
 Discovery and scoring only. **No outreach is sent by this pipeline** — leads here are research for human-reviewed, manually sent messages.
 
