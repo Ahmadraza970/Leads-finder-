@@ -17,8 +17,12 @@ and stopped immediately if a business declines. If a script here ever appears to
 
 ## What runs every day
 
-The **Daily Lead Digest** workflow (`.github/workflows/daily-lead-digest.yml`) runs at
-08:45 IST and on demand from the Actions tab:
+The **Daily Lead Digest** workflow (`.github/workflows/daily-lead-digest.yml`) is scheduled
+for 08:45 IST (cron `15 3 * * *`) and can also run on demand from the Actions tab. In
+practice GitHub's scheduler starts it several hours late — over the last 10 scheduled
+runs (6–15 Nov 2026) it started between 15:41 and 17:03 IST, and finished within seconds
+once started — so the digest is ready by the evening, and the morning outreach batch
+works from the previous day's digest:
 
 1. Reads the lead CSVs in this repo and merges them into one master list.
 2. De-duplicates by website domain → email → name + city.
